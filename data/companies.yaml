@@ -1,0 +1,35 @@
+# Employers the radar watches. One entry per job board.
+#   system  greenhouse | lever | ashby | workable | workday | amazon
+#   slug    the employer's id on that system (for Workday, the tenant)
+#   host    Workday only: wd1, wd3, wd5 ...
+#   site    Workday only: the career site name inside the tenant
+# Add an employer by adding an entry; `python -m radar.discover --check` confirms it answers.
+
+boards:
+  - {system: amazon, slug: amazon, name: Amazon, home: "https://www.amazon.jobs/en/locations/dubai-uae"}
+  - {system: greenhouse, slug: tamara, name: Tamara, home: "https://job-boards.greenhouse.io/tamara"}
+  - {system: greenhouse, slug: careem, name: Careem, home: "https://www.careem.com/en-AE/careers/"}
+  - {system: greenhouse, slug: bybit, name: Bybit}
+  - {system: greenhouse, slug: okx, name: OKX}
+  - {system: greenhouse, slug: databricks, name: Databricks}
+  - {system: greenhouse, slug: mongodb, name: MongoDB}
+  - {system: greenhouse, slug: elastic, name: Elastic}
+  - {system: greenhouse, slug: gitlab, name: GitLab}
+  - {system: greenhouse, slug: scaleai, name: Scale AI}
+  - {system: greenhouse, slug: celonis, name: Celonis}
+  - {system: lever, slug: ifm-us, name: Institute of Foundation Models (MBZUAI)}
+  - {system: lever, slug: contentsquare, name: Contentsquare}
+  - {system: ashby, slug: ziina, name: Ziina}
+  - {system: ashby, slug: cohere, name: Cohere}
+  - {system: ashby, slug: openai, name: OpenAI}
+  - {system: ashby, slug: leantech, name: Lean Technologies}
+  - {system: ashby, slug: uipath, name: UiPath}
+  - {system: workable, slug: bayutdubizzle, name: Bayut & dubizzle}
+  - {system: workable, slug: foodics, name: Foodics}
+  - {system: workday, slug: mastercard, host: wd1, site: CorporateCareers, name: Mastercard}
+  - {system: workday, slug: visa, host: wd5, site: Visa, name: Visa}
+
+not_covered:
+  - {name: talabat (Delivery Hero), reason: "Its career system asks automated readers to stay away, so it is not read."}
+  - {name: Masdar, reason: "Its career system asks automated readers to stay away, so it is not read."}
+  - {name: Namshi, reason: "Its career system asks automated readers to stay away, so it is not read."}

@@ -1,0 +1,205 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4996993101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4521624101,
+   "location": {
+    "name": "Riyadh Saudi Arabia, Dubai United Arab Emirates "
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Talent Programs",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4996993101,
+   "updated_at": "2026-10-12T12:28:15-04:00",
+   "requisition_id": "2085",
+   "title": "Tamara Internship Program ",
+   "company_name": "Tamara",
+   "first_published": "2026-10-04T23:20:00-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4969403101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4519477101,
+   "location": {
+    "name": "Dubai, United Arab Emirates"
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Finance",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4969403101,
+   "updated_at": "2026-10-25T09:20:31-04:00",
+   "requisition_id": "2064",
+   "title": "Accountant",
+   "company_name": "Tamara",
+   "first_published": "2026-09-09T04:48:17-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849504101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4461328101,
+   "location": {
+    "name": "Dubai, United Arab Emirates"
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Risk, Compliance & Audit",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4849504101,
+   "updated_at": "2026-10-12T12:27:49-04:00",
+   "requisition_id": "1797",
+   "title": "AML Transaction Monitoring Ops - Builders Program - (Emirati National)",
+   "company_name": "Tamara",
+   "first_published": "2026-04-27T05:36:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849511101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4461333101,
+   "location": {
+    "name": "Dubai, United Arab Emirates"
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Finance",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4849511101,
+   "updated_at": "2026-10-12T12:27:49-04:00",
+   "requisition_id": "1800",
+   "title": "Associate Accountant - Builders Program - (Emirati National)",
+   "company_name": "Tamara",
+   "first_published": "2026-04-27T05:38:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849506101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4461330101,
+   "location": {
+    "name": "Dubai, United Arab Emirates"
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Data",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4849506101,
+   "updated_at": "2026-10-12T12:27:49-04:00",
+   "requisition_id": "1798",
+   "title": "Associate Data Scientist - Builders Program - (Emirati National)",
+   "company_name": "Tamara",
+   "first_published": "2026-04-27T05:39:41-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4975371101",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4522043101,
+   "location": {
+    "name": "Dubai, United Arab Emirates"
+   },
+   "metadata": [
+    {
+     "id": 15763658101,
+     "name": "Website Mapping",
+     "value": "Finance",
+     "value_type": "single_select"
+    }
+   ],
+   "id": 4975371101,
+   "updated_at": "2026-10-12T12:27:49-04:00",
+   "requisition_id": "2091",
+   "title": " Financial Reporting specialist",
+   "company_name": "Tamara",
+   "first_published": "2026-09-27T05:15:24-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 6
+ }
+}

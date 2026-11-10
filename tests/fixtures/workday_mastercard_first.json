@@ -1,0 +1,33 @@
+{
+ "total": 916,
+ "jobPostings": [
+  {
+   "title": "Vice President, Account Management - Global Financial Institutions",
+   "externalPath": "/job/Wanchai-Hong-Kong/Vice-President--Account-Management_R-290630",
+   "locationsText": "Wanchai, Hong Kong",
+   "postedOn": "Posted Today",
+   "bulletFields": [
+    "R-290630"
+   ]
+  }
+ ],
+ "facets": [
+  {
+   "facetParameter": "locationMainGroup",
+   "values": [
+    {
+     "facetParameter": "locations",
+     "descriptor": "Locations",
+     "values": [
+      {
+       "descriptor": "Dubai, United Arab Emirates",
+       "id": "8ba43df27339415699e0bda0b3bdff8d",
+       "count": 11
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "userAuthenticated": false
+}
