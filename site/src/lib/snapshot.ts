@@ -4,10 +4,11 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 import { SnapshotSchema, type Snapshot } from "./schema";
+import { SNAPSHOT_URL } from "./site";
 
 // Where the snapshot comes from, in order:
-//   1. SNAPSHOT_URL: the published copy on the repository's data branch. A bot commit there reaches the site
-//      within five minutes without a new deployment.
+//   1. The published copy on the repository's data branch (SNAPSHOT_URL in site.ts). A bot commit there reaches
+//      the site within five minutes without a new deployment.
 //   2. ../data/snapshot.json: a local run of the collector, for development.
 //   3. The copy bundled with the build, so the site always has something true to show.
 const REVALIDATE_SECONDS = 300;
@@ -20,7 +21,7 @@ async function fromFile(file: string): Promise<Snapshot> {
 }
 
 export async function loadSnapshot(): Promise<Loaded> {
-  const url = process.env.SNAPSHOT_URL;
+  const url = SNAPSHOT_URL;
   let problem: string | undefined;
   // Tests pin the snapshot to a file so they do not depend on what employers posted today.
   const pinned = process.env.RADAR_SNAPSHOT_FILE;
