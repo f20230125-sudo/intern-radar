@@ -1,9 +1,255 @@
 {
  "schema_version": 1,
  "rules_version": 5,
- "generated_at": "2026-11-11T04:43:47+00:00",
- "started_at": "2026-11-11T04:40:34+00:00",
+ "generated_at": "2026-11-11T12:41:25+00:00",
+ "started_at": "2026-11-11T12:39:20+00:00",
  "roles": [
+  {
+   "id": "workday:abbott:abbottcareers:31167266",
+   "slug": "abbott-health-assessor-uae-nationals-only-0acd0e",
+   "employer": "Abbott",
+   "board": "workday:abbott:abbottcareers",
+   "system": "workday",
+   "title": "Health Assessor",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Arab-Emirates---Dubai/Health-Assessor--UAE-Nationals-only-_31167266",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "United Arab Emirates - Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"0-2 years relevant experience\"",
+   "fields": [
+    "Science and health"
+   ],
+   "skills": [
+    "Sales",
+    "CRM",
+    "Marketing"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Health Assessor (UAE Nationals only)",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "duration": {
+     "value": "1-1-year",
+     "label": "1 year",
+     "evidence": "(Fixed term contract- 1 year)",
+     "source": "text",
+     "mark": "1 year"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Must be able to maintain a high degree of professionalism",
+     "source": "text",
+     "mark": "be"
+    }
+   },
+   "department": null,
+   "excerpt": "At Abbott, you can do work that matters, grow, and learn, care for yourself and family, be your true self and live a full life. •Career development with an international company where you can grow the career you dream of.",
+   "posted_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T12:39:20+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:medtronic:MedtronicCareers:R81397",
+   "slug": "medtronic-marketing-business-insights-junior-analyst-cardiac-31dc41",
+   "employer": "Medtronic",
+   "board": "workday:medtronic:MedtronicCareers",
+   "system": "workday",
+   "title": "Marketing & Business Insights Junior Analyst (Cardiac Surgery) (Temporary)",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dubai-Dubai-United-Arab-Emirates/Marketing---Business-Insights-Junior-Analyst--Cardiac-Surgery---Temporary-_R81397",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "title says \"Junior\" and no experience is asked for",
+   "fields": [
+    "Data and analytics",
+    "Marketing and communications"
+   ],
+   "skills": [
+    "Excel",
+    "Power BI",
+    "Data analysis",
+    "Dashboards and reporting",
+    "Sales",
+    "Marketing",
+    "Operations and logistics",
+    "Process improvement",
+    "Presentations"
+   ],
+   "facts": {
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Medtronic offers a competitive Salary and flexible Benefits Package",
+     "source": "text",
+     "mark": "competitive Salary"
+    },
+    "duration": {
+     "value": "12-12-month",
+     "label": "12 months",
+     "evidence": "The NextGen Academy is a 12-month immersive program designed to launch your career in medical technology, offering hands-on experience and collaboration with diverse teams to support therapies and introduce innovative products across the region.",
+     "source": "text",
+     "mark": "12-month"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor's Degree in Marketing, Business Administration, Supply Chain, Operations Management, Finance, Economics, Engineering, or Data Analytics completed within the last 12 months.",
+     "source": "text",
+     "mark": "Bachelor's"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"Onsite\".",
+     "source": "feed",
+     "mark": null
+    }
+   },
+   "department": null,
+   "excerpt": "Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. The NextGen Academy is a 12-month immersive program designed to launch your career in medical technology, offering hands-on experience and collaboration with diverse teams to…",
+   "posted_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T12:39:20+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:medtronic:MedtronicCareers:R81399",
+   "slug": "medtronic-marketing-business-insights-junior-analyst-tempora-31f9e5",
+   "employer": "Medtronic",
+   "board": "workday:medtronic:MedtronicCareers",
+   "system": "workday",
+   "title": "Marketing & Business Insights Junior Analyst (Temporary)",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dubai-Dubai-United-Arab-Emirates/Marketing---Business-Insights-Junior-Analyst--Temporary-_R81399-1",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "title says \"Junior\" and no experience is asked for",
+   "fields": [
+    "Data and analytics",
+    "Marketing and communications"
+   ],
+   "skills": [
+    "Excel",
+    "Power BI",
+    "Data analysis",
+    "Dashboards and reporting",
+    "Marketing",
+    "Project management",
+    "Process improvement",
+    "Presentations"
+   ],
+   "facts": {
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Medtronic offers a competitive Salary and flexible Benefits Package",
+     "source": "text",
+     "mark": "competitive Salary"
+    },
+    "duration": {
+     "value": "12-12-month",
+     "label": "12 months",
+     "evidence": "The NextGen Academy is a 12-month immersive program designed to launch your career in medical technology, offering hands-on experience and collaboration with diverse teams to support therapies and introduce innovative products across the region.",
+     "source": "text",
+     "mark": "12-month"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor's Degree in Marketing, Business Administration, Economics, Data Analytics, Finance, Engineering, or a related business discipline completed within the last 12 months.",
+     "source": "text",
+     "mark": "Bachelor's"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"Onsite\".",
+     "source": "feed",
+     "mark": null
+    }
+   },
+   "department": null,
+   "excerpt": "Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact. The NextGen Academy is a 12-month immersive program designed to launch your career in medical technology, offering hands-on experience and collaboration with diverse teams to…",
+   "posted_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T12:39:20+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:parsons:Search:AE - Abu Dhabi",
+   "slug": "parsons-project-coordinator-uae-national-0c716b",
+   "employer": "Parsons",
+   "board": "workday:parsons:Search",
+   "system": "workday",
+   "title": "Project coordinator",
+   "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/AE---Abu-Dhabi/Project-Coordination-Engineer----UAE-National-_R187102",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "AE - Abu Dhabi"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "says \"Fresh graduates are welcome\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Civil and construction"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Project coordinator - (UAE National)",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Fresh graduates are welcome; internship experience is an advantage.",
+     "source": "text",
+     "mark": "Fresh graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "At Parsons, you can imagine a career where you thrive, work with exceptional people, and be yourself. Guided by our leadership vision of valuing people, embracing agility, and fostering growth, we cultivate an innovative culture that empowers you to achieve your full potential.",
+   "posted_at": "2026-11-11T00:00:00+00:00",
+   "first_seen": "2026-11-11T12:39:20+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
   {
    "id": "greenhouse:binance:5024608101",
    "slug": "binance-binance-accelerator-program-compliance-training-ai-53996f",
@@ -36,6 +282,13 @@
     "Presentations"
    ],
    "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -49,20 +302,13 @@
      "evidence": "Current undergraduate, postgraduate students, or fresh graduates.",
      "source": "text",
      "mark": "fresh graduates"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "We are looking for a Compliance Training AI BAP to support the development and delivery of engaging, technology-enabled compliance learning initiatives across the organization. This role offers hands-on exposure to instructional design, training operations, learning analytics and AI-driven learning…",
    "posted_at": "2026-11-10T01:22:59-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -115,7 +361,7 @@
    "excerpt": "World-class mentors, fast paced & high performing work environment, our open culture and the opportunity to make an impact are just a few of the reasons why our internship program is highly sought after.",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -167,7 +413,7 @@
    "excerpt": "As a Data Analyst - Intern, you will be in a central position as you will be evangelising data and our methodologies to other functional analysts and other stakeholders in the company.",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -223,7 +469,7 @@
    "excerpt": "If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard.",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -256,13 +502,6 @@
     "Project management"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_preferred",
-     "label": "UAE nationals preferred",
-     "evidence": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
-     "source": "title",
-     "mark": "UAE Nationals"
-    },
     "duration": {
      "value": "10-12-week",
      "label": "10 to 12 weeks",
@@ -270,12 +509,12 @@
      "source": "text",
      "mark": "10- 12 weeks"
     },
-    "start": {
-     "value": "when",
-     "label": "June 2027",
-     "evidence": "Available to work full-time for 10- 12 weeks starting on June 2027",
-     "source": "text",
-     "mark": "starting on June 2027"
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "UAE Nationals"
     },
     "stage": {
      "value": "penultimate",
@@ -283,13 +522,20 @@
      "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between December 2027 to July 2028.",
      "source": "text",
      "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2027",
+     "evidence": "Available to work full-time for 10- 12 weeks starting on June 2027",
+     "source": "text",
+     "mark": "starting on June 2027"
     }
    },
    "department": null,
    "excerpt": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred) Why join Mastercard’s internship program?",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -327,26 +573,26 @@
      "source": "text",
      "mark": "10-12 weeks"
     },
-    "start": {
-     "value": "when",
-     "label": "June 2027",
-     "evidence": "Available to work full-time for 10-12 weeks starting June 2027",
-     "source": "text",
-     "mark": "starting June 2027"
-    },
     "stage": {
      "value": "penultimate",
      "label": "Penultimate-year students (Bachelor's, Master's)",
      "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between December 2027 and July 2028.",
      "source": "text",
      "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2027",
+     "evidence": "Available to work full-time for 10-12 weeks starting June 2027",
+     "source": "text",
+     "mark": "starting June 2027"
     }
    },
    "department": null,
    "excerpt": "Intern, Technical Program Management - Dubai, United Arab Emirates Why join Mastercard’s internship program?",
    "posted_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -384,26 +630,26 @@
      "source": "text",
      "mark": "18-month"
     },
-    "start": {
-     "value": "when",
-     "label": "March or September 2027",
-     "evidence": "Available to start on 1st March or 1st September 2027",
-     "source": "text",
-     "mark": "start on 1st March or 1st September 2027"
-    },
     "stage": {
      "value": "enrolled",
      "label": "Current students (Bachelor's, Master's)",
      "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between January 2026 and August 2027",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
     }
    },
    "department": null,
    "excerpt": "Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders. You'll work on real business challenges, applying your skills to projects that create meaningful impact.",
    "posted_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -432,13 +678,6 @@
     "Product management"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_preferred",
-     "label": "UAE nationals preferred",
-     "evidence": "Associate Product Specialist, Launch Program 2027 – Dubai, UAE (UAE National Preferred)",
-     "source": "title",
-     "mark": "UAE National"
-    },
     "duration": {
      "value": "18-18-month",
      "label": "18 months",
@@ -446,12 +685,12 @@
      "source": "text",
      "mark": "18-month"
     },
-    "start": {
-     "value": "when",
-     "label": "March or September 2027",
-     "evidence": "Available to start on 1st March or 1st September 2027",
-     "source": "text",
-     "mark": "start on 1st March or 1st September 2027"
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Associate Product Specialist, Launch Program 2027 – Dubai, UAE (UAE National Preferred)",
+     "source": "title",
+     "mark": "UAE National"
     },
     "stage": {
      "value": "enrolled",
@@ -459,13 +698,20 @@
      "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between March 2026 and August 2027",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
     }
    },
    "department": null,
    "excerpt": "We believe as our company grows, so should you. Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders.",
    "posted_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -497,13 +743,6 @@
     "Project management"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_preferred",
-     "label": "UAE nationals preferred",
-     "evidence": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management- Dubai, UAE (UAE Nationals Preferred)",
-     "source": "title",
-     "mark": "UAE Nationals"
-    },
     "duration": {
      "value": "18-18-month",
      "label": "18 months",
@@ -511,12 +750,12 @@
      "source": "text",
      "mark": "18-month"
     },
-    "start": {
-     "value": "when",
-     "label": "March or September 2027",
-     "evidence": "Available to start on 1st March or 1st September 2027",
-     "source": "text",
-     "mark": "start on 1st March or 1st September 2027"
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management- Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "UAE Nationals"
     },
     "stage": {
      "value": "enrolled",
@@ -524,13 +763,20 @@
      "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between March 2026 and August 2027",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
     }
    },
    "department": null,
    "excerpt": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management- Dubai, UAE (UAE Nationals Preferred) Throughout this 18-month program, you'll develop the ability to connect ideas, people, and markets to drive commercial impact.",
    "posted_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -585,7 +831,7 @@
    "excerpt": "Business Analytics Graduate – Image Guided Therapy (Emiratization) You will support the Image Guided Therapy META team by turning business data into actionable insights.",
    "posted_at": "2026-11-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -614,13 +860,6 @@
     "Product management"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_preferred",
-     "label": "UAE nationals preferred",
-     "evidence": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)",
-     "source": "title",
-     "mark": "UAE Nationals"
-    },
     "duration": {
      "value": "10-12-week",
      "label": "10 to 12 weeks",
@@ -628,12 +867,12 @@
      "source": "text",
      "mark": "10-12 weeks"
     },
-    "start": {
-     "value": "when",
-     "label": "Summer 2027",
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
      "evidence": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)",
      "source": "title",
-     "mark": "Summer 2027"
+     "mark": "UAE Nationals"
     },
     "stage": {
      "value": "penultimate",
@@ -641,13 +880,20 @@
      "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between Dec 2027 to July 2028.",
      "source": "text",
      "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "Summer 2027"
     }
    },
    "department": null,
    "excerpt": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Why join Mastercard’s internship program?",
    "posted_at": "2026-11-06T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -681,6 +927,13 @@
     "Marketing"
    ],
    "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -694,20 +947,13 @@
      "evidence": "Foundational understanding of financial markets is preferred, either through professional experience or education, such as a Bachelor's or Master's degree in Business, Finance, Economics, or a related field.",
      "source": "text",
      "mark": "Bachelor's"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "Our team serves the most sophisticated trading users and participants in the trading and investment industry and we offer you an opportunity to build your portfolio of clients alongside Binance and amongst top colleagues.",
    "posted_at": "2026-11-05T08:23:18-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -739,26 +985,26 @@
     "Design tools"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
     }
    },
    "department": null,
    "excerpt": "As a Brand Intern within the Binance Brand Design team, you will play a key role in bringing our global brand identity to life. We are looking for a creative individual with a sharp art taste, strong graphic design fundamentals, and a strong appetite for exploring cutting-edge AI design workflows to…",
    "posted_at": "2026-11-05T03:05:07-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -811,7 +1057,7 @@
    "excerpt": "Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. We’re looking for an Emirati Rider Engagement Associate to join our UAE team.",
    "posted_at": "2026-11-04T22:56:03-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -844,6 +1090,20 @@
     "Presentations"
    ],
    "facts": {
+    "deadline": {
+     "value": "date",
+     "label": "13th November 2026",
+     "evidence": "Closing date: 13th November 2026",
+     "source": "text",
+     "mark": "Closing date: 13th November 2026"
+    },
+    "duration": {
+     "value": "12-12-month",
+     "label": "12 months",
+     "evidence": "Full time, 12 months",
+     "source": "text",
+     "mark": "12 months"
+    },
     "eligibility": {
      "value": "own_visa",
      "label": "Needs your own UAE visa",
@@ -858,20 +1118,6 @@
      "source": "text",
      "mark": "7,000 AED"
     },
-    "duration": {
-     "value": "12-12-month",
-     "label": "12 months",
-     "evidence": "Full time, 12 months",
-     "source": "text",
-     "mark": "12 months"
-    },
-    "start": {
-     "value": "when",
-     "label": "January 2027",
-     "evidence": "Start date: January 2027",
-     "source": "text",
-     "mark": "Start date: January 2027"
-    },
     "stage": {
      "value": "enrolled",
      "label": "Current students",
@@ -879,19 +1125,19 @@
      "source": "text",
      "mark": "pursuing a"
     },
-    "deadline": {
-     "value": "date",
-     "label": "13th November 2026",
-     "evidence": "Closing date: 13th November 2026",
+    "start": {
+     "value": "when",
+     "label": "January 2027",
+     "evidence": "Start date: January 2027",
      "source": "text",
-     "mark": "Closing date: 13th November 2026"
+     "mark": "Start date: January 2027"
     }
    },
    "department": null,
    "excerpt": "Our Internship programmes are designed to help you build your career from day one. You'll work on meaningful projects, learn from experienced colleagues and develop the skills to make a real impact.",
    "posted_at": "2026-11-04T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -926,13 +1172,6 @@
     "Presentations"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "duration": {
      "value": "6-6-month",
      "label": "6 months",
@@ -940,26 +1179,33 @@
      "source": "text",
      "mark": "six-month"
     },
-    "stage": {
-     "value": "degree",
-     "label": "Bachelor's degree",
-     "evidence": "Bachelor’s degree in Communications, Public Relations, Marketing, Journalism or a related field, either completed or in progress.",
-     "source": "text",
-     "mark": "Bachelor’s"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in Communications, Public Relations, Marketing, Journalism or a related field, either completed or in progress.",
+     "source": "text",
+     "mark": "Bachelor’s"
     }
    },
    "department": null,
    "excerpt": "The MENA PR & Communications team is responsible for driving Binance’s regional communications strategy, strengthening brand reputation and supporting media relations, influencer engagement and strategic communications initiatives across the Middle East, North Africa, Pakistan and Turkey.",
    "posted_at": "2026-10-29T03:10:43-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -990,6 +1236,13 @@
     "Crypto and blockchain"
    ],
    "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -1003,20 +1256,13 @@
      "evidence": "Current university students and recent graduates",
      "source": "text",
      "mark": "university students"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "You will be given the opportunity to experience life at Binance and understand what goes on behind the scenes of the worlds’ leading blockchain ecosystem. Alongside your job, there will also be a focus on networking and development, which will expand your professional network and build transferable…",
    "posted_at": "2026-10-29T00:23:01-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1070,7 +1316,7 @@
    "excerpt": "At Unilever, your career will be a unique journey, grounded in our inclusive, collaborative, and flexible working environment. We don’t believe in the ‘one size fits all’ approach and instead we will equip you with the tools you need to shape your own future.",
    "posted_at": "2026-10-29T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1111,26 +1357,26 @@
      "source": "title",
      "mark": "UAE National"
     },
-    "stage": {
-     "value": "degree",
-     "label": "Bachelor's degree",
-     "evidence": "Undergraduate degree in Business Administration, Supply Chain, Procurement, Finance, Commerce, or a related field.",
-     "source": "text",
-     "mark": "Undergraduate"
-    },
     "mode": {
      "value": "hybrid",
      "label": "Hybrid",
      "evidence": "The employer files it as \"Hybrid (Remote & On-site)\".",
      "source": "feed",
      "mark": null
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Undergraduate degree in Business Administration, Supply Chain, Procurement, Finance, Commerce, or a related field.",
+     "source": "text",
+     "mark": "Undergraduate"
     }
    },
    "department": null,
    "excerpt": "Internship: Junior Procurement Coordinator (UAE National) Internship or academic exposure to Procurement, Supply Chain, or Administration.",
    "posted_at": "2026-10-28T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1167,6 +1413,13 @@
     "Arabic"
    ],
    "facts": {
+    "duration": {
+     "value": "12-12-week",
+     "label": "12 weeks",
+     "evidence": "The internship starts mid-June 2027 and has a duration of 12 weeks.",
+     "source": "text",
+     "mark": "12 weeks"
+    },
     "eligibility": {
      "value": "nationals_only",
      "label": "UAE nationals only",
@@ -1181,12 +1434,12 @@
      "source": "text",
      "mark": "paid internship"
     },
-    "duration": {
-     "value": "12-12-week",
-     "label": "12 weeks",
-     "evidence": "The internship starts mid-June 2027 and has a duration of 12 weeks.",
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Candidates must be a UAE National with a Family Book, and must be currently enrolled at a university, graduating with a Bachelor's or Master's degree in 2027 (preferred) or 2028.",
      "source": "text",
-     "mark": "12 weeks"
+     "mark": "currently enrolled"
     },
     "start": {
      "value": "when",
@@ -1194,20 +1447,13 @@
      "evidence": "The internship starts mid-June 2027 and has a duration of 12 weeks.",
      "source": "text",
      "mark": "starts mid-June 2027"
-    },
-    "stage": {
-     "value": "enrolled",
-     "label": "Current students (Bachelor's, Master's)",
-     "evidence": "Candidates must be a UAE National with a Family Book, and must be currently enrolled at a university, graduating with a Bachelor's or Master's degree in 2027 (preferred) or 2028.",
-     "source": "text",
-     "mark": "currently enrolled"
     }
    },
    "department": "Administrative Support",
    "excerpt": "The internship starts mid-June 2027 and has a duration of 12 weeks. At Amazon Web Services (AWS), you will grow into the high-impact, visionary person you know you're ready to be, taking on new challenges and developing new skills every day in our AI-first cloud environment.",
    "posted_at": "2026-10-27T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1261,7 +1507,7 @@
    "excerpt": "If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard.",
    "posted_at": "2026-10-27T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1313,7 +1559,7 @@
    "excerpt": "Emirati Graduate Program Associate (Fixed Term Contract) We are welcoming UAE National Talents to apply for our Novartis Emiratization Program which will provide you with real world experience that will allow you to put your theoretical learning into practice.",
    "posted_at": "2026-10-26T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1352,26 +1598,26 @@
      "source": "title",
      "mark": "UAE Nationals"
     },
-    "stage": {
-     "value": "graduate",
-     "label": "Recent graduates",
-     "evidence": "This entry-level opportunity is ideal for a recent graduate or student looking to gain practical experience within HR and Government Operations in a multinational environment.",
-     "source": "text",
-     "mark": "recent graduate"
-    },
     "mode": {
      "value": "hybrid",
      "label": "Hybrid",
      "evidence": "The employer files it as \"Hybrid (Remote & On-site)\".",
      "source": "feed",
      "mark": null
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "This entry-level opportunity is ideal for a recent graduate or student looking to gain practical experience within HR and Government Operations in a multinational environment.",
+     "source": "text",
+     "mark": "recent graduate"
     }
    },
    "department": null,
    "excerpt": "This entry-level opportunity is ideal for a recent graduate or student looking to gain practical experience within HR and Government Operations in a multinational environment. Recent graduate or student seeking practical experience within HR and Government Operations.",
    "posted_at": "2026-10-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1414,7 +1660,7 @@
    "excerpt": "When you join Amazon as an Area/Shift Manager, you’ll gain experience leading a large and diverse team to make sure your area of the business keeps pace with demand. In this hands-on role, you’ll learn about the complexity of operations at a global business and what it takes to make everything run…",
    "posted_at": "2026-10-22T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1445,12 +1691,26 @@
     "Arabic"
    ],
    "facts": {
+    "duration": {
+     "value": "4-8-week",
+     "label": "4 to 8 weeks",
+     "evidence": "Duration: 4-8 Weeks",
+     "source": "text",
+     "mark": "4-8 Weeks"
+    },
     "eligibility": {
      "value": "nationals_only",
      "label": "UAE nationals only",
      "evidence": "UAE National (Emirati) with a valid Family Book.",
      "source": "text",
      "mark": "Family Book"
+    },
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "The employer files it as \"Hybrid\".",
+     "source": "feed",
+     "mark": null
     },
     "pay": {
      "value": "paid",
@@ -1459,33 +1719,19 @@
      "source": "text",
      "mark": "stipend"
     },
-    "duration": {
-     "value": "4-8-week",
-     "label": "4 to 8 weeks",
-     "evidence": "Duration: 4-8 Weeks",
-     "source": "text",
-     "mark": "4-8 Weeks"
-    },
     "stage": {
      "value": "final",
      "label": "Final-year students",
      "evidence": "Graduating in Q2 of 2027 or later",
      "source": "text",
      "mark": "Graduating in"
-    },
-    "mode": {
-     "value": "hybrid",
-     "label": "Hybrid",
-     "evidence": "The employer files it as \"Hybrid\".",
-     "source": "feed",
-     "mark": null
     }
    },
    "department": null,
    "excerpt": "Regulatory Affairs Intern opportunity is open UAE Nationals As a Regulatory Affairs Intern, you will gain valuable exposure to the pharmaceutical industry and learn how innovative medicines are registered, maintained, and made available to patients in compliance with local regulations.",
    "posted_at": "2026-10-21T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1529,7 +1775,7 @@
    "excerpt": "In this role, you will be a key driver behind our continued growth and success. With our commitment to innovation, you will seek out, develop, and help implement strategic initiatives for improved efficiency and productivity.",
    "posted_at": "2026-10-21T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1561,6 +1807,13 @@
     "Sales"
    ],
    "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -1574,20 +1827,13 @@
      "evidence": "Recently completed a Bachelor's degree (Master's preferred) in finance, engineering, mathematics, or a related field",
      "source": "text",
      "mark": "Recently completed"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "Prior internship or up to 3 years of experience in trading, sales & trading, or financial markets preferred; exposure to the OTC trade lifecycle is a plus Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
    "posted_at": "2026-10-20T04:50:25-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1622,19 +1868,19 @@
     "Process improvement"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_only",
-     "label": "UAE nationals only",
-     "evidence": "Accenture Apprenticeship Program | HR, IT & Finance (UAE Nationals Only) | Dubai Office",
-     "source": "title",
-     "mark": "UAE Nationals"
-    },
     "duration": {
      "value": "2-2-year",
      "label": "2 years",
      "evidence": "Programme Duration: 2 Years",
      "source": "text",
      "mark": "2 Years"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Accenture Apprenticeship Program | HR, IT & Finance (UAE Nationals Only) | Dubai Office",
+     "source": "title",
+     "mark": "UAE Nationals"
     },
     "stage": {
      "value": "enrolled",
@@ -1648,7 +1894,7 @@
    "excerpt": "Flexible Internship Schedule: Minimum 1 day per week, up to 3 days per week We are looking for ambitious Emirati students and recent graduates to join our IT, HR & Finance Internship Program in Dubai.",
    "posted_at": "2026-10-15T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1681,26 +1927,26 @@
     "Presentations"
    ],
    "facts": {
-    "stage": {
-     "value": "graduate",
-     "label": "Recent graduates (Bachelor's, Master's)",
-     "evidence": "Completed Bachelor’s/Master’s degree within the last 12 months with a focus in business, management, economics, or related",
-     "source": "text",
-     "mark": "Completed Bachelor’s/Master’s degree within the last"
-    },
     "mode": {
      "value": "hybrid",
      "label": "Hybrid",
      "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
      "source": "text",
      "mark": "Hybrid"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Completed Bachelor’s/Master’s degree within the last 12 months with a focus in business, management, economics, or related",
+     "source": "text",
+     "mark": "Completed Bachelor’s/Master’s degree within the last"
     }
    },
    "department": null,
    "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
    "posted_at": "2026-10-15T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1734,6 +1980,13 @@
     "Marketing"
    ],
    "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -1747,20 +2000,13 @@
      "evidence": "Foundational understanding of financial markets is preferred, either through professional experience or education, such as a Bachelor's or Master's degree in Business, Finance, Economics, or a related field.",
      "source": "text",
      "mark": "Bachelor's"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "You will be working at the forefront of crypto, innovation, and client growth. We are looking for someone who is commercially driven, highly adaptable, comfortable working across cultures and time zones, and capable of leveraging AI tools across sales, marketing, research, and administrative…",
    "posted_at": "2026-10-14T06:25:14-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1793,13 +2039,6 @@
     "Public relations"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "duration": {
      "value": "6-6-month",
      "label": "6 months",
@@ -1807,26 +2046,33 @@
      "source": "text",
      "mark": "6 month"
     },
-    "stage": {
-     "value": "enrolled",
-     "label": "Current students",
-     "evidence": "Currently pursuing or recently completed a degree in Business, Marketing, Finance, or a related field",
-     "source": "text",
-     "mark": "Currently pursuing"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Currently pursuing or recently completed a degree in Business, Marketing, Finance, or a related field",
+     "source": "text",
+     "mark": "Currently pursuing"
     }
    },
    "department": null,
    "excerpt": "We are seeking a dedicated and dynamic individual to join our affiliate team for a 6 month opportunity, focusing on managing an expanding network of affiliates. This role primarily involves collaborating with prominent KOLs to ensure the effectiveness of their promotional efforts.",
    "posted_at": "2026-10-14T05:29:43-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1860,26 +2106,26 @@
     "Process improvement"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
     }
    },
    "department": null,
    "excerpt": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) If you would like more information about how your data is processed, please contact us.",
    "posted_at": "2026-10-14T02:41:18-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1910,26 +2156,26 @@
     "Marketing"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
     }
    },
    "department": null,
    "excerpt": "Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world? As an Ads Implementation Intern, you’ll support the digital advertising team in the execution of paid ad campaigns across Media Channel…",
    "posted_at": "2026-10-14T00:45:55-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1968,13 +2214,6 @@
     "Networking and security"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
     "duration": {
      "value": "3-6-month",
      "label": "3 to 6 months",
@@ -1982,26 +2221,33 @@
      "source": "text",
      "mark": "3-6 month"
     },
-    "stage": {
-     "value": "enrolled",
-     "label": "Current students",
-     "evidence": "Current University students and recent Graduates.",
-     "source": "text",
-     "mark": "University students"
-    },
     "mode": {
      "value": "remote",
      "label": "Remote",
      "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
      "source": "text",
      "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Current University students and recent Graduates.",
+     "source": "text",
+     "mark": "University students"
     }
    },
    "department": null,
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-10-13T05:51:35-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2042,26 +2288,26 @@
      "source": "text",
      "mark": "12 consecutive weeks"
     },
-    "stage": {
-     "value": "final",
-     "label": "Final-year students (Bachelor's, Master's)",
-     "evidence": "In the last year of a Bachelor's or Master's degree in Electrical Engineering, Mechanical Engineering, Architecture, Civil Engineering, Structural Engineering, or another equivalent technical discipline, graduating in 2027 – before the internship´s end date",
-     "source": "text",
-     "mark": "last year of a"
-    },
     "mode": {
      "value": "onsite",
      "label": "On site",
      "evidence": "This position requires the intern to report to work on site daily.",
      "source": "text",
      "mark": "position requires the intern to report to work on site"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's, Master's)",
+     "evidence": "In the last year of a Bachelor's or Master's degree in Electrical Engineering, Mechanical Engineering, Architecture, Civil Engineering, Structural Engineering, or another equivalent technical discipline, graduating in 2027 – before the internship´s end date",
+     "source": "text",
+     "mark": "last year of a"
     }
    },
    "department": "Operations, IT, & Support Engineering",
    "excerpt": "As a DC Infra Engineer Intern at Amazon Web Services (AWS), you will work alongside an experienced, cross-disciplinary team to provide full life-cycle support to AWS data centers — from design inception through site improvement and maintenance.",
    "posted_at": "2026-10-13T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2092,26 +2338,26 @@
     "Presentations"
    ],
    "facts": {
-    "stage": {
-     "value": "graduate",
-     "label": "Recent graduates (Bachelor's, Master's)",
-     "evidence": "A completed bachelor’s or master’s degree within the last 12 months in Computer Science, Engineering, Information Systems, Technology, or a related technical discipline .",
-     "source": "text",
-     "mark": "completed bachelor’s or master’s degree within the last"
-    },
     "mode": {
      "value": "hybrid",
      "label": "Hybrid",
      "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
      "source": "text",
      "mark": "Hybrid"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "A completed bachelor’s or master’s degree within the last 12 months in Computer Science, Engineering, Information Systems, Technology, or a related technical discipline .",
+     "source": "text",
+     "mark": "completed bachelor’s or master’s degree within the last"
     }
    },
    "department": null,
    "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
    "posted_at": "2026-10-13T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2150,12 +2396,12 @@
      "source": "text",
      "mark": "3 consecutive months"
     },
-    "start": {
-     "value": "when",
-     "label": "Summer 2027",
-     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "This position requires the intern to report to work on site daily.",
      "source": "text",
-     "mark": "starting in summer 2027"
+     "mark": "position requires the intern to report to work on site"
     },
     "stage": {
      "value": "final",
@@ -2164,19 +2410,19 @@
      "source": "text",
      "mark": "graduating in"
     },
-    "mode": {
-     "value": "onsite",
-     "label": "On site",
-     "evidence": "This position requires the intern to report to work on site daily.",
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
      "source": "text",
-     "mark": "position requires the intern to report to work on site"
+     "mark": "starting in summer 2027"
     }
    },
    "department": "Operations, IT, & Support Engineering",
    "excerpt": "Amazon data centers are large-scale, high-density facilities where you will help change the face of cloud technology in the region — and your work will directly impact millions of customers.",
    "posted_at": "2026-10-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2219,12 +2465,12 @@
      "source": "text",
      "mark": "3 consecutive months"
     },
-    "start": {
-     "value": "when",
-     "label": "Summer 2027",
-     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "This position requires the intern to report to work on site daily.",
      "source": "text",
-     "mark": "starting in summer 2027"
+     "mark": "position requires the intern to report to work on site"
     },
     "stage": {
      "value": "final",
@@ -2233,19 +2479,19 @@
      "source": "text",
      "mark": "graduating in"
     },
-    "mode": {
-     "value": "onsite",
-     "label": "On site",
-     "evidence": "This position requires the intern to report to work on site daily.",
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
      "source": "text",
-     "mark": "position requires the intern to report to work on site"
+     "mark": "starting in summer 2027"
     }
    },
    "department": "Operations, IT, & Support Engineering",
    "excerpt": "As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.",
    "posted_at": "2026-10-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2280,26 +2526,26 @@
     "UX research and design"
    ],
    "facts": {
-    "start": {
-     "value": "when",
-     "label": "June",
-     "evidence": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build",
-     "source": "text",
-     "mark": "Cohorts: June"
-    },
     "stage": {
      "value": "graduate",
      "label": "Recent graduates",
      "evidence": "Whether you're a recent graduate or early in your career with up to two years of experience, this is where you'll do real meaningful work, alongside some of the most ambitious people in the region.",
      "source": "text",
      "mark": "recent graduate"
+    },
+    "start": {
+     "value": "when",
+     "label": "June",
+     "evidence": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build",
+     "source": "text",
+     "mark": "Cohorts: June"
     }
    },
    "department": null,
    "excerpt": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build Whether you're a recent graduate or early in your career with up to two years of experience, this is where you'll do real meaningful work, alongside some of the most ambitious people in the region.",
    "posted_at": "2026-10-05T10:12:06-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2334,26 +2580,26 @@
     "UX research and design"
    ],
    "facts": {
-    "start": {
-     "value": "when",
-     "label": "January and June",
-     "evidence": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build",
-     "source": "text",
-     "mark": "Cohorts: January & June"
-    },
     "stage": {
      "value": "enrolled",
      "label": "Current students",
      "evidence": "The Internship Program is built for students who don't want to sit on the sidelines.",
      "source": "text",
      "mark": "students who"
+    },
+    "start": {
+     "value": "when",
+     "label": "January and June",
+     "evidence": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build",
+     "source": "text",
+     "mark": "Cohorts: January & June"
     }
    },
    "department": null,
    "excerpt": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build The Internship Program is built for students who don't want to sit on the sidelines.",
    "posted_at": "2026-10-04T23:20:00-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2383,26 +2629,26 @@
     "Mechanical engineering"
    ],
    "facts": {
-    "stage": {
-     "value": "enrolled",
-     "label": "Current students",
-     "evidence": "Are a university student, fresh graduate, or at the beginning of your career and genuinely curious about space, satellites, engineering, technology, or building new markets .",
-     "source": "text",
-     "mark": "university student"
-    },
     "mode": {
      "value": "onsite",
      "label": "On site",
      "evidence": "The employer files it as \"onsite\".",
      "source": "feed",
      "mark": null
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Are a university student, fresh graduate, or at the beginning of your career and genuinely curious about space, satellites, engineering, technology, or building new markets .",
+     "source": "text",
+     "mark": "university student"
     }
    },
    "department": "General",
    "excerpt": "Engineering & Business Development | Students & Recent Graduates | UAE Ready to launch your career into something bigger?",
    "posted_at": "2026-09-28T12:55:36.198000+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2438,12 +2684,26 @@
     "Arabic"
    ],
    "facts": {
+    "duration": {
+     "value": "2-2-year",
+     "label": "2 years",
+     "evidence": "Programme Duration: 2 years",
+     "source": "text",
+     "mark": "2 years"
+    },
     "eligibility": {
      "value": "nationals_only",
      "label": "UAE nationals only",
      "evidence": "UAE Nationals Graduate Analyst program",
      "source": "title",
      "mark": "UAE Nationals"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"On-site\".",
+     "source": "feed",
+     "mark": null
     },
     "pay": {
      "value": "paid",
@@ -2452,33 +2712,19 @@
      "source": "text",
      "mark": "Competitive salary"
     },
-    "duration": {
-     "value": "2-2-year",
-     "label": "2 years",
-     "evidence": "Programme Duration: 2 years",
-     "source": "text",
-     "mark": "2 years"
-    },
     "stage": {
      "value": "final",
      "label": "Final-year students",
      "evidence": "Graduation within the last 12-24 months, or final-year students completing their degree in 2025",
      "source": "text",
      "mark": "final-year"
-    },
-    "mode": {
-     "value": "onsite",
-     "label": "On site",
-     "evidence": "The employer files it as \"On-site\".",
-     "source": "feed",
-     "mark": null
     }
    },
    "department": null,
    "excerpt": "JLL empowers you to shape a brighter way . Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry, join our team as we help shape a brighter way forward.",
    "posted_at": "2026-09-25T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2520,26 +2766,26 @@
      "source": "title",
      "mark": "UAE National"
     },
-    "stage": {
-     "value": "degree",
-     "label": "Bachelor's degree",
-     "evidence": "Undergraduate degree in Finance, Accounting, Commerce, Economics , or related field",
-     "source": "text",
-     "mark": "Undergraduate"
-    },
     "mode": {
      "value": "onsite",
      "label": "On site",
      "evidence": "The employer files it as \"On-Site\".",
      "source": "feed",
      "mark": null
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Undergraduate degree in Finance, Accounting, Commerce, Economics , or related field",
+     "source": "text",
+     "mark": "Undergraduate"
     }
    },
    "department": null,
    "excerpt": "The role works closely with internal stakeholders, distributors, and finance teams to support month-end close activities, accounts management, payment processes, and financial controls while gaining exposure to a dynamic multinational finance environment.",
    "posted_at": "2026-09-24T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2568,13 +2814,6 @@
     "Marketing"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive pay",
-     "source": "text",
-     "mark": "Competitive pay"
-    },
     "duration": {
      "value": "3-6-month",
      "label": "3 to 6 months",
@@ -2582,12 +2821,12 @@
      "source": "text",
      "mark": "3 to 6 months"
     },
-    "start": {
-     "value": "when",
-     "label": "January to December 2027",
-     "evidence": "Available to commence an internship between January and December 2027.",
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
      "source": "text",
-     "mark": "commence an internship between January and December 2027"
+     "mark": "Competitive pay"
     },
     "stage": {
      "value": "enrolled",
@@ -2595,13 +2834,20 @@
      "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
     }
    },
    "department": "Administrative Support",
    "excerpt": "Are you willing to dive deep to develop those solutions and deliver results? As a Program Manager Intern you will join one of our operations, retail, or seller services teams.",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2630,13 +2876,6 @@
     "Operations and logistics"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive pay",
-     "source": "text",
-     "mark": "Competitive pay"
-    },
     "duration": {
      "value": "3-6-month",
      "label": "3 to 6 months",
@@ -2644,12 +2883,12 @@
      "source": "text",
      "mark": "3 to 6 months"
     },
-    "start": {
-     "value": "when",
-     "label": "January to December 2027",
-     "evidence": "Available to commence an internship between January and December 2027.",
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
      "source": "text",
-     "mark": "commence an internship between January and December 2027"
+     "mark": "Competitive pay"
     },
     "stage": {
      "value": "enrolled",
@@ -2657,13 +2896,20 @@
      "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
     }
    },
    "department": "Administrative Support",
    "excerpt": "The Amazon University Talent Acquisition Team is looking for ambitious students to join us as Operations Intern, working in one of our core businesses, Amazon Operations. Our internships are educational opportunities intended to allow you, our future managers, to discover how we lead and develop our…",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2692,13 +2938,6 @@
     "Operations and logistics"
    ],
    "facts": {
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive pay",
-     "source": "text",
-     "mark": "Competitive pay"
-    },
     "duration": {
      "value": "3-6-month",
      "label": "3 to 6 months",
@@ -2706,12 +2945,12 @@
      "source": "text",
      "mark": "3 to 6 months"
     },
-    "start": {
-     "value": "when",
-     "label": "January to December 2027",
-     "evidence": "Available to commence an internship between January and December 2027.",
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
      "source": "text",
-     "mark": "commence an internship between January and December 2027"
+     "mark": "Competitive pay"
     },
     "stage": {
      "value": "enrolled",
@@ -2719,13 +2958,20 @@
      "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
      "source": "text",
      "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
     }
    },
    "department": "Administrative Support",
    "excerpt": "The Facilities Coordinator Intern will be responsible for the leadership/development and coaching of the team. This role also leads the technical team in providing both a reactive and pro-active maintenance service on all operational equipment and facilities infrastructure within the Fulfilment…",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2776,7 +3022,7 @@
    "excerpt": "As an Early Career Talent (ECT) Cloud Sales Representative at AWS, you will further develop, and be responsible for, customer acquisition, growth, and support and contribute to the strategic priorities for the region.",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2814,7 +3060,7 @@
    "excerpt": "You should be confident across editing, animation, design, storytelling, and AI-assisted creative workflows , while continuing to develop through collaboration, feedback, and creative direction from the team.",
    "posted_at": "2026-09-11T11:21:48-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2848,26 +3094,26 @@
     "Data analysis"
    ],
    "facts": {
-    "stage": {
-     "value": "enrolled",
-     "label": "Current students (Bachelor's, Master's, PhD)",
-     "evidence": "Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science , or a related technical field.",
-     "source": "text",
-     "mark": "Currently pursuing"
-    },
     "mode": {
      "value": "onsite",
      "label": "On site",
      "evidence": "The employer files it as \"onsite\".",
      "source": "feed",
      "mark": null
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's, PhD)",
+     "evidence": "Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science , or a related technical field.",
+     "source": "text",
+     "mark": "Currently pursuing"
     }
    },
    "department": "Engineering",
    "excerpt": "As part of our team, you’ll have the opportunity to work on the core of cutting-edge foundation model training, alongside world-class researchers, data scientists, and engineers, tackling the most fundamental and impactful challenges in AI development.",
    "posted_at": "2026-09-09T06:32:55.734000+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2901,19 +3147,19 @@
     "Data centres"
    ],
    "facts": {
-    "eligibility": {
-     "value": "nationals_only",
-     "label": "UAE nationals only",
-     "evidence": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract leading to full-time employment], AWS",
-     "source": "title",
-     "mark": "UAE National"
-    },
     "duration": {
      "value": "6-6-month",
      "label": "6 months",
      "evidence": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract leading to full-time employment], AWS",
      "source": "title",
      "mark": "6-month"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract leading to full-time employment], AWS",
+     "source": "title",
+     "mark": "UAE National"
     },
     "stage": {
      "value": "final",
@@ -2927,7 +3173,7 @@
    "excerpt": "AWS have an exciting Electrical & Mechanical Engineering Operations Traineeship opportunity in Dubai available for a UAE national with family book. Amazon Web Services (AWS) is growing rapidly, and we are looking for Engineering Operations Technician Trainees to join our expanding Data Center team…",
    "posted_at": "2026-09-04T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2973,7 +3219,7 @@
    "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
    "posted_at": "2026-08-17T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3019,7 +3265,7 @@
    "excerpt": "We are looking for a driven and client-focused Junior Account Executive to support the growth and servicing of key eCommerce and cross-border logistics accounts.",
    "posted_at": "2026-05-22T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3079,7 +3325,7 @@
    "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you Our Flagship Builders Program is designed for ambitious graduates ready to step into real responsibility from day one.",
    "posted_at": "2026-04-27T05:39:41-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3130,7 +3376,7 @@
    "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you Our Flagship Builders Internship & Co-Op track is crafted for students who don’t want a passive internship but a real seat at the table.",
    "posted_at": "2026-04-27T05:38:25-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3180,7 +3426,7 @@
    "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you. This opportunity is part of our commitment to developing local talent and is open exclusively to Emirati Nationals.",
    "posted_at": "2026-04-27T05:36:25-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3220,26 +3466,26 @@
      "source": "text",
      "mark": "Competitive salary"
     },
-    "start": {
-     "value": "when",
-     "label": "June 2026",
-     "evidence": "📆 Start Date: June 15, 2026",
-     "source": "text",
-     "mark": "Start Date: June 15, 2026"
-    },
     "stage": {
      "value": "enrolled",
      "label": "Current students (Bachelor's, Master's)",
      "evidence": "Currently pursuing a Bachelor’s or Master’s degree in Dubai ( Graduation Date: 2027 )",
      "source": "text",
      "mark": "Currently pursuing"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2026",
+     "evidence": "📆 Start Date: June 15, 2026",
+     "source": "text",
+     "mark": "Start Date: June 15, 2026"
     }
    },
    "department": null,
    "excerpt": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the…",
    "posted_at": "2026-03-31T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3294,7 +3540,7 @@
    "excerpt": "Are you a self-starter with a passion for e-commerce, looking to expand your retail skillset and shaping the way the biggest brands work with Amazon? As Brand Specialist, you will be part of the Amazon Vendor Services (AVS) team, which provides a suite of services designed to help Amazon's most…",
    "posted_at": "2026-03-06T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3344,7 +3590,7 @@
    "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
    "posted_at": "2025-10-15T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-11T12:39:20+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3357,11 +3603,11 @@
    "system": "amazon",
    "home": "https://www.amazon.jobs/en/locations/dubai-uae",
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 63,
-   "uae": 63,
+   "postings": 67,
+   "uae": 67,
    "student": 11
   },
   {
@@ -3370,10 +3616,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 221,
+   "postings": 222,
    "uae": 54,
    "student": 11
   },
@@ -3383,8 +3629,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 6,
    "uae": 6,
@@ -3396,8 +3642,8 @@
    "system": "greenhouse",
    "home": "https://job-boards.greenhouse.io/tamara",
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 37,
    "uae": 11,
@@ -3409,8 +3655,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 4,
    "uae": 4,
@@ -3422,8 +3668,8 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 31,
    "uae": 26,
@@ -3435,8 +3681,21 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 5,
+   "uae": 5,
+   "student": 2
+  },
+  {
+   "key": "workday:medtronic:MedtronicCareers",
+   "name": "Medtronic",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 4,
    "uae": 4,
@@ -3448,8 +3707,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 2,
    "uae": 2,
@@ -3461,10 +3720,10 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 11,
+   "postings": 8,
    "uae": 2,
    "student": 2
   },
@@ -3474,11 +3733,24 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 150,
+   "postings": 152,
    "uae": 50,
+   "student": 1
+  },
+  {
+   "key": "workday:jll:jllcareers",
+   "name": "JLL",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 18,
+   "uae": 18,
    "student": 1
   },
   {
@@ -3487,8 +3759,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 194,
    "uae": 17,
@@ -3500,8 +3772,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 90,
    "uae": 15,
@@ -3513,8 +3785,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 43,
    "uae": 13,
@@ -3526,8 +3798,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 13,
    "uae": 13,
@@ -3539,24 +3811,24 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 12,
    "uae": 12,
    "student": 1
   },
   {
-   "key": "workday:jll:jllcareers",
-   "name": "JLL",
+   "key": "workday:parsons:Search",
+   "name": "Parsons",
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 9,
-   "uae": 9,
+   "postings": 6,
+   "uae": 6,
    "student": 1
   },
   {
@@ -3565,8 +3837,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 6,
    "uae": 6,
@@ -3578,11 +3850,24 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 15,
    "uae": 5,
+   "student": 1
+  },
+  {
+   "key": "workday:abbott:abbottcareers",
+   "name": "Abbott",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 4,
+   "uae": 4,
    "student": 1
   },
   {
@@ -3591,8 +3876,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -3604,8 +3889,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -3617,8 +3902,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -3630,8 +3915,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -3643,8 +3928,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -3656,11 +3941,11 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 142,
-   "uae": 142,
+   "postings": 145,
+   "uae": 145,
    "student": 0
   },
   {
@@ -3669,50 +3954,11 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 49,
-   "uae": 49,
-   "student": 0
-  },
-  {
-   "key": "ashby:ziina",
-   "name": "Ziina",
-   "system": "ashby",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 13,
-   "uae": 13,
-   "student": 0
-  },
-  {
-   "key": "workday:visa:Visa",
-   "name": "Visa",
-   "system": "workday",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 12,
-   "uae": 12,
-   "student": 0
-  },
-  {
-   "key": "workday:mastercard:CorporateCareers",
-   "name": "Mastercard",
-   "system": "workday",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 11,
-   "uae": 11,
+   "postings": 50,
+   "uae": 50,
    "student": 0
   },
   {
@@ -3721,11 +3967,50 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 10,
-   "uae": 10,
+   "postings": 13,
+   "uae": 13,
+   "student": 0
+  },
+  {
+   "key": "ashby:ziina",
+   "name": "Ziina",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 13,
+   "uae": 13,
+   "student": 0
+  },
+  {
+   "key": "workday:mastercard:CorporateCareers",
+   "name": "Mastercard",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 12,
+   "uae": 12,
+   "student": 0
+  },
+  {
+   "key": "workday:visa:Visa",
+   "name": "Visa",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 12,
+   "uae": 12,
    "student": 0
   },
   {
@@ -3734,8 +4019,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 8,
    "uae": 8,
@@ -3747,8 +4032,8 @@
    "system": "greenhouse",
    "home": "https://www.careem.com/en-AE/careers/",
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 15,
    "uae": 7,
@@ -3760,23 +4045,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 127,
-   "uae": 6,
-   "student": 0
-  },
-  {
-   "key": "workday:parsons:Search",
-   "name": "Parsons",
-   "system": "workday",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 6,
+   "postings": 126,
    "uae": 6,
    "student": 0
   },
@@ -3786,8 +4058,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 5,
    "uae": 5,
@@ -3799,24 +4071,11 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 9,
    "uae": 5,
-   "student": 0
-  },
-  {
-   "key": "ashby:airwallex",
-   "name": "Airwallex",
-   "system": "ashby",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 485,
-   "uae": 4,
    "student": 0
   },
   {
@@ -3825,8 +4084,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 4,
    "uae": 4,
@@ -3838,8 +4097,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 4,
    "uae": 4,
@@ -3851,23 +4110,36 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 130,
    "uae": 4,
    "student": 0
   },
   {
-   "key": "workday:abbott:abbottcareers",
-   "name": "Abbott",
-   "system": "workday",
+   "key": "ashby:airwallex",
+   "name": "Airwallex",
+   "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 3,
+   "postings": 479,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:celonis",
+   "name": "Celonis",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 243,
    "uae": 3,
    "student": 0
   },
@@ -3877,23 +4149,10 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 3,
-   "uae": 3,
-   "student": 0
-  },
-  {
-   "key": "lever:crypto",
-   "name": "Crypto.com",
-   "system": "lever",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 90,
    "uae": 3,
    "student": 0
   },
@@ -3903,8 +4162,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 386,
    "uae": 3,
@@ -3916,10 +4175,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 827,
+   "postings": 829,
    "uae": 3,
    "student": 0
   },
@@ -3929,10 +4188,10 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 678,
+   "postings": 669,
    "uae": 3,
    "student": 0
   },
@@ -3942,8 +4201,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 2,
    "uae": 2,
@@ -3955,8 +4214,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 2,
    "uae": 2,
@@ -3968,23 +4227,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 356,
-   "uae": 2,
-   "student": 0
-  },
-  {
-   "key": "greenhouse:celonis",
-   "name": "Celonis",
-   "system": "greenhouse",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 241,
    "uae": 2,
    "student": 0
   },
@@ -3994,10 +4240,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 423,
+   "postings": 427,
    "uae": 2,
    "student": 0
   },
@@ -4007,8 +4253,8 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 32,
    "uae": 2,
@@ -4020,23 +4266,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 252,
-   "uae": 2,
-   "student": 0
-  },
-  {
-   "key": "workday:medtronic:MedtronicCareers",
-   "name": "Medtronic",
-   "system": "workday",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 2,
+   "postings": 255,
    "uae": 2,
    "student": 0
   },
@@ -4046,8 +4279,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 2,
    "uae": 2,
@@ -4059,10 +4292,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 375,
+   "postings": 374,
    "uae": 2,
    "student": 0
   },
@@ -4072,8 +4305,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 119,
    "uae": 2,
@@ -4085,8 +4318,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 2,
    "uae": 2,
@@ -4098,10 +4331,23 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 169,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workday:snapchat:snap",
+   "name": "Snap",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 2,
    "uae": 2,
    "student": 0
   },
@@ -4111,8 +4357,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 12,
    "uae": 1,
@@ -4124,8 +4370,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4137,10 +4383,23 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 29,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "lever:crypto",
+   "name": "Crypto.com",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
+   "error": null,
+   "postings": 84,
    "uae": 1,
    "student": 0
   },
@@ -4150,10 +4409,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 920,
+   "postings": 917,
    "uae": 1,
    "student": 0
   },
@@ -4163,8 +4422,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4176,10 +4435,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 23,
+   "postings": 22,
    "uae": 1,
    "student": 0
   },
@@ -4189,8 +4448,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4202,10 +4461,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 199,
+   "postings": 201,
    "uae": 1,
    "student": 0
   },
@@ -4215,10 +4474,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 78,
+   "postings": 77,
    "uae": 1,
    "student": 0
   },
@@ -4228,10 +4487,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 377,
+   "postings": 375,
    "uae": 1,
    "student": 0
   },
@@ -4241,8 +4500,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4254,8 +4513,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4267,8 +4526,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 304,
    "uae": 1,
@@ -4280,8 +4539,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4293,8 +4552,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4306,21 +4565,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
-   "error": null,
-   "postings": 1,
-   "uae": 1,
-   "student": 0
-  },
-  {
-   "key": "workday:snapchat:snap",
-   "name": "Snap",
-   "system": "workday",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4332,10 +4578,10 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 86,
+   "postings": 85,
    "uae": 1,
    "student": 0
   },
@@ -4345,8 +4591,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 1,
    "uae": 1,
@@ -4358,8 +4604,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 39,
    "uae": 1,
@@ -4371,10 +4617,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
-   "postings": 99,
+   "postings": 98,
    "uae": 1,
    "student": 0
   },
@@ -4384,8 +4630,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 0,
    "uae": 0,
@@ -4397,8 +4643,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 0,
    "uae": 0,
@@ -4410,8 +4656,8 @@
    "system": "workday",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-11T04:43:47+00:00",
-   "last_ok": "2026-11-11T04:40:34+00:00",
+   "checked_at": "2026-11-11T12:41:25+00:00",
+   "last_ok": "2026-11-11T12:39:20+00:00",
    "error": null,
    "postings": 0,
    "uae": 0,
