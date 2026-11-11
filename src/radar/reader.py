@@ -5,7 +5,7 @@ from __future__ import annotations
 import hashlib
 import re
 
-from radar import facts, kind, place
+from radar import facts, kind, place, skills
 from radar.models import Place, RawPosting, Role
 from radar.text import clip, sentences, slugify, to_text
 
@@ -14,6 +14,27 @@ _BOILER = re.compile(
     r"^job\s+description\s*:?$|^overview\s*:?$|^about\s+the\s+role\s*:?$|^our\s+purpose|^position\s+summary",
     re.I,
 )
+
+
+_TITLE_ELIGIBILITY = re.compile(r"\s*[\(\[][^\)\]]*\b(?:uaen|uae\s+nationals?|emiratis?|emirati\s+nationals?|nationals?\s+only)\b[^\)\]]*[\)\]]", re.I)
+_TITLE_PLACE = re.compile(
+    r"\s*(?:[-–—,|:]\s*)+(?:(?:dubai|abu\s+dhabi|sharjah)\s*,\s*)?(?:dubai|abu\s+dhabi|sharjah|uae|u\.a\.e\.?|united\s+arab\s+emirates)\s*$",
+    re.I,
+)
+
+
+def clean_title(title: str) -> str:
+    """Titles often repeat what the row already shows: "... - Dubai, UAE (UAE Nationals Preferred)".
+    The place and the nationality note are dropped from the displayed title; both are shown as facts instead,
+    and the eligibility fact still quotes the employer's full title."""
+    t = re.sub(r"\s+", " ", title).strip()
+    for _ in range(3):
+        before = t
+        t = _TITLE_ELIGIBILITY.sub("", t).strip()
+        t = _TITLE_PLACE.sub("", t).strip(" -–—,|:")
+        if t == before:
+            break
+    return t if len(t) >= 6 else re.sub(r"\s+", " ", title).strip()
 
 
 def fingerprint(raw: RawPosting) -> str:
@@ -75,15 +96,16 @@ def read(raw: RawPosting, *, now: str) -> Role | None:
         employer=raw.board.name,
         board=raw.board.key,
         system=raw.board.system,
-        title=re.sub(r"\s+", " ", raw.title).strip(),
+        title=clean_title(raw.title),
         url=raw.url,
         places=places,
         elsewhere=elsewhere,
         kind=verdict.kind,  # type: ignore[arg-type]
         kind_reason=verdict.reason,
         fields=facts.fields(raw.title, raw.department),
+        skills=skills.read(raw.title, text),
         facts=facts.read(raw.title, text, workplace=raw.workplace),
-        department=raw.department,
+        department=raw.department if raw.department and place.match(raw.department) is None else None,
         excerpt=excerpt(text),
         posted_at=raw.posted_at.isoformat() if raw.posted_at else None,
         first_seen=now,

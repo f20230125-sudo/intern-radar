@@ -1,0 +1,14 @@
+{
+ "note": "Scores of the rules as they stood (RULES_VERSION 2) the first time they met the labelled set, before any rule was changed in response. Recorded from `python -m radar.eval` on 10 Nov 2026.",
+ "scores": [
+  {"name": "Is it a student role", "n": 63, "precision": 1.0, "recall": 0.889},
+  {"name": "Which kind, when it is one", "n": 56, "precision": 1.0, "recall": 1.0},
+  {"name": "Who can apply", "n": 19, "precision": 1.0, "recall": 0.947},
+  {"name": "Start", "n": 16, "precision": 0.875, "recall": 0.875},
+  {"name": "Length", "n": 23, "precision": 1.0, "recall": 0.739},
+  {"name": "Pay", "n": 19, "precision": 1.0, "recall": 1.0},
+  {"name": "Stage of study", "n": 46, "precision": 0.935, "recall": 0.935},
+  {"name": "Where you work", "n": 21, "precision": 1.0, "recall": 1.0},
+  {"name": "Closing date", "n": 1, "precision": 1.0, "recall": 1.0}
+ ]
+}

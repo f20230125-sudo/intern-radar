@@ -92,7 +92,7 @@ class Event:
         return json.dumps(vars(self), ensure_ascii=False)
 
 
-_COMPARED = ("title", "url", "places", "kind", "fields", "facts", "department")
+_COMPARED = ("title", "url", "places", "kind", "fields", "skills", "facts", "department")
 
 
 def _differs(old: dict, new: dict) -> list[str]:

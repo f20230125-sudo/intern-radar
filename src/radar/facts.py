@@ -27,8 +27,32 @@ _NUMWORD = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "sev
 _N = r"(\d{1,2}|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)"
 
 
-def _fact(value: str, label: str, sentence: str, source: str = "text") -> Fact:
-    return Fact(value=value, label=label, evidence=clip(sentence, 260), source=source)  # type: ignore[arg-type]
+_LIMIT = 260
+
+
+def _fact(value: str, label: str, sentence: str, source: str = "text", mark: str | None = None) -> Fact:
+    """`mark` is the exact run of words that decided the fact; the site underlines it inside the sentence.
+    A long sentence is cut to a window around the mark, so the deciding words are never clipped away."""
+    sentence = re.sub(r"\s+", " ", sentence).strip()
+    mark = re.sub(r"\s+", " ", mark).strip() if mark else None
+    if mark and mark not in sentence:
+        mark = None
+    if len(sentence) > _LIMIT and mark:
+        at = sentence.index(mark)
+        begin = max(0, min(at - 80, len(sentence) - _LIMIT))
+        if begin > 0:
+            space = sentence.find(" ", begin)
+            begin = space + 1 if 0 <= space < at else begin
+        piece = sentence[begin : begin + _LIMIT]
+        if begin + _LIMIT < len(sentence):
+            cut = piece.rfind(" ")
+            piece = (piece[:cut] if cut > at - begin + len(mark) else piece).rstrip(" ,;:-") + "…"
+        evidence = ("…" if begin > 0 else "") + piece
+    else:
+        evidence = clip(sentence, _LIMIT)
+    if mark and mark not in evidence:
+        mark = None
+    return Fact(value=value, label=label, evidence=evidence, source=source, mark=mark)  # type: ignore[arg-type]
 
 
 def _n(s: str) -> int:
@@ -61,32 +85,43 @@ _OWN_VISA = re.compile(
     r"|\b(?:own|spouse|parent|father|family|husband|student|university)[\s'’s-]*(?:sponsor(?:ed|ship)?|visa)\b"
     r"|\bvisa\s+sponsorship\s+(?:is\s+|will\s+)?not\b|\bno\s+visa\s+sponsorship\b|\b(?:unable|not\s+able)\s+to\s+(?:sponsor|provide\s+(?:a\s+)?visa)"
     r"|\bcurrently\s+(?:based|residing|living)\s+in\s+(?:the\s+)?(?:uae|dubai|abu\s+dhabi)\b|\bmust\s+be\s+(?:based|resident|residing)\s+in\s+(?:the\s+)?(?:uae|dubai)"
+    r"|\bmust\s+be\s+an?\s+(?:uae|dubai|abu\s+dhabi)\s+resident\b|\b(?:uae|dubai)\s+residents?\s+only\b"
     r"|\bno\s+objection\s+(?:certificate|letter)\b|\bnoc\b\s+from",
     _I,
 )
+_PROGRAMME = re.compile(r"\bemirati[sz]ation\b|\bnafis\b|\btawteen\b|\bfamily\s+book\b", _I)
 _TITLE_NATIONAL = re.compile(r"\buaen\b|\buae\s+nationals?\b|\bemiratis?\b|\bnational\s+graduates?\b", _I)
 _TITLE_PREFERRED = re.compile(r"preferred|preference", _I)
 
 
 def eligibility(title: str, sents: list[str]) -> Fact | None:
-    if _TITLE_NATIONAL.search(title):
+    m = _TITLE_NATIONAL.search(title)
+    if m:
         if _TITLE_PREFERRED.search(title):
-            return _fact("nationals_preferred", "UAE nationals preferred", title, "title")
-        return _fact("nationals_only", "UAE nationals only", title, "title")
+            return _fact("nationals_preferred", "UAE nationals preferred", title, "title", m.group(0))
+        return _fact("nationals_only", "UAE nationals only", title, "title", m.group(0))
     preferred: Fact | None = None
     for s in sents:
-        if _PREFERRED.search(s):
-            preferred = preferred or _fact("nationals_preferred", "UAE nationals preferred", s)
-        elif _ONLY.search(s) and _NATIONAL_ANY.search(s) or re.search(r"\bemirati[sz]ation\b|\bnafis\b|\btawteen\b|\bfamily\s+book\b", s, _I):
-            return _fact("nationals_only", "UAE nationals only", s)
+        m = _PREFERRED.search(s)
+        if m:
+            preferred = preferred or _fact("nationals_preferred", "UAE nationals preferred", s, mark=m.group(0))
+            continue
+        m = _ONLY.search(s)
+        if m and _NATIONAL_ANY.search(s):
+            return _fact("nationals_only", "UAE nationals only", s, mark=m.group(0))
+        m = _PROGRAMME.search(s)
+        if m:
+            return _fact("nationals_only", "UAE nationals only", s, mark=m.group(0))
     if preferred:
         return preferred
     for s in sents:
-        if _OPEN.search(s):
-            return _fact("open", "Open to all nationalities", s)
+        m = _OPEN.search(s)
+        if m:
+            return _fact("open", "Open to all nationalities", s, mark=m.group(0))
     for s in sents:
-        if _OWN_VISA.search(s):
-            return _fact("own_visa", "Needs your own UAE visa", s)
+        m = _OWN_VISA.search(s)
+        if m:
+            return _fact("own_visa", "Needs your own UAE visa", s, mark=m.group(0))
     return None
 
 
@@ -112,8 +147,9 @@ def _digits(s: str) -> int:
 
 def pay(sents: list[str]) -> Fact | None:
     for s in sents:
-        if _UNPAID.search(s):
-            return _fact("unpaid", "Unpaid", s)
+        m = _UNPAID.search(s)
+        if m:
+            return _fact("unpaid", "Unpaid", s, mark=m.group(0))
     for s in sents:
         if not _PAY_CUE.search(s):
             continue
@@ -130,19 +166,20 @@ def pay(sents: list[str]) -> Fact | None:
         per = _PER.search(s)
         period = _PERIOD.get(next(g for g in per.groups() if g).lower(), "") if per else ""
         amount = f"{cur} {lo:,}" + (f" to {_digits(high):,}" if high else "") + (f" a {period}" if period else "")
-        return _fact("amount", amount, s)
+        return _fact("amount", amount, s, mark=m.group(0))
     for s in sents:
-        if _PAID.search(s):
-            return _fact("paid", "Paid, amount not stated", s)
+        m = _PAID.search(s)
+        if m:
+            return _fact("paid", "Paid, amount not stated", s, mark=m.group(0))
     return None
 
 
 # ------------------------------------------------------------------- duration
 
-_SPAN = re.compile(rf"\b{_N}\s*(?:\+\s*)?(?:(?:-|–|—|to|or)\s*{_N}\s*)?[\s-]*(weeks?|months?|years?)\b", _I)
+_SPAN = re.compile(rf"\b{_N}\s*(?:\+\s*)?(?:(?:-|–|—|to|or)\s*{_N}\s*)?[\s-]*(?:consecutive\s+|full\s+|calendar\s+)?(weeks?|months?|years?)\b", _I)
 _DUR_CUE = re.compile(
     r"\b(?:duration|internship|intern\b|placement|program(?:me)?|traineeship|contract|fixed[\s-]term|period\s+of|available\s+(?:to\s+work\s+)?(?:for|full)|commit(?:ment)?|"
-    r"long\b|lasting|lasts|runs?\s+for|minimum\s+of|for\s+a\s+(?:minimum|period))\b",
+    r"long\b|lasting|lasts|runs?\s+for|minimum\s+of|for\s+a\s+(?:minimum|period)|opportunity|full[\s-]?time)\b",
     _I,
 )
 _DUR_NOT = re.compile(r"\bexperience\b|\bprobation|\bnotice\s+period|\bwithin\b|\bgraduat(?:ed|ing|ion)\b|\bold\b|\bissued\b|\bvalid\b|\bago\b|\bevery\b|\bleave\b", _I)
@@ -164,7 +201,7 @@ def duration(title: str, sents: list[str]) -> Fact | None:
                     continue
                 span = f"{low} to {high}" if high and high != low else f"{low}"
                 plural = "" if (not high and low == 1) else "s"
-                return _fact(f"{low}-{high or low}-{unit}", f"{span} {unit}{plural}", s, source)
+                return _fact(f"{low}-{high or low}-{unit}", f"{span} {unit}{plural}", s, source, m.group(0))
     return None
 
 
@@ -175,7 +212,7 @@ _START_CUE = re.compile(
     _I,
 )
 _WHEN_TOKEN = re.compile(rf"\b({_MONTH}|{_SEASON})\b\.?", _I)
-_YEAR = re.compile(r"\b(20\d\d)\b")
+_YEAR_AFTER = re.compile(r"\s*(?:\d{1,2}(?:st|nd|rd|th)?\s*,?)?\s*,?\s*(20\d\d)\b")
 _SEASON_YEAR = re.compile(rf"\b({_SEASON}\s+20\d\d|{_MONTH}\.?\s+20\d\d|20\d\d\s+{_SEASON})\b", _I)
 _IMMEDIATE = re.compile(r"\b(?:immediate(?:ly)?\s+(?:start|joiner|joining|available|availability)|start\s+(?:immediately|asap)|available\s+to\s+(?:start|join)\s+immediately|immediate\s+joiners?)\b", _I)
 _START_NOT = re.compile(r"\bgraduat|\bfounded|\bestablished|\bsince\b|\bdeadline|\bapply\s+by|\bclos(?:e|ing)", _I)
@@ -188,7 +225,7 @@ def _when_word(token: str) -> str:
     return t.capitalize() if t in _SEASONS else _MONTH_NAME.get(t[:3], t.capitalize())
 
 
-def _when(window: str) -> str | None:
+def _when(window: str) -> tuple[str, int] | None:
     """Read the time out of the words after a start cue: "on 1st March or 1st September 2027",
     "an internship between January and December 2027", "mid-June 2027", "in summer 2027"."""
     tokens = list(_WHEN_TOKEN.finditer(window))
@@ -210,26 +247,29 @@ def _when(window: str) -> str | None:
         if joiner:
             words.append(_when_word(tokens[1].group(1)))
             end = tokens[1].end()
-    year = _YEAR.search(window[end : end + 7])
+    year = _YEAR_AFTER.match(window[end:])
     text = f" {joiner} ".join(words)
-    return f"{text} {year.group(1)}" if year else text
+    if year:
+        return f"{text} {year.group(1)}", end + year.end()
+    return text, end
 
 
 def start(title: str, sents: list[str]) -> Fact | None:
     m = _SEASON_YEAR.search(title)
     if m:
         label = " ".join(p if p.isdigit() else _when_word(p) for p in m.group(1).split())
-        return _fact("when", label, title, "title")
+        return _fact("when", label, title, "title", m.group(1))
     for s in sents:
-        if _IMMEDIATE.search(s):
-            return _fact("immediate", "Immediate start", s)
+        m = _IMMEDIATE.search(s)
+        if m:
+            return _fact("immediate", "Immediate start", s, mark=m.group(0))
     for s in sents:
         for cue in _START_CUE.finditer(s):
             if _START_NOT.search(s[max(0, cue.start() - 40) : cue.end() + 14]):
                 continue
-            when = _when(s[cue.end() : cue.end() + 90])
-            if when:
-                return _fact("when", when, s)
+            found = _when(s[cue.end() : cue.end() + 90])
+            if found:
+                return _fact("when", found[0], s, mark=s[cue.start() : cue.end() + found[1]])
     return None
 
 
@@ -239,7 +279,8 @@ _STAGES: list[tuple[str, str, re.Pattern[str]]] = [
     ("penultimate", "Penultimate-year students", re.compile(r"\bpenultimate[\s-]+year\b|\bsecond[\s-]+to[\s-]+last\s+year\b|\bthird[\s-]year\s+(?:student|undergraduate)", _I)),
     ("final", "Final-year students", re.compile(r"\bfinal[\s-]+(?:year|semester|term)\b|\blast\s+(?:year|semester)\s+of\s+(?:study|studies|university|a|an|the|your)\b|\bgraduating\s+(?:in|by|between)\b", _I)),
     ("enrolled", "Current students", re.compile(r"\bcurrently\s+(?:enrolled|pursuing|studying|completing)\b|\benrolled\s+in\b|\bpursuing\s+a\b|\b(?:university|college)\s+students?\b|\bundergraduate\s+students?\b|\bstudents?\s+(?:who|in\s+their|from)\b", _I)),
-    ("graduate", "Recent graduates", re.compile(r"\b(?:recent|fresh|new)(?:ly)?\s+grad(?:uate)?s?\b|\brecently\s+(?:graduated|completed)\b|\bgraduated\s+(?:within|in\s+the\s+last)\b|\bcompleted\s+(?:a|your)\s+(?:bachelor|degree)", _I)),
+    ("graduate", "Recent graduates", re.compile(r"\b(?:recent|fresh|new)(?:ly)?\s+grad(?:uate)?s?\b|\brecently\s+(?:graduated|completed)\b|\bgraduated\s+(?:within|in\s+the\s+last)\b|\bcompleted\s+(?:a|your)\s+(?:bachelor|degree)"
+        r"|\b(?:completed|received|obtained|earned)\b[^.\n]{0,60}\bdegree\b[^.\n]{0,20}\b(?:within|in)\s+the\s+(?:last|past)\b", _I)),
 ]
 _LEVELS: list[tuple[str, re.Pattern[str]]] = [
     ("Bachelor's", re.compile(r"\bbachelor(?:'|’)?s?\b|\bundergraduate\b|\bb\.?(?:sc|tech|eng|e|a|com|ba)\b\.?|\bbs\b", _I)),
@@ -251,14 +292,16 @@ _LEVELS: list[tuple[str, re.Pattern[str]]] = [
 def stage(sents: list[str]) -> Fact | None:
     for value, label, pattern in _STAGES:
         for s in sents:
-            if pattern.search(s):
+            m = pattern.search(s)
+            if m:
                 levels = [name for name, p in _LEVELS if p.search(s)]
-                return _fact(value, label + (f" ({', '.join(levels)})" if levels else ""), s)
+                return _fact(value, label + (f" ({', '.join(levels)})" if levels else ""), s, mark=m.group(0))
     for s in sents:
         if re.search(r"\bdegree\b|\bstudents?\b|\bqualification", s, _I):
-            levels = [name for name, p in _LEVELS if p.search(s)]
+            found = [(name, p.search(s)) for name, p in _LEVELS]
+            levels = [name for name, m in found if m]
             if levels:
-                return _fact("degree", ", ".join(levels), s)
+                return _fact("degree", " or ".join(levels) + " degree", s, mark=next(m.group(0) for _, m in found if m))
     return None
 
 
@@ -292,8 +335,9 @@ def mode(feed: str | None, sents: list[str]) -> Fact | None:
                 return _fact(value, label, f'The employer files it as "{feed}".', "feed")
     for value, label, pattern in _MODES:
         for s in sents:
-            if pattern.search(s):
-                return _fact(value, label, s)
+            m = pattern.search(s)
+            if m:
+                return _fact(value, label, s, mark=m.group(0))
     return None
 
 
@@ -310,7 +354,7 @@ def deadline(sents: list[str]) -> Fact | None:
     for s in sents:
         m = _DEADLINE.search(s)
         if m:
-            return _fact("date", re.sub(r"\s+", " ", m.group(1)).strip(), s)
+            return _fact("date", re.sub(r"\s+", " ", m.group(1)).strip(), s, mark=m.group(0))
     return None
 
 

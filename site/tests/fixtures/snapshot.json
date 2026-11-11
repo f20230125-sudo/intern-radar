@@ -1,0 +1,4435 @@
+{
+ "schema_version": 1,
+ "rules_version": 5,
+ "generated_at": "2026-11-11T04:33:38+00:00",
+ "started_at": "2026-11-11T04:31:22+00:00",
+ "roles": [
+  {
+   "id": "greenhouse:binance:5024608101",
+   "slug": "binance-binance-accelerator-program-compliance-training-ai-53996f",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Compliance Training (AI)",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024608101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 6,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "AI and machine learning",
+    "Legal and compliance"
+   ],
+   "skills": [
+    "LLMs and NLP",
+    "Compliance and AML",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Social media and content",
+    "Animation and video",
+    "Customer service",
+    "Presentations"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Current undergraduate, postgraduate students, or fresh graduates.",
+     "source": "text",
+     "mark": "fresh graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "We are looking for a Compliance Training AI BAP to support the development and delivery of engaging, technology-enabled compliance learning initiatives across the organization. This role offers hands-on exposure to instructional design, training operations, learning analytics and AI-driven learning…",
+   "posted_at": "2026-11-10T01:22:59-05:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workable:bayutdubizzle:222E77A4D9",
+   "slug": "bayut-dubizzle-machine-learning-intern-469382",
+   "employer": "Bayut & dubizzle",
+   "board": "workable:bayutdubizzle",
+   "system": "workable",
+   "title": "Machine Learning - Intern",
+   "url": "https://apply.workable.com/j/222E77A4D9",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "AI and machine learning"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Machine learning",
+    "Statistics",
+    "Data engineering",
+    "Dashboards and reporting"
+   ],
+   "facts": {
+    "duration": {
+     "value": "6-6-month",
+     "label": "6 months",
+     "evidence": "Bayut & dubizzle - The Arab World's only Homegrown Unicorn Business is now inviting applications for internships of 6 months duration in our Business Intelligence department.",
+     "source": "text",
+     "mark": "6 months"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in AI, Statistics, Math, Operations Research, Engineering, Computer Science, or a related quantitative field.",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "World-class mentors, fast paced & high performing work environment, our open culture and the opportunity to make an impact are just a few of the reasons why our internship program is highly sought after.",
+   "posted_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-10T10:27:52+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workable:bayutdubizzle:7FDAFEBBEE",
+   "slug": "bayut-dubizzle-data-analyst-intern-5475dd",
+   "employer": "Bayut & dubizzle",
+   "board": "workable:bayutdubizzle",
+   "system": "workable",
+   "title": "Data Analyst - Intern",
+   "url": "https://apply.workable.com/j/7FDAFEBBEE",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Data and analytics"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "Data analysis",
+    "Statistics",
+    "Dashboards and reporting",
+    "Sales",
+    "Marketing",
+    "Operations and logistics",
+    "Research and writing"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in statistics, mathematics, computer science, or related field.",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": "Data Analyst",
+   "excerpt": "As a Data Analyst - Intern, you will be in a central position as you will be evangelising data and our methodologies to other functional analysts and other stakeholders in the company.",
+   "posted_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-10T10:27:52+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:barclays:External_Career_Site_Barclays:JR-0000125149",
+   "slug": "barclays-sales-trading-and-structuring-off-cycle-internship-9181e3",
+   "employer": "Barclays",
+   "board": "workday:barclays:External_Career_Site_Barclays",
+   "system": "workday",
+   "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Sales--Trading-and-Structuring-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000125149",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai International Financial Centre, Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Finance and accounting",
+    "Sales and business development"
+   ],
+   "skills": [
+    "Financial modelling",
+    "Audit and risk",
+    "Trading and markets",
+    "Sales",
+    "Process improvement",
+    "Customer service",
+    "Presentations",
+    "Arabic"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Join us on an Off-Cycle Internship for 3-6 months.",
+     "source": "text",
+     "mark": "3-6 months"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's)",
+     "evidence": "To be considered for this programme, you must be in your penultimate or final year of your degree, in any discipline.",
+     "source": "text",
+     "mark": "final year"
+    }
+   },
+   "department": null,
+   "excerpt": "If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard.",
+   "posted_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-287598",
+   "slug": "mastercard-global-markets-summer-internship-2027-product-mana-f22137",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Summer Internship\"",
+   "fields": [
+    "Product and design",
+    "Sales and business development"
+   ],
+   "skills": [
+    "Sales",
+    "UX research and design",
+    "Product management",
+    "Project management"
+   ],
+   "facts": {
+    "duration": {
+     "value": "10-12-week",
+     "label": "10 to 12 weeks",
+     "evidence": "Available to work full-time for 10- 12 weeks starting on June 2027",
+     "source": "text",
+     "mark": "10- 12 weeks"
+    },
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "stage": {
+     "value": "penultimate",
+     "label": "Penultimate-year students (Bachelor's, Master's)",
+     "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between December 2027 to July 2028.",
+     "source": "text",
+     "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2027",
+     "evidence": "Available to work full-time for 10- 12 weeks starting on June 2027",
+     "source": "text",
+     "mark": "starting on June 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred) Why join Mastercard’s internship program?",
+   "posted_at": "2026-11-10T00:00:00+00:00",
+   "first_seen": "2026-11-10T10:27:52+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-284922",
+   "slug": "mastercard-intern-technical-program-management-dubai-united-a-c4540d",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Intern, Technical Program Management",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Intern--Technical-Program-Management_R-284922-2",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Software engineering",
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Data analysis",
+    "Compliance and AML"
+   ],
+   "facts": {
+    "duration": {
+     "value": "10-12-week",
+     "label": "10 to 12 weeks",
+     "evidence": "Available to work full-time for 10-12 weeks starting June 2027",
+     "source": "text",
+     "mark": "10-12 weeks"
+    },
+    "stage": {
+     "value": "penultimate",
+     "label": "Penultimate-year students (Bachelor's, Master's)",
+     "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between December 2027 and July 2028.",
+     "source": "text",
+     "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2027",
+     "evidence": "Available to work full-time for 10-12 weeks starting June 2027",
+     "source": "text",
+     "mark": "starting June 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Intern, Technical Program Management - Dubai, United Arab Emirates Why join Mastercard’s internship program?",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-285263",
+   "slug": "mastercard-associate-analyst-business-administration-launch-p-8e2f18",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Associate Analyst, Business Administration- Launch Program 2027",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Associate-Analyst--Business-Administration--Launch-Program-2027---Dubai--UAE_R-285263-2",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Launch Program\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Sales",
+    "Project management",
+    "Presentations"
+   ],
+   "facts": {
+    "duration": {
+     "value": "18-18-month",
+     "label": "18 months",
+     "evidence": "Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders.",
+     "source": "text",
+     "mark": "18-month"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between January 2026 and August 2027",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders. You'll work on real business challenges, applying your skills to projects that create meaningful impact.",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-287600",
+   "slug": "mastercard-associate-product-specialist-launch-program-2027-d-80ffbb",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Associate Product Specialist, Launch Program 2027",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Associate-Product-Specialist--Launch-Program-2027---Dubai--UAE--UAE-National-Preferred-_R-287600-2",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Launch Program\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Product management"
+   ],
+   "facts": {
+    "duration": {
+     "value": "18-18-month",
+     "label": "18 months",
+     "evidence": "Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders.",
+     "source": "text",
+     "mark": "18-month"
+    },
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Associate Product Specialist, Launch Program 2027 – Dubai, UAE (UAE National Preferred)",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between March 2026 and August 2027",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "We believe as our company grows, so should you. Over the course of this 18-month program, you'll build specialized expertise through hands-on experience, structured learning, and mentorship from industry leaders.",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-292816",
+   "slug": "mastercard-global-markets-launch-graduate-rotational-program-d66214",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Launch-Graduate-Rotational-Program-2027---Associate-Product-Specialist---Associate-Analyst--Account-Management--Dubai--UAE--UAE-Nationals-Preferred-_R-292816-2",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate Rotation\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Sales",
+    "UX research and design",
+    "Product management",
+    "Project management"
+   ],
+   "facts": {
+    "duration": {
+     "value": "18-18-month",
+     "label": "18 months",
+     "evidence": "Throughout this 18-month program, you'll develop the ability to connect ideas, people, and markets to drive commercial impact.",
+     "source": "text",
+     "mark": "18-month"
+    },
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management- Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between March 2026 and August 2027",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "March or September 2027",
+     "evidence": "Available to start on 1st March or 1st September 2027",
+     "source": "text",
+     "mark": "start on 1st March or 1st September 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Global Markets Launch Graduate Rotational Program 2027 - Associate Product Specialist & Associate Analyst, Account Management- Dubai, UAE (UAE Nationals Preferred) Throughout this 18-month program, you'll develop the ability to connect ideas, people, and markets to drive commercial impact.",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:philips:jobs-and-careers:594205",
+   "slug": "philips-business-analytics-graduate-image-guided-therapy-e-65b829",
+   "employer": "Philips",
+   "board": "workday:philips:jobs-and-careers",
+   "system": "workday",
+   "title": "Business Analytics Graduate – Image Guided Therapy (Emiratization)",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Dubai/Business-Analytics-Graduate---Image-Guided-Therapy--Emiratization-_594205",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate –\"",
+   "fields": [
+    "Data and analytics"
+   ],
+   "skills": [
+    "Excel",
+    "Data analysis",
+    "Dashboards and reporting",
+    "Sales",
+    "CRM",
+    "Marketing",
+    "Presentations",
+    "Regulatory affairs and pharma"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Business Analytics Graduate – Image Guided Therapy (Emiratization)",
+     "source": "text",
+     "mark": "Emiratization"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "You recently graduated (2024 or later) with a Bachelor’s or Master’s degree in Biomedical Engineering, Electrical/Electronic Engineering, Business, Economics, or a related field and you speak fluen",
+     "source": "text",
+     "mark": "recently graduated"
+    }
+   },
+   "department": null,
+   "excerpt": "Business Analytics Graduate – Image Guided Therapy (Emiratization) You will support the Image Guided Therapy META team by turning business data into actionable insights.",
+   "posted_at": "2026-11-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:mastercard:CorporateCareers:R-287599",
+   "slug": "mastercard-product-management-intern-summer-2027-dubai-uae-ua-701f92",
+   "employer": "Mastercard",
+   "board": "workday:mastercard:CorporateCareers",
+   "system": "workday",
+   "title": "Product Management Intern, Summer 2027",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Product-Management-Intern--Summer-2027---Dubai--UAE--UAE-Nationals-Preferred-_R-287599-1",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Product and design"
+   ],
+   "skills": [
+    "Product management"
+   ],
+   "facts": {
+    "duration": {
+     "value": "10-12-week",
+     "label": "10 to 12 weeks",
+     "evidence": "Available to work full-time for 10-12 weeks starting June 2027",
+     "source": "text",
+     "mark": "10-12 weeks"
+    },
+    "eligibility": {
+     "value": "nationals_preferred",
+     "label": "UAE nationals preferred",
+     "evidence": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "stage": {
+     "value": "penultimate",
+     "label": "Penultimate-year students (Bachelor's, Master's)",
+     "evidence": "Penultimate Year Students currently enrolled in a Bachelor’s or Master’s degree, with an anticipated graduation date between Dec 2027 to July 2028.",
+     "source": "text",
+     "mark": "Penultimate Year"
+    },
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)",
+     "source": "title",
+     "mark": "Summer 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred) Why join Mastercard’s internship program?",
+   "posted_at": "2026-11-06T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5020282101",
+   "slug": "binance-binance-accelerator-program-vip-institutional-sale-34dfc8",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program- VIP & Institutional Sales",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5020282101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Data analysis",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales",
+    "CRM",
+    "Marketing"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's or Master's degree",
+     "evidence": "Foundational understanding of financial markets is preferred, either through professional experience or education, such as a Bachelor's or Master's degree in Business, Finance, Economics, or a related field.",
+     "source": "text",
+     "mark": "Bachelor's"
+    }
+   },
+   "department": null,
+   "excerpt": "Our team serves the most sophisticated trading users and participants in the trading and investment industry and we offer you an opportunity to build your portfolio of clients alongside Binance and amongst top colleagues.",
+   "posted_at": "2026-11-05T08:23:18-05:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5025885101",
+   "slug": "binance-binance-accelerator-program-brand-design-d6069d",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Brand Design",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5025885101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 3,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Marketing and communications"
+   ],
+   "skills": [
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Marketing",
+    "Design tools"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    }
+   },
+   "department": null,
+   "excerpt": "As a Brand Intern within the Binance Brand Design team, you will play a key role in bringing our global brand identity to life. We are looking for a creative individual with a sharp art taste, strong graphic design fundamentals, and a strong appetite for exploring cutting-edge AI design workflows to…",
+   "posted_at": "2026-11-05T03:05:07-05:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:deliveroo:8353630",
+   "slug": "deliveroo-rider-engagement-associate-uae-national-1a03a2",
+   "employer": "Deliveroo",
+   "board": "greenhouse:deliveroo",
+   "system": "greenhouse",
+   "title": "Rider Engagement Associate - UAE National",
+   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8353630",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"1–3 years of experience\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Excel",
+    "Trading and markets",
+    "Sales",
+    "Marketing",
+    "Design tools",
+    "Hindi or Urdu"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Rider Engagement Associate - UAE National",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in Business, Marketing, Communications, or a related field",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. We’re looking for an Emirati Rider Engagement Associate to join our UAE team.",
+   "posted_at": "2026-11-04T22:56:03-05:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:rollsroyce:Intern_Graduate:JR6160847",
+   "slug": "rolls-royce-intern-sales-dubai-uae-d69823",
+   "employer": "Rolls-Royce",
+   "board": "workday:rollsroyce:Intern_Graduate",
+   "system": "workday",
+   "title": "Intern, Sales",
+   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Jebel-Ali/Rolls-Royce--Intern--Sales---Dubai--UAE_JR6160847",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Jebel Ali"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Excel",
+    "Sales",
+    "CRM",
+    "Marketing",
+    "Presentations"
+   ],
+   "facts": {
+    "deadline": {
+     "value": "date",
+     "label": "13th November 2026",
+     "evidence": "Closing date: 13th November 2026",
+     "source": "text",
+     "mark": "Closing date: 13th November 2026"
+    },
+    "duration": {
+     "value": "12-12-month",
+     "label": "12 months",
+     "evidence": "Full time, 12 months",
+     "source": "text",
+     "mark": "12 months"
+    },
+    "eligibility": {
+     "value": "own_visa",
+     "label": "Needs your own UAE visa",
+     "evidence": "In order to be considered for this role, you must be a UAE resident and currently live in one of the following emirates: Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, or Fujairah.",
+     "source": "text",
+     "mark": "must be a UAE resident"
+    },
+    "pay": {
+     "value": "amount",
+     "label": "AED 7,000",
+     "evidence": "Starting salary: 7,000 AED",
+     "source": "text",
+     "mark": "7,000 AED"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Student/ last year student pursuing a degree in Engineering, Business, Marketing or a related field, available for full-time job",
+     "source": "text",
+     "mark": "pursuing a"
+    },
+    "start": {
+     "value": "when",
+     "label": "January 2027",
+     "evidence": "Start date: January 2027",
+     "source": "text",
+     "mark": "Start date: January 2027"
+    }
+   },
+   "department": null,
+   "excerpt": "Our Internship programmes are designed to help you build your career from day one. You'll work on meaningful projects, learn from experienced colleagues and develop the skills to make a real impact.",
+   "posted_at": "2026-11-04T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5012687101",
+   "slug": "binance-binance-accelerator-program-public-relations-e050c5",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Public Relations",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5012687101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Marketing and communications"
+   ],
+   "skills": [
+    "Excel",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Marketing",
+    "Public relations",
+    "Operations and logistics",
+    "Presentations"
+   ],
+   "facts": {
+    "duration": {
+     "value": "6-6-month",
+     "label": "6 months",
+     "evidence": "We are looking for a proactive, organized and enthusiastic Regional PR & Communications individual to join our MENA team for a six-month opportunity.",
+     "source": "text",
+     "mark": "six-month"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in Communications, Public Relations, Marketing, Journalism or a related field, either completed or in progress.",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "The MENA PR & Communications team is responsible for driving Binance’s regional communications strategy, strengthening brand reputation and supporting media relations, influencer engagement and strategic communications initiatives across the Middle East, North Africa, Pakistan and Turkey.",
+   "posted_at": "2026-10-29T03:10:43-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5006691101",
+   "slug": "binance-binance-accelerator-program-sanctions-fully-remote-666192",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Sanctions (Fully Remote)",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5006691101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 5,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Compliance and AML",
+    "Trading and markets",
+    "Crypto and blockchain"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Current university students and recent graduates",
+     "source": "text",
+     "mark": "university students"
+    }
+   },
+   "department": null,
+   "excerpt": "You will be given the opportunity to experience life at Binance and understand what goes on behind the scenes of the worlds’ leading blockchain ecosystem. Alongside your job, there will also be a focus on networking and development, which will expand your professional network and build transferable…",
+   "posted_at": "2026-10-29T00:23:01-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:unilever:Unilever_Experienced_Professionals:R-1190568",
+   "slug": "unilever-digital-specialist-2f5164",
+   "employer": "Unilever",
+   "board": "workday:unilever:Unilever_Experienced_Professionals",
+   "system": "workday",
+   "title": "Digital Specialist",
+   "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Dubai-United-Arab-Emirates/Digital-Specialist_R-1190568",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"0–2 years of experience\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "C#",
+    "Git",
+    "Cloud (AWS, Azure, GCP)",
+    "APIs",
+    "Machine learning",
+    "LLMs and NLP",
+    "Data analysis",
+    "Trading and markets",
+    "Operations and logistics",
+    "Electrical engineering",
+    "Networking and security"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Preferred: Bachelor’s degree, plus hands-on project experience delivering apps, AI or automation in an industrial / factory environment.",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "At Unilever, your career will be a unique journey, grounded in our inclusive, collaborative, and flexible working environment. We don’t believe in the ‘one size fits all’ approach and instead we will equip you with the tools you need to shape your own future.",
+   "posted_at": "2026-10-29T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:gsk:GSKCareers:448169",
+   "slug": "gsk-junior-procurement-coordinator-uae-national-f7f995",
+   "employer": "GSK",
+   "board": "workday:gsk:GSKCareers",
+   "system": "workday",
+   "title": "Junior Procurement Coordinator",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UAE---Dubai/Junior-Procurement-Coordinator--UAE-National-_448169",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "UAE - Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "says \"entry-level role\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Excel",
+    "Compliance and AML",
+    "Project management",
+    "Operations and logistics",
+    "Procurement",
+    "Customer service"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Junior Procurement Coordinator (UAE National)",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "The employer files it as \"Hybrid (Remote & On-site)\".",
+     "source": "feed",
+     "mark": null
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Undergraduate degree in Business Administration, Supply Chain, Procurement, Finance, Commerce, or a related field.",
+     "source": "text",
+     "mark": "Undergraduate"
+    }
+   },
+   "department": null,
+   "excerpt": "Internship: Junior Procurement Coordinator (UAE National) Internship or academic exposure to Procurement, Supply Chain, or Administration.",
+   "posted_at": "2026-10-28T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10589911",
+   "slug": "amazon-aws-commercial-sales-internship-846d55",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "AWS Commercial Sales Internship",
+   "url": "https://www.amazon.jobs/en/jobs/10589911/aws-commercial-sales-internship",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Excel",
+    "Cloud (AWS, Azure, GCP)",
+    "LLMs and NLP",
+    "Data analysis",
+    "Trading and markets",
+    "Sales",
+    "Project management",
+    "Agile",
+    "Arabic"
+   ],
+   "facts": {
+    "duration": {
+     "value": "12-12-week",
+     "label": "12 weeks",
+     "evidence": "The internship starts mid-June 2027 and has a duration of 12 weeks.",
+     "source": "text",
+     "mark": "12 weeks"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Candidates must be a UAE National with a Family Book, and must be currently enrolled at a university, graduating with a Bachelor's or Master's degree in 2027 (preferred) or 2028.",
+     "source": "text",
+     "mark": "must be a UAE National"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "This paid internship gives you the chance to take on a real business project, developed in a team connected to Amazon Global Sales.",
+     "source": "text",
+     "mark": "paid internship"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Candidates must be a UAE National with a Family Book, and must be currently enrolled at a university, graduating with a Bachelor's or Master's degree in 2027 (preferred) or 2028.",
+     "source": "text",
+     "mark": "currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2027",
+     "evidence": "The internship starts mid-June 2027 and has a duration of 12 weeks.",
+     "source": "text",
+     "mark": "starts mid-June 2027"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "The internship starts mid-June 2027 and has a duration of 12 weeks. At Amazon Web Services (AWS), you will grow into the high-impact, visionary person you know you're ready to be, taking on new challenges and developing new skills every day in our AI-first cloud environment.",
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:barclays:External_Career_Site_Barclays:JR-0000124444",
+   "slug": "barclays-banking-off-cycle-internship-programme-2027-dubai-239a3f",
+   "employer": "Barclays",
+   "board": "workday:barclays:External_Career_Site_Barclays",
+   "system": "workday",
+   "title": "Banking Off Cycle Internship Programme 2027 Dubai",
+   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Dubai-International-Financial-Centre-Dubai/Banking-Off-Cycle-Internship-Programme-2027-Dubai_JR-0000124444",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai International Financial Centre, Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Financial modelling",
+    "Audit and risk",
+    "Trading and markets",
+    "Process improvement",
+    "Customer service",
+    "Presentations",
+    "Arabic"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Join us on an Off-Cycle Internship for 3-6 months.",
+     "source": "text",
+     "mark": "3-6 months"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's)",
+     "evidence": "To be considered for this programme, you must be in your penultimate or final year of your degree, in any discipline.",
+     "source": "text",
+     "mark": "final year"
+    }
+   },
+   "department": null,
+   "excerpt": "If the position has leadership responsibilities, People Leaders are expected to demonstrate a clear set of leadership behaviours to create an environment for colleagues to thrive and deliver to a consistently excellent standard.",
+   "posted_at": "2026-10-27T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:novartis:Novartis_Careers:REQ-10090862",
+   "slug": "novartis-marketing-associate-maseeraty-graduate-program-uae-f1be42",
+   "employer": "Novartis",
+   "board": "workday:novartis:Novartis_Careers",
+   "system": "workday",
+   "title": "Marketing Associate - Maseeraty Graduate Program",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Dubai/Marketing-Associate---Maseeraty-Graduate-Program--UAE_REQ-10090862-1",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate Program\"",
+   "fields": [
+    "Marketing and communications"
+   ],
+   "skills": [
+    "Compliance and AML",
+    "Marketing",
+    "Social media and content",
+    "Regulatory affairs and pharma",
+    "Arabic"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Emirati Graduate Program Associate (Fixed Term Contract)",
+     "source": "text",
+     "mark": "Emirati Graduate"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's)",
+     "evidence": "If you are a UAE National, hold a UAE Family Book and have received a Bachelor’s Degree in the past 3 years and are passionate to join an organization that promotes an unbossed, diverse and flexible working environment; hurry and apply now.",
+     "source": "text",
+     "mark": "received a Bachelor’s Degree in the past"
+    }
+   },
+   "department": null,
+   "excerpt": "Emirati Graduate Program Associate (Fixed Term Contract) We are welcoming UAE National Talents to apply for our Novartis Emiratization Program which will provide you with real world experience that will allow you to put your theoretical learning into practice.",
+   "posted_at": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:gsk:GSKCareers:449626",
+   "slug": "gsk-government-operations-associate-uae-nationals-9f5ed0",
+   "employer": "GSK",
+   "board": "workday:gsk:GSKCareers",
+   "system": "workday",
+   "title": "Government Operations Associate",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UAE---Dubai/Government-Operations-Associate--UAE-Nationals-_449626",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "UAE - Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "says \"entry-level opportunity\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Audit and risk",
+    "Project management",
+    "Procurement",
+    "Presentations"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Government Operations Associate (UAE Nationals)",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "The employer files it as \"Hybrid (Remote & On-site)\".",
+     "source": "feed",
+     "mark": null
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "This entry-level opportunity is ideal for a recent graduate or student looking to gain practical experience within HR and Government Operations in a multinational environment.",
+     "source": "text",
+     "mark": "recent graduate"
+    }
+   },
+   "department": null,
+   "excerpt": "This entry-level opportunity is ideal for a recent graduate or student looking to gain practical experience within HR and Government Operations in a multinational environment. Recent graduate or student seeking practical experience within HR and Government Operations.",
+   "posted_at": "2026-10-23T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10586108",
+   "slug": "amazon-graduate-area-manager-579b54",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Graduate Area Manager",
+   "url": "https://www.amazon.jobs/en/jobs/10586108/graduate-area-manager",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Data analysis",
+    "Process improvement",
+    "Customer service"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's or Master's degree",
+     "evidence": "University degree (Bachelor's or Master's degree), completed before start date",
+     "source": "text",
+     "mark": "Bachelor's"
+    }
+   },
+   "department": "Fulfillment & Operations Management",
+   "excerpt": "When you join Amazon as an Area/Shift Manager, you’ll gain experience leading a large and diverse team to make sure your area of the business keeps pace with demand. In this hands-on role, you’ll learn about the complexity of operations at a global business and what it takes to make everything run…",
+   "posted_at": "2026-10-22T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:msd:SearchJobs:R416917",
+   "slug": "msd-regulatory-affairs-intern-41ae24",
+   "employer": "MSD",
+   "board": "workday:msd:SearchJobs",
+   "system": "workday",
+   "title": "Regulatory Affairs Intern",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ARE---Dubai---Falak-Building/Regulatory-Affairs-Intern_R416917",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "ARE - Dubai - Falak Building"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Legal and compliance"
+   ],
+   "skills": [
+    "Compliance and AML",
+    "Regulatory affairs and pharma",
+    "Arabic"
+   ],
+   "facts": {
+    "duration": {
+     "value": "4-8-week",
+     "label": "4 to 8 weeks",
+     "evidence": "Duration: 4-8 Weeks",
+     "source": "text",
+     "mark": "4-8 Weeks"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "UAE National (Emirati) with a valid Family Book.",
+     "source": "text",
+     "mark": "Family Book"
+    },
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "The employer files it as \"Hybrid\".",
+     "source": "feed",
+     "mark": null
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Monthly internship stipend.",
+     "source": "text",
+     "mark": "stipend"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students",
+     "evidence": "Graduating in Q2 of 2027 or later",
+     "source": "text",
+     "mark": "Graduating in"
+    }
+   },
+   "department": null,
+   "excerpt": "Regulatory Affairs Intern opportunity is open UAE Nationals As a Regulatory Affairs Intern, you will gain valuable exposure to the pharmaceutical industry and learn how innovative medicines are registered, maintained, and made available to patients in compliance with local regulations.",
+   "posted_at": "2026-10-21T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:pg:1000:R000160617",
+   "slug": "procter-gamble-scientist-regulatory-affairs-d2ae54",
+   "employer": "Procter & Gamble",
+   "board": "workday:pg:1000",
+   "system": "workday",
+   "title": "Scientist - Regulatory Affairs",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/DUBAI-GENERAL-OFFICE/Scientist---Regulatory-Affairs_R000160617",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "DUBAI GENERAL OFFICE"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"Experience: 0-1 Years\"",
+   "fields": [
+    "Legal and compliance"
+   ],
+   "skills": [
+    "Compliance and AML",
+    "Marketing",
+    "Regulatory affairs and pharma",
+    "Arabic"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "A minimum of a bachelor’s degree in pharmacy degree",
+     "source": "text",
+     "mark": "bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "In this role, you will be a key driver behind our continued growth and success. With our commitment to innovation, you will seek out, develop, and help implement strategic initiatives for improved efficiency and productivity.",
+   "posted_at": "2026-10-21T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5005249101",
+   "slug": "binance-otc-trader-5b4016",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "OTC Trader",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5005249101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 1,
+   "kind": "first_job",
+   "kind_reason": "asks for \"up to 3 years of experience\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Audit and risk",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Recently completed a Bachelor's degree (Master's preferred) in finance, engineering, mathematics, or a related field",
+     "source": "text",
+     "mark": "Recently completed"
+    }
+   },
+   "department": null,
+   "excerpt": "Prior internship or up to 3 years of experience in trading, sales & trading, or financial markets preferred; exposure to the OTC trade lifecycle is a plus Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+   "posted_at": "2026-10-20T04:50:25-04:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:accenture:AccentureCareers:R00362259",
+   "slug": "accenture-accenture-apprenticeship-program-hr-it-finance-uae-e1e2b9",
+   "employer": "Accenture",
+   "board": "workday:accenture:AccentureCareers",
+   "system": "workday",
+   "title": "Accenture Apprenticeship Program | HR, IT & Finance | Dubai Office",
+   "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dubai-One-Zaabeel-Tower/IT--Finance---HR-Intern--UAE-Nationals-Only-_R00362259",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, One Za'abeel Tower"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Apprenticeship\"",
+   "fields": [
+    "Finance and accounting",
+    "People and HR"
+   ],
+   "skills": [
+    "Excel",
+    "Data analysis",
+    "Dashboards and reporting",
+    "Financial modelling",
+    "Accounting",
+    "Process improvement"
+   ],
+   "facts": {
+    "duration": {
+     "value": "2-2-year",
+     "label": "2 years",
+     "evidence": "Programme Duration: 2 Years",
+     "source": "text",
+     "mark": "2 Years"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Accenture Apprenticeship Program | HR, IT & Finance (UAE Nationals Only) | Dubai Office",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Currently enrolled in a university program or a recent graduate.",
+     "source": "text",
+     "mark": "Currently enrolled"
+    }
+   },
+   "department": null,
+   "excerpt": "Flexible Internship Schedule: Minimum 1 day per week, up to 3 days per week We are looking for ambitious Emirati students and recent graduates to join our IT, HR & Finance Internship Program in Dubai.",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:hpe:Jobsathpe:1216744",
+   "slug": "hewlett-packard-enterprise-sales-graduate-7c28e8",
+   "employer": "Hewlett Packard Enterprise",
+   "board": "workday:hpe:Jobsathpe",
+   "system": "workday",
+   "title": "Sales Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dubai-Dubai-United-Arab-Emirates/Sales-Graduate_1216744",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Sales",
+    "Marketing",
+    "Social media and content",
+    "Project management",
+    "Presentations"
+   ],
+   "facts": {
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
+     "source": "text",
+     "mark": "Hybrid"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Completed Bachelor’s/Master’s degree within the last 12 months with a focus in business, management, economics, or related",
+     "source": "text",
+     "mark": "Completed Bachelor’s/Master’s degree within the last"
+    }
+   },
+   "department": null,
+   "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5002283101",
+   "slug": "binance-binance-accelerator-program-vip-sales-16171b",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - VIP Sales",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002283101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 4,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Data analysis",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales",
+    "CRM",
+    "Marketing"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's or Master's degree",
+     "evidence": "Foundational understanding of financial markets is preferred, either through professional experience or education, such as a Bachelor's or Master's degree in Business, Finance, Economics, or a related field.",
+     "source": "text",
+     "mark": "Bachelor's"
+    }
+   },
+   "department": null,
+   "excerpt": "You will be working at the forefront of crypto, innovation, and client growth. We are looking for someone who is commercially driven, highly adaptable, comfortable working across cultures and time zones, and capable of leveraging AI tools across sales, marketing, research, and administrative…",
+   "posted_at": "2026-10-14T06:25:14-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5002599101",
+   "slug": "binance-binance-accelerator-program-affiliate-bd-5324f3",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Affiliate BD",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002599101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 1,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales",
+    "Marketing",
+    "Public relations"
+   ],
+   "facts": {
+    "duration": {
+     "value": "6-6-month",
+     "label": "6 months",
+     "evidence": "We are seeking a dedicated and dynamic individual to join our affiliate team for a 6 month opportunity, focusing on managing an expanding network of affiliates.",
+     "source": "text",
+     "mark": "6 month"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Currently pursuing or recently completed a degree in Business, Marketing, Finance, or a related field",
+     "source": "text",
+     "mark": "Currently pursuing"
+    }
+   },
+   "department": null,
+   "excerpt": "We are seeking a dedicated and dynamic individual to join our affiliate team for a 6 month opportunity, focusing on managing an expanding network of affiliates. This role primarily involves collaborating with prominent KOLs to ensure the effectiveness of their promotional efforts.",
+   "posted_at": "2026-10-14T05:29:43-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5002315101",
+   "slug": "binance-binance-accelerator-program-tradfi-business-develo-af3b55",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - TradFI Business Development",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002315101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 2,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Compliance and AML",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales",
+    "Marketing",
+    "Process improvement"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    }
+   },
+   "department": null,
+   "excerpt": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) If you would like more information about how your data is processed, please contact us.",
+   "posted_at": "2026-10-14T02:41:18-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5002743101",
+   "slug": "binance-binance-accelerator-program-ads-implementation-96cb20",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Ads Implementation",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002743101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 4,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Marketing"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    }
+   },
+   "department": null,
+   "excerpt": "Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world? As an Ads Implementation Intern, you’ll support the digital advertising team in the execution of paid ad campaigns across Media Channel…",
+   "posted_at": "2026-10-14T00:45:55-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:binance:5002254101",
+   "slug": "binance-binance-accelerator-program-internal-audit-technol-57cea5",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Internal Audit (Technology)",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002254101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 3,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Docker and Kubernetes",
+    "Cloud (AWS, Azure, GCP)",
+    "Data analysis",
+    "Audit and risk",
+    "Compliance and AML",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Presentations",
+    "Networking and security"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space.",
+     "source": "text",
+     "mark": "3-6 month"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Current University students and recent Graduates.",
+     "source": "text",
+     "mark": "University students"
+    }
+   },
+   "department": null,
+   "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
+   "posted_at": "2026-10-13T05:51:35-04:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10576779",
+   "slug": "amazon-data-center-infra-engineer-2027-internship-8ca9c2",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Data Center Infra Engineer - 2027 Internship",
+   "url": "https://www.amazon.jobs/en/jobs/10576779/data-center-infra-engineer-2027-internship",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "IT, cloud and security"
+   ],
+   "skills": [
+    "Cloud (AWS, Azure, GCP)",
+    "Operations and logistics",
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Civil and construction",
+    "Data centres"
+   ],
+   "facts": {
+    "duration": {
+     "value": "12-12-week",
+     "label": "12 weeks",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 12 consecutive weeks, starting 2027.",
+     "source": "text",
+     "mark": "12 consecutive weeks"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "This position requires the intern to report to work on site daily.",
+     "source": "text",
+     "mark": "position requires the intern to report to work on site"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's, Master's)",
+     "evidence": "In the last year of a Bachelor's or Master's degree in Electrical Engineering, Mechanical Engineering, Architecture, Civil Engineering, Structural Engineering, or another equivalent technical discipline, graduating in 2027 – before the internship´s end date",
+     "source": "text",
+     "mark": "last year of a"
+    }
+   },
+   "department": "Operations, IT, & Support Engineering",
+   "excerpt": "As a DC Infra Engineer Intern at Amazon Web Services (AWS), you will work alongside an experienced, cross-disciplinary team to provide full life-cycle support to AWS data centers — from design inception through site improvement and maintenance.",
+   "posted_at": "2026-10-13T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:hpe:Jobsathpe:1216708",
+   "slug": "hewlett-packard-enterprise-presales-graduate-e88c21",
+   "employer": "Hewlett Packard Enterprise",
+   "board": "workday:hpe:Jobsathpe",
+   "system": "workday",
+   "title": "Presales Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dubai-Dubai-United-Arab-Emirates/Presales-Graduate_1216708",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Sales",
+    "Social media and content",
+    "Presentations"
+   ],
+   "facts": {
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
+     "source": "text",
+     "mark": "Hybrid"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "A completed bachelor’s or master’s degree within the last 12 months in Computer Science, Engineering, Information Systems, Technology, or a related technical discipline .",
+     "source": "text",
+     "mark": "completed bachelor’s or master’s degree within the last"
+    }
+   },
+   "department": null,
+   "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
+   "posted_at": "2026-10-13T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10574530",
+   "slug": "amazon-data-center-technician-2027-internship-146bd3",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Data Center Technician - 2027 Internship",
+   "url": "https://www.amazon.jobs/en/jobs/10574530/data-center-technician-2027-internship",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "IT, cloud and security"
+   ],
+   "skills": [
+    "Linux",
+    "Cloud (AWS, Azure, GCP)",
+    "Operations and logistics",
+    "Data centres"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-3-month",
+     "label": "3 months",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+     "source": "text",
+     "mark": "3 consecutive months"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "This position requires the intern to report to work on site daily.",
+     "source": "text",
+     "mark": "position requires the intern to report to work on site"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's)",
+     "evidence": "In pursuit of a Bachelor's degree in a relevant technical field such as Information Technology, Computer Hardware Repair, or similar, graduating in 2027 – before the internship´s end date.",
+     "source": "text",
+     "mark": "graduating in"
+    },
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+     "source": "text",
+     "mark": "starting in summer 2027"
+    }
+   },
+   "department": "Operations, IT, & Support Engineering",
+   "excerpt": "Amazon data centers are large-scale, high-density facilities where you will help change the face of cloud technology in the region — and your work will directly impact millions of customers.",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10574531",
+   "slug": "amazon-data-center-engineering-operations-2027-internship-3b422a",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Data Center Engineering Operations - 2027 Internship , DCEO",
+   "url": "https://www.amazon.jobs/en/jobs/10574531/data-center-engineering-operations-2027-internship-dceo",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "IT, cloud and security",
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Cloud (AWS, Azure, GCP)",
+    "Project management",
+    "Operations and logistics",
+    "Customer service",
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Data centres"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-3-month",
+     "label": "3 months",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+     "source": "text",
+     "mark": "3 consecutive months"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "This position requires the intern to report to work on site daily.",
+     "source": "text",
+     "mark": "position requires the intern to report to work on site"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's)",
+     "evidence": "In pursuit of a Bachelor's degree in a relevant field such as Mechanical Engineering or Electrical Engineering, or a related technical field, graduating in 2027 - before the end of the internship.",
+     "source": "text",
+     "mark": "graduating in"
+    },
+    "start": {
+     "value": "when",
+     "label": "Summer 2027",
+     "evidence": "Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.",
+     "source": "text",
+     "mark": "starting in summer 2027"
+    }
+   },
+   "department": "Operations, IT, & Support Engineering",
+   "excerpt": "As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.",
+   "posted_at": "2026-10-09T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:tamara:4997585101",
+   "slug": "tamara-tamara-builders-program-08064a",
+   "employer": "Tamara",
+   "board": "greenhouse:tamara",
+   "system": "greenhouse",
+   "title": "Tamara Builders Program",
+   "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4997585101",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Riyadh Saudi Arabia,   Dubai United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"up to two years of experience\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Data analysis",
+    "Dashboards and reporting",
+    "Accounting",
+    "Audit and risk",
+    "Sales",
+    "Marketing",
+    "UX research and design"
+   ],
+   "facts": {
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Whether you're a recent graduate or early in your career with up to two years of experience, this is where you'll do real meaningful work, alongside some of the most ambitious people in the region.",
+     "source": "text",
+     "mark": "recent graduate"
+    },
+    "start": {
+     "value": "when",
+     "label": "June",
+     "evidence": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build",
+     "source": "text",
+     "mark": "Cohorts: June"
+    }
+   },
+   "department": null,
+   "excerpt": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build Whether you're a recent graduate or early in your career with up to two years of experience, this is where you'll do real meaningful work, alongside some of the most ambitious people in the region.",
+   "posted_at": "2026-10-05T10:12:06-04:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:tamara:4996993101",
+   "slug": "tamara-tamara-internship-program-24f14d",
+   "employer": "Tamara",
+   "board": "greenhouse:tamara",
+   "system": "greenhouse",
+   "title": "Tamara Internship Program",
+   "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4996993101",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Riyadh Saudi Arabia, Dubai United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Dashboards and reporting",
+    "Accounting",
+    "Audit and risk",
+    "Sales",
+    "CRM",
+    "Marketing",
+    "UX research and design"
+   ],
+   "facts": {
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "The Internship Program is built for students who don't want to sit on the sidelines.",
+     "source": "text",
+     "mark": "students who"
+    },
+    "start": {
+     "value": "when",
+     "label": "January and June",
+     "evidence": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build",
+     "source": "text",
+     "mark": "Cohorts: January & June"
+    }
+   },
+   "department": null,
+   "excerpt": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build The Internship Program is built for students who don't want to sit on the sidelines.",
+   "posted_at": "2026-10-04T23:20:00-04:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "lever:loftorbital:8a38ed2d-48af-4b25-8b57-a75def3f3b70",
+   "slug": "loft-orbital-orbitworks-early-careers-talent-pool-70200b",
+   "employer": "Loft Orbital",
+   "board": "lever:loftorbital",
+   "system": "lever",
+   "title": "Orbitworks Early Careers Talent Pool 🚀",
+   "url": "https://jobs.lever.co/loftorbital/8a38ed2d-48af-4b25-8b57-a75def3f3b70",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Early Careers\"",
+   "fields": [
+    "People and HR"
+   ],
+   "skills": [
+    "Sales",
+    "Mechanical engineering"
+   ],
+   "facts": {
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"onsite\".",
+     "source": "feed",
+     "mark": null
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Are a university student, fresh graduate, or at the beginning of your career and genuinely curious about space, satellites, engineering, technology, or building new markets .",
+     "source": "text",
+     "mark": "university student"
+    }
+   },
+   "department": "General",
+   "excerpt": "Engineering & Business Development | Students & Recent Graduates | UAE Ready to launch your career into something bigger?",
+   "posted_at": "2026-09-28T12:55:36.198000+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:jll:jllcareers:REQ410192",
+   "slug": "jll-uae-nationals-graduate-analyst-program-6ef9c1",
+   "employer": "JLL",
+   "board": "workday:jll:jllcareers",
+   "system": "workday",
+   "title": "UAE Nationals Graduate Analyst program",
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dubai-ARE/UAEN-Graduate-program_REQ410192",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate Analyst\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Excel",
+    "Financial modelling",
+    "Trading and markets",
+    "Marketing",
+    "Project management",
+    "Process improvement",
+    "Presentations",
+    "Arabic"
+   ],
+   "facts": {
+    "duration": {
+     "value": "2-2-year",
+     "label": "2 years",
+     "evidence": "Programme Duration: 2 years",
+     "source": "text",
+     "mark": "2 years"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "UAE Nationals Graduate Analyst program",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"On-site\".",
+     "source": "feed",
+     "mark": null
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary aligned with graduate market standards in the UAE",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students",
+     "evidence": "Graduation within the last 12-24 months, or final-year students completing their degree in 2025",
+     "source": "text",
+     "mark": "final-year"
+    }
+   },
+   "department": null,
+   "excerpt": "JLL empowers you to shape a brighter way . Whether you’ve got deep experience in commercial real estate, skilled trades or technology, or you’re looking to apply your relevant experience to a new industry, join our team as we help shape a brighter way forward.",
+   "posted_at": "2026-09-25T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:gsk:GSKCareers:447276",
+   "slug": "gsk-intern-finance-associate-uae-national-a99dc9",
+   "employer": "GSK",
+   "board": "workday:gsk:GSKCareers",
+   "system": "workday",
+   "title": "Intern Finance Associate – UAE National",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UAE---Dubai/Internship--Finance-Associate_447276",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "UAE - Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Excel",
+    "Dashboards and reporting",
+    "Financial modelling",
+    "Accounting",
+    "Compliance and AML",
+    "Process improvement",
+    "Procurement"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Intern Finance Associate – UAE National",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"On-Site\".",
+     "source": "feed",
+     "mark": null
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Undergraduate degree in Finance, Accounting, Commerce, Economics , or related field",
+     "source": "text",
+     "mark": "Undergraduate"
+    }
+   },
+   "department": null,
+   "excerpt": "The role works closely with internal stakeholders, distributors, and finance teams to support month-end close activities, accounts management, payment processes, and financial controls while gaining exposure to a dynamic multinational finance environment.",
+   "posted_at": "2026-09-24T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10557554",
+   "slug": "amazon-2027-program-manager-intern-b68666",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "2027 Program Manager Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10557554/2027-program-manager-intern",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Marketing"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "You should be available for 3 to 6 months, full time (40h/week).",
+     "source": "text",
+     "mark": "3 to 6 months"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
+     "source": "text",
+     "mark": "Competitive pay"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "Are you willing to dive deep to develop those solutions and deliver results? As a Program Manager Intern you will join one of our operations, retail, or seller services teams.",
+   "posted_at": "2026-09-23T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10557562",
+   "slug": "amazon-2027-operations-intern-fc-operations-5b7fd0",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "2027 Operations Intern, FC Operations",
+   "url": "https://www.amazon.jobs/en/jobs/10557562/2027-operations-intern-fc-operations",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Operations and logistics"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "You should be available for 3 to 6 months, full time (40h/week).",
+     "source": "text",
+     "mark": "3 to 6 months"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
+     "source": "text",
+     "mark": "Competitive pay"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "The Amazon University Talent Acquisition Team is looking for ambitious students to join us as Operations Intern, working in one of our core businesses, Amazon Operations. Our internships are educational opportunities intended to allow you, our future managers, to discover how we lead and develop our…",
+   "posted_at": "2026-09-23T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10557566",
+   "slug": "amazon-2027-facilities-coordinator-intern-f91c1a",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "2027 Facilities Coordinator Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10557566/2027-facilities-coordinator-intern",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Operations and logistics"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Internship length is 3 to 6 months, full-time.",
+     "source": "text",
+     "mark": "3 to 6 months"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
+     "source": "text",
+     "mark": "Competitive pay"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
+     "source": "text",
+     "mark": "Currently enrolled"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "The Facilities Coordinator Intern will be responsible for the leadership/development and coaching of the team. This role also leads the technical team in providing both a reactive and pro-active maintenance service on all operational equipment and facilities infrastructure within the Fulfilment…",
+   "posted_at": "2026-09-23T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10557648",
+   "slug": "amazon-early-talent-cloud-sales-representative-uae-nation-d5b2b8",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Early Talent Cloud Sales Representative - UAE nationals, EMEA CSC",
+   "url": "https://www.amazon.jobs/en/jobs/10557648/early-talent-cloud-sales-representative-uae-nationals-emea-csc",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Early Talent\"",
+   "fields": [
+    "Software engineering",
+    "Sales and business development"
+   ],
+   "skills": [
+    "Cloud (AWS, Azure, GCP)",
+    "Sales",
+    "Arabic"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Early Talent Cloud Sales Representative - UAE nationals, EMEA CSC",
+     "source": "title",
+     "mark": "UAE nationals"
+    },
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Completed BA / BS degree",
+     "source": "text",
+     "mark": "BA"
+    }
+   },
+   "department": "Sales, Advertising, & Account Management",
+   "excerpt": "As an Early Career Talent (ECT) Cloud Sales Representative at AWS, you will further develop, and be responsible for, customer acquisition, growth, and support and contribute to the strategic priorities for the region.",
+   "posted_at": "2026-09-23T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:bybit:4974752101",
+   "slug": "bybit-animator-intern-d904f1",
+   "employer": "Bybit",
+   "board": "greenhouse:bybit",
+   "system": "greenhouse",
+   "title": "Animator Intern",
+   "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/4974752101",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi, UAE"
+    }
+   ],
+   "elsewhere": 1,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Product and design"
+   ],
+   "skills": [
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Marketing",
+    "Design tools",
+    "Animation and video",
+    "Customer service"
+   ],
+   "facts": {},
+   "department": null,
+   "excerpt": "You should be confident across editing, animation, design, storytelling, and AI-assisted creative workflows , while continuing to develop through collaboration, feedback, and creative direction from the team.",
+   "posted_at": "2026-09-11T11:21:48-04:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "lever:ifm-us:08930bb0-7ea7-4ace-a453-2e4cff4a11dc",
+   "slug": "institute-of-foundation-models-ai-engineer-internship-llm-data-78c12e",
+   "employer": "Institute of Foundation Models (MBZUAI)",
+   "board": "lever:ifm-us",
+   "system": "lever",
+   "title": "AI Engineer Internship – LLM Data",
+   "url": "https://jobs.lever.co/ifm-us/08930bb0-7ea7-4ace-a453-2e4cff4a11dc",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "AI and machine learning",
+    "Software engineering"
+   ],
+   "skills": [
+    "Python",
+    "Machine learning",
+    "LLMs and NLP",
+    "PyTorch or TensorFlow",
+    "Data analysis"
+   ],
+   "facts": {
+    "mode": {
+     "value": "onsite",
+     "label": "On site",
+     "evidence": "The employer files it as \"onsite\".",
+     "source": "feed",
+     "mark": null
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's, PhD)",
+     "evidence": "Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Artificial Intelligence, Machine Learning, Data Science , or a related technical field.",
+     "source": "text",
+     "mark": "Currently pursuing"
+    }
+   },
+   "department": "Engineering",
+   "excerpt": "As part of our team, you’ll have the opportunity to work on the core of cutting-edge foundation model training, alongside world-class researchers, data scientists, and engineers, tackling the most fundamental and impactful challenges in AI development.",
+   "posted_at": "2026-09-09T06:32:55.734000+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10529676",
+   "slug": "amazon-electrical-mechanical-engineering-operations-train-2d4d5a",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers [6-month contract leading to full-time employment], AWS",
+   "url": "https://www.amazon.jobs/en/jobs/10529676/electrical-mechanical-engineering-operations-trainee-aws-data-centers-uae-national-only-6-month-contract-leading-to-full-time-employment-aws",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"trainee\"",
+   "fields": [
+    "IT, cloud and security",
+    "Operations and supply chain"
+   ],
+   "skills": [
+    "Cloud (AWS, Azure, GCP)",
+    "Operations and logistics",
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Data centres"
+   ],
+   "facts": {
+    "duration": {
+     "value": "6-6-month",
+     "label": "6 months",
+     "evidence": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract leading to full-time employment], AWS",
+     "source": "title",
+     "mark": "6-month"
+    },
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Electrical & Mechanical Engineering Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract leading to full-time employment], AWS",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's)",
+     "evidence": "Recently graduated or enrolled in the final semester, with a Bachelor’s Degree in a relevant field (e.g., Mechanical or Electrical Engineering) Or",
+     "source": "text",
+     "mark": "final semester"
+    }
+   },
+   "department": "Facilities, Maintenance, & Real Estate",
+   "excerpt": "AWS have an exciting Electrical & Mechanical Engineering Operations Traineeship opportunity in Dubai available for a UAE national with family book. Amazon Web Services (AWS) is growing rapidly, and we are looking for Engineering Operations Technician Trainees to join our expanding Data Center team…",
+   "posted_at": "2026-09-04T00:00:00+00:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workable:tamatem:7C1FAA228B",
+   "slug": "tamatem-community-support-intern-uae-nationals-4c77a1",
+   "employer": "Tamatem",
+   "board": "workable:tamatem",
+   "system": "workable",
+   "title": "Community & Support Intern - UAE Nationals",
+   "url": "https://apply.workable.com/j/7C1FAA228B",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Community & Support Intern - UAE Nationals",
+     "source": "title",
+     "mark": "UAE Nationals"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile gaming industry .",
+     "source": "text",
+     "mark": "fresh graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
+   "posted_at": "2026-08-17T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workable:shipa:1D9FF7FE6C",
+   "slug": "shipa-junior-account-executive-83b797",
+   "employer": "Shipa",
+   "board": "workable:shipa",
+   "system": "workable",
+   "title": "Junior Account Executive",
+   "url": "https://apply.workable.com/j/1D9FF7FE6C",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"1–3 years of experience\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "LLMs and NLP",
+    "Dashboards and reporting",
+    "Sales",
+    "CRM",
+    "Marketing",
+    "Operations and logistics"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor's degree in Business, Logistics, Marketing, or a related field.",
+     "source": "text",
+     "mark": "Bachelor's"
+    }
+   },
+   "department": "Sales",
+   "excerpt": "We are looking for a driven and client-focused Junior Account Executive to support the growth and servicing of key eCommerce and cross-border logistics accounts.",
+   "posted_at": "2026-05-22T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:tamara:4849506101",
+   "slug": "tamara-associate-data-scientist-builders-program-emirati-fb93b8",
+   "employer": "Tamara",
+   "board": "greenhouse:tamara",
+   "system": "greenhouse",
+   "title": "Associate Data Scientist - Builders Program",
+   "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849506101",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"up to two years of experience\"",
+   "fields": [
+    "AI and machine learning"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "Looker",
+    "Git",
+    "Machine learning",
+    "LLMs and NLP",
+    "PyTorch or TensorFlow",
+    "Statistics",
+    "Data engineering",
+    "Dashboards and reporting",
+    "UX research and design"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Associate Data Scientist - Builders Program - (Emirati National)",
+     "source": "title",
+     "mark": "Emirati"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Designed for recent graduates and early-career talent with up to two years of experience, the program places you directly into high-impact roles across Product, Engineering, Design, and beyond.",
+     "source": "text",
+     "mark": "recent graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you Our Flagship Builders Program is designed for ambitious graduates ready to step into real responsibility from day one.",
+   "posted_at": "2026-04-27T05:39:41-04:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:tamara:4849511101",
+   "slug": "tamara-associate-accountant-builders-program-emirati-nati-25a219",
+   "employer": "Tamara",
+   "board": "greenhouse:tamara",
+   "system": "greenhouse",
+   "title": "Associate Accountant - Builders Program",
+   "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849511101",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "says \"Built for current students\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Excel",
+    "Dashboards and reporting",
+    "Accounting",
+    "Audit and risk"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Associate Accountant - Builders Program - (Emirati National)",
+     "source": "title",
+     "mark": "Emirati"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Our Flagship Builders Internship & Co-Op track is crafted for students who don’t want a passive internship but a real seat at the table.",
+     "source": "text",
+     "mark": "students who"
+    }
+   },
+   "department": null,
+   "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you Our Flagship Builders Internship & Co-Op track is crafted for students who don’t want a passive internship but a real seat at the table.",
+   "posted_at": "2026-04-27T05:38:25-04:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "greenhouse:tamara:4849504101",
+   "slug": "tamara-aml-transaction-monitoring-ops-builders-program-em-feb72b",
+   "employer": "Tamara",
+   "board": "greenhouse:tamara",
+   "system": "greenhouse",
+   "title": "AML Transaction Monitoring Ops - Builders Program",
+   "url": "https://job-boards.eu.greenhouse.io/tamara/jobs/4849504101",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"up to two years of experience\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Audit and risk",
+    "Compliance and AML",
+    "Arabic"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "AML Transaction Monitoring Ops - Builders Program - (Emirati National)",
+     "source": "title",
+     "mark": "Emirati"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Designed for recent graduates and early-career talent with up to two years of experience, the program places you directly into high-impact roles across Product, Engineering, Design, and beyond.",
+     "source": "text",
+     "mark": "recent graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you. This opportunity is part of our commitment to developing local talent and is open exclusively to Emirati Nationals.",
+   "posted_at": "2026-04-27T05:36:25-04:00",
+   "first_seen": "2026-11-10T06:36:26+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workday:salesforce:External_Career_Site:JR336428",
+   "slug": "salesforce-tech-sales-internship-arabic-market-0c36ca",
+   "employer": "Salesforce",
+   "board": "workday:salesforce:External_Career_Site",
+   "system": "workday",
+   "title": "Tech Sales Internship-Arabic Market",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/United-Arab-Emirates---Dubai/Tech-Sales-Internship-Arabic-Market_JR336428-1",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "United Arab Emirates - Dubai"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Data analysis",
+    "Sales",
+    "CRM",
+    "Customer service",
+    "Arabic"
+   ],
+   "facts": {
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "💰 Competitive salary",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently pursuing a Bachelor’s or Master’s degree in Dubai ( Graduation Date: 2027 )",
+     "source": "text",
+     "mark": "Currently pursuing"
+    },
+    "start": {
+     "value": "when",
+     "label": "June 2026",
+     "evidence": "📆 Start Date: June 15, 2026",
+     "source": "text",
+     "mark": "Start Date: June 15, 2026"
+    }
+   },
+   "department": null,
+   "excerpt": "To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the…",
+   "posted_at": "2026-03-31T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:3198140",
+   "slug": "amazon-brand-specialist-uae-national-avs-amazon-vendor-se-e6e868",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "Brand Specialist - UAE National, AVS (Amazon Vendor Services)",
+   "url": "https://www.amazon.jobs/en/jobs/3198140/brand-specialist-uae-national-avs-amazon-vendor-services",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "says \"final year of study\"",
+   "fields": [
+    "Marketing and communications"
+   ],
+   "skills": [
+    "SQL",
+    "Excel",
+    "HTML and CSS",
+    "Audit and risk",
+    "Marketing",
+    "Operations and logistics",
+    "Process improvement",
+    "Arabic"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Brand Specialist - UAE National, AVS (Amazon Vendor Services)",
+     "source": "title",
+     "mark": "UAE National"
+    },
+    "stage": {
+     "value": "final",
+     "label": "Final-year students (Bachelor's, Master's)",
+     "evidence": "In final year of study for Bachelor’s or Master’s degree, or graduated in the last 24 months with a degree in Business, Science, Engineering fields or Supply Chain",
+     "source": "text",
+     "mark": "final year"
+    }
+   },
+   "department": "Buying, Planning, & Instock Management",
+   "excerpt": "Are you a self-starter with a passion for e-commerce, looking to expand your retail skillset and shaping the way the biggest brands work with Amazon? As Brand Specialist, you will be part of the Amazon Vendor Services (AVS) team, which provides a suite of services designed to help Amazon's most…",
+   "posted_at": "2026-03-06T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:48:02+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "workable:tamatem:01D1B7B5AA",
+   "slug": "tamatem-internship-night-for-emirati-nationals-01a0d4",
+   "employer": "Tamatem",
+   "board": "workable:tamatem",
+   "system": "workable",
+   "title": "Internship Night - For Emirati Nationals",
+   "url": "https://apply.workable.com/j/01D1B7B5AA",
+   "places": [
+    {
+     "emirate": "Abu Dhabi",
+     "raw": "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Internship\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Marketing",
+    "Social media and content",
+    "Product management"
+   ],
+   "facts": {
+    "eligibility": {
+     "value": "nationals_only",
+     "label": "UAE nationals only",
+     "evidence": "Internship Night - For Emirati Nationals",
+     "source": "title",
+     "mark": "Emirati"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates",
+     "evidence": "Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile gaming industry .",
+     "source": "text",
+     "mark": "fresh graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
+   "posted_at": "2025-10-15T00:00:00+00:00",
+   "first_seen": "2026-11-10T15:32:08+00:00",
+   "last_seen": "2026-11-11T04:31:22+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  }
+ ],
+ "boards": [
+  {
+   "key": "amazon:amazon",
+   "name": "Amazon",
+   "system": "amazon",
+   "home": "https://www.amazon.jobs/en/locations/dubai-uae",
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 63,
+   "uae": 63,
+   "student": 11
+  },
+  {
+   "key": "greenhouse:binance",
+   "name": "Binance",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 221,
+   "uae": 54,
+   "student": 11
+  },
+  {
+   "key": "workday:mastercard:CorporateCareers",
+   "name": "Mastercard",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 11,
+   "uae": 11,
+   "student": 6
+  },
+  {
+   "key": "greenhouse:tamara",
+   "name": "Tamara",
+   "system": "greenhouse",
+   "home": "https://job-boards.greenhouse.io/tamara",
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 37,
+   "uae": 11,
+   "student": 5
+  },
+  {
+   "key": "workday:gsk:GSKCareers",
+   "name": "GSK",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 4,
+   "uae": 4,
+   "student": 3
+  },
+  {
+   "key": "workable:bayutdubizzle",
+   "name": "Bayut & dubizzle",
+   "system": "workable",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 31,
+   "uae": 26,
+   "student": 2
+  },
+  {
+   "key": "workday:hpe:Jobsathpe",
+   "name": "Hewlett Packard Enterprise",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 4,
+   "uae": 4,
+   "student": 2
+  },
+  {
+   "key": "workday:barclays:External_Career_Site_Barclays",
+   "name": "Barclays",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 2
+  },
+  {
+   "key": "workable:tamatem",
+   "name": "Tamatem",
+   "system": "workable",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 11,
+   "uae": 2,
+   "student": 2
+  },
+  {
+   "key": "greenhouse:bybit",
+   "name": "Bybit",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 150,
+   "uae": 50,
+   "student": 1
+  },
+  {
+   "key": "greenhouse:deliveroo",
+   "name": "Deliveroo",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 194,
+   "uae": 17,
+   "student": 1
+  },
+  {
+   "key": "lever:loftorbital",
+   "name": "Loft Orbital",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 90,
+   "uae": 15,
+   "student": 1
+  },
+  {
+   "key": "lever:ifm-us",
+   "name": "Institute of Foundation Models (MBZUAI)",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 43,
+   "uae": 13,
+   "student": 1
+  },
+  {
+   "key": "workday:salesforce:External_Career_Site",
+   "name": "Salesforce",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 13,
+   "uae": 13,
+   "student": 1
+  },
+  {
+   "key": "workday:accenture:AccentureCareers",
+   "name": "Accenture",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 12,
+   "uae": 12,
+   "student": 1
+  },
+  {
+   "key": "workday:jll:jllcareers",
+   "name": "JLL",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 9,
+   "uae": 9,
+   "student": 1
+  },
+  {
+   "key": "workday:pg:1000",
+   "name": "Procter & Gamble",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 6,
+   "uae": 6,
+   "student": 1
+  },
+  {
+   "key": "workable:shipa",
+   "name": "Shipa",
+   "system": "workable",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 15,
+   "uae": 5,
+   "student": 1
+  },
+  {
+   "key": "workday:msd:SearchJobs",
+   "name": "MSD",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 1
+  },
+  {
+   "key": "workday:novartis:Novartis_Careers",
+   "name": "Novartis",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 1
+  },
+  {
+   "key": "workday:philips:jobs-and-careers",
+   "name": "Philips",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 1
+  },
+  {
+   "key": "workday:rollsroyce:Intern_Graduate",
+   "name": "Rolls-Royce",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 1
+  },
+  {
+   "key": "workday:unilever:Unilever_Experienced_Professionals",
+   "name": "Unilever",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 1
+  },
+  {
+   "key": "workday:kbr:KBR_Careers",
+   "name": "KBR",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 142,
+   "uae": 142,
+   "student": 0
+  },
+  {
+   "key": "lever:aldar",
+   "name": "Aldar",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 49,
+   "uae": 49,
+   "student": 0
+  },
+  {
+   "key": "ashby:ziina",
+   "name": "Ziina",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 13,
+   "uae": 13,
+   "student": 0
+  },
+  {
+   "key": "workday:visa:Visa",
+   "name": "Visa",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 12,
+   "uae": 12,
+   "student": 0
+  },
+  {
+   "key": "workday:richemont:broadbean_external",
+   "name": "Richemont",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 10,
+   "uae": 10,
+   "student": 0
+  },
+  {
+   "key": "workday:gevernova:Vernova_ExternalSite",
+   "name": "GE Vernova",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 8,
+   "uae": 8,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:careem",
+   "name": "Careem",
+   "system": "greenhouse",
+   "home": "https://www.careem.com/en-AE/careers/",
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 15,
+   "uae": 7,
+   "student": 0
+  },
+  {
+   "key": "ashby:cohere",
+   "name": "Cohere",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 127,
+   "uae": 6,
+   "student": 0
+  },
+  {
+   "key": "workday:mastercard:Campus",
+   "name": "Mastercard",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 6,
+   "uae": 6,
+   "student": 0
+  },
+  {
+   "key": "workday:parsons:Search",
+   "name": "Parsons",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 6,
+   "uae": 6,
+   "student": 0
+  },
+  {
+   "key": "workday:cisco:Cisco_Careers",
+   "name": "Cisco",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 5,
+   "uae": 5,
+   "student": 0
+  },
+  {
+   "key": "ashby:leantech",
+   "name": "Lean Technologies",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 9,
+   "uae": 5,
+   "student": 0
+  },
+  {
+   "key": "ashby:airwallex",
+   "name": "Airwallex",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 485,
+   "uae": 4,
+   "student": 0
+  },
+  {
+   "key": "workday:astrazeneca:Careers",
+   "name": "AstraZeneca",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 4,
+   "uae": 4,
+   "student": 0
+  },
+  {
+   "key": "workday:carrier:jobs",
+   "name": "Carrier",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 4,
+   "uae": 4,
+   "student": 0
+  },
+  {
+   "key": "ashby:elevenlabs",
+   "name": "ElevenLabs",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 130,
+   "uae": 4,
+   "student": 0
+  },
+  {
+   "key": "workday:abbott:abbottcareers",
+   "name": "Abbott",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 3,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "workday:crowdstrike:crowdstrikecareers",
+   "name": "CrowdStrike",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 3,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "lever:crypto",
+   "name": "Crypto.com",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 90,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:okx",
+   "name": "OKX",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 386,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "ashby:openai",
+   "name": "OpenAI",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 827,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "lever:shieldai",
+   "name": "Shield AI",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 678,
+   "uae": 3,
+   "student": 0
+  },
+  {
+   "key": "workday:aig:aig",
+   "name": "AIG",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workday:accenture:AvanadeCareers",
+   "name": "Avanade",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:braze",
+   "name": "Braze",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 356,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:celonis",
+   "name": "Celonis",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 241,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:elastic",
+   "name": "Elastic",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 423,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workable:foodics",
+   "name": "Foodics",
+   "system": "workable",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 32,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:gitlab",
+   "name": "GitLab",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 252,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workday:medtronic:MedtronicCareers",
+   "name": "Medtronic",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workday:nvidia:NVIDIAExternalCareerSite",
+   "name": "NVIDIA",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:purestorage",
+   "name": "Pure Storage",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 375,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:ripple",
+   "name": "Ripple",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 119,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "workday:spgi:SPGI_Careers",
+   "name": "S&P Global",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 2,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:scaleai",
+   "name": "Scale AI",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 169,
+   "uae": 2,
+   "student": 0
+  },
+  {
+   "key": "lever:animocabrands",
+   "name": "Animoca Brands",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 12,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:broadcom:External_Career",
+   "name": "Broadcom",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "lever:contentsquare",
+   "name": "Contentsquare",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 29,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:databricks",
+   "name": "Databricks",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 920,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:db:DBWebsite",
+   "name": "Deutsche Bank",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:fireblocks",
+   "name": "Fireblocks",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 23,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:geaerospace:GE_ExternalSite",
+   "name": "GE Aerospace",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "ashby:iceye",
+   "name": "ICEYE",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 199,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:inmobi",
+   "name": "InMobi",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 78,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:mongodb",
+   "name": "MongoDB",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 377,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:ms:External",
+   "name": "Morgan Stanley",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:motorolasolutions:Careers",
+   "name": "Motorola Solutions",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "lever:palantir",
+   "name": "Palantir",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 304,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:rockwellautomation:External_Rockwell_Automation",
+   "name": "Rockwell Automation",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:salesforce:Futureforce_Internships",
+   "name": "Salesforce",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:sanofi:SanofiCareers",
+   "name": "Sanofi",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:snapchat:snap",
+   "name": "Snap",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "lever:spotify",
+   "name": "Spotify",
+   "system": "lever",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 86,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:thomsonreuters:External_Career_Site",
+   "name": "Thomson Reuters",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 1,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:thunes",
+   "name": "Thunes",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 39,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "ashby:uipath",
+   "name": "UiPath",
+   "system": "ashby",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 99,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "workday:maersk:Maersk_Careers",
+   "name": "Maersk",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 0,
+   "uae": 0,
+   "student": 0
+  },
+  {
+   "key": "workday:roche:roche-ext",
+   "name": "Roche",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 0,
+   "uae": 0,
+   "student": 0
+  },
+  {
+   "key": "workday:statestreet:Global",
+   "name": "State Street",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-11T04:33:38+00:00",
+   "last_ok": "2026-11-11T04:31:22+00:00",
+   "error": null,
+   "postings": 0,
+   "uae": 0,
+   "student": 0
+  }
+ ],
+ "not_covered": [
+  {
+   "name": "talabat (Delivery Hero)",
+   "reason": "Its career system asks automated readers to stay away, so it is not read."
+  },
+  {
+   "name": "Masdar",
+   "reason": "Its career system asks automated readers to stay away, so it is not read."
+  },
+  {
+   "name": "Namshi",
+   "reason": "Its career system asks automated readers to stay away, so it is not read."
+  }
+ ]
+}

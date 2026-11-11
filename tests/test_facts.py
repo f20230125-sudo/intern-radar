@@ -175,7 +175,7 @@ def test_pay_is_not_invented(sentence):
         ("Recently graduated or enrolled in the final semester, with a Bachelor's Degree in a relevant field", "Final-year students (Bachelor's)"),
         ("Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science", "Current students (Bachelor's, Master's, PhD)"),
         ("Designed for recent graduates and early-career talent with up to two years of experience", "Recent graduates"),
-        ("A Bachelor's degree in AI, Statistics, Math or a related qualification", "Bachelor's"),
+        ("A Bachelor's degree in AI, Statistics, Math or a related qualification", "Bachelor's degree"),
     ],
 )
 def test_stage_is_read(sentence, expected):
@@ -254,3 +254,42 @@ def test_every_fact_carries_its_sentence():
     assert set(found) == {"pay", "duration", "start"}
     for fact in found.values():
         assert fact.evidence in text
+
+
+def test_the_deciding_words_are_marked_inside_the_sentence():
+    text = "Available to work full-time for 10-12 weeks starting June 2027"
+    found = facts.read("Intern", text)
+    assert found["duration"].mark == "10-12 weeks"
+    assert found["start"].mark == "starting June 2027"
+    for fact in found.values():
+        assert fact.mark in fact.evidence
+
+
+def test_a_long_sentence_is_cut_around_the_deciding_words():
+    long = "We do many things. " * 0 + ("background " * 60) + "the monthly stipend is AED 3,000 for interns " + ("filler " * 60)
+    fact = facts.pay([long])
+    assert fact.label == "AED 3,000 a month"
+    assert len(fact.evidence) <= 262 and fact.mark in fact.evidence
+    assert fact.evidence.startswith("…") and fact.evidence.endswith("…")
+
+
+@pytest.mark.parametrize(
+    "sentence, expected",
+    [
+        ("Amazon internships are full-time (40 hours per week) for 12 consecutive weeks, starting 2027.", "12 weeks"),
+        ("Amazon internships are full-time (40 hours per week) for 3 consecutive months, starting in summer 2027.", "3 months"),
+        ("We are seeking an individual to join our affiliate team for a 6 month opportunity.", "6 months"),
+        ("Full time, 12 months", "12 months"),
+        ("Up to 12 months of relevant experience (internships, placements, projects welcome).", None),
+        ("Please consider applying for a maximum of 3 roles within 12 months.", None),
+    ],
+)
+def test_durations_found_when_the_rules_were_first_scored(sentence, expected):
+    assert label(facts.duration("Intern", sentences(sentence))) == expected
+
+
+def test_other_facts_found_when_the_rules_were_first_scored():
+    assert label(facts.start("Intern", sentences("Start Date: June 15, 2026"))) == "June 2026"
+    assert label(facts.start("Intern", sentences("Starting 1st September 2027."))) == "September 2027"
+    assert facts.stage(sentences("Completed Bachelor's/Master's degree within the last 12 months with a focus in business.")).value == "graduate"
+    assert facts.eligibility("Intern", sentences("You must be a UAE resident and currently live in Dubai.")).value == "own_visa"

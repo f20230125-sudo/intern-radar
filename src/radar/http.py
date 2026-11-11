@@ -39,6 +39,8 @@ class Client:
             headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
         )
         self._gap = gap
+        # Hosts that punish bursts get a longer gap. Workable answered a quick series of calls with a day-long block.
+        self._gaps = {"apply.workable.com": max(gap, 3.0)} if gap > 0 else {}
         self._retries = retries
         self._sleep = sleep
         self._clock = clock
@@ -63,7 +65,7 @@ class Client:
     def _wait_turn(self, host: str) -> None:
         last = self._last.get(host)
         if last is not None:
-            wait = self._gap - (self._clock() - last)
+            wait = self._gaps.get(host, self._gap) - (self._clock() - last)
             if wait > 0:
                 self._sleep(wait)
 

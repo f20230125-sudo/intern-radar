@@ -1,0 +1,705 @@
+# Employers to try when looking for readable job boards. `python -m radar.discover` probes each one.
+# A plain name is tried as-is ("Property Finder" -> propertyfinder, property-finder, property).
+# {name, slugs} pins the board ids to try when the id is not the name.
+
+names:
+  # --- UAE and Gulf technology companies
+  - Careem
+  - Tabby
+  - Tamara
+  - Kitopi
+  - Property Finder
+  - Bayut
+  - {name: Bayut & dubizzle, slugs: [bayutdubizzle, dubizzle, dubizzlegroup]}
+  - Noon
+  - Namshi
+  - Mumzworld
+  - Fetchr
+  - Swvl
+  - Anghami
+  - Huspy
+  - Stake
+  - Sarwa
+  - Baraka
+  - YAP
+  - Mamo
+  - {name: Mamo Pay, slugs: [mamopay, mamo]}
+  - Zywa
+  - Telr
+  - Tap Payments
+  - Paymob
+  - PayTabs
+  - Geidea
+  - Network International
+  - HyperPay
+  - Ziina
+  - Lean Technologies
+  - {name: Lean Technologies, slugs: [leantech, lean]}
+  - Hubpay
+  - NymCard
+  - Qashio
+  - Alaan
+  - Pemo
+  - Astra Tech
+  - Botim
+  - Pyypl
+  - Wio
+  - {name: Wio Bank, slugs: [wio, wiobank]}
+  - Zand
+  - Liv
+  - Bayzat
+  - CAFU
+  - Washmen
+  - InstaShop
+  - elGrocer
+  - Kibsons
+  - Justlife
+  - ServiceMarket
+  - YallaCompare
+  - Souqalmal
+  - Policybazaar UAE
+  - Trukker
+  - Lyve
+  - Fenix
+  - Cartlow
+  - Letswork
+  - Ogram
+  - Foodics
+  - Salla
+  - Zid
+  - Unifonic
+  - Lucidya
+  - Mozn
+  - Jahez
+  - HungerStation
+  - Talabat
+  - Deliveroo
+  - Delivery Hero
+  - Keeta
+  - Rain
+  - {name: Rain (crypto), slugs: [rain, rainfinancial]}
+  - BitOasis
+  - CoinMENA
+  - Binance
+  - Bybit
+  - OKX
+  - Kraken
+  - Crypto.com
+  - {name: Crypto.com, slugs: [cryptocom, crypto]}
+  - Deribit
+  - Chainalysis
+  - Ripple
+  - Circle
+  - Fireblocks
+  - Tether
+  - Animoca Brands
+  - M2
+  - Hashgraph
+  - Polygon
+  - Aptos
+  - Solana Foundation
+  - Mysten Labs
+  - Consensys
+  - Ledger
+  - Nansen
+  - Securrency
+  - G42
+  - Core42
+  - Presight
+  - Inception
+  - AIQ
+  - Bayanat
+  - Space42
+  - Khazna
+  - MBZUAI
+  - {name: Institute of Foundation Models (MBZUAI), slugs: [ifm-us, ifm]}
+  - Technology Innovation Institute
+  - {name: Technology Innovation Institute, slugs: [tii, technologyinnovationinstitute]}
+  - VentureOne
+  - Aspire
+  - AI71
+  - Hub71
+  - DIFC
+  - ADGM
+  - Dubai Future Foundation
+  - XPANCEO
+  - Seez
+  - Dubizzle
+  - Sary
+  - Nana
+  - Floward
+  - Calo
+  - Eat App
+  - Zbooni
+  - Tarabut
+  - {name: Tarabut Gateway, slugs: [tarabut, tarabutgateway]}
+  - Spare
+  - Fuze
+  - Verity
+  - Holo
+  - Prypco
+  - Stake Properties
+  - SmartCrowd
+  - Abwaab
+  - Noon Academy
+  - Alef Education
+  - Lamsa
+  - Okadoc
+  - Altibbi
+  - Vezeeta
+  - Nabta Health
+  - TruKKer
+  - Aramex
+  - Shipa
+  - Quiqup
+  - iMile
+  - One Moto
+  - Udrive
+  - ekar
+  - Yango
+  - Selfdrive
+  - Tamatem
+  - Sandsoft
+  - Boom Supersonic
+  # --- global technology companies with a UAE office
+  - Stripe
+  - Checkout.com
+  - {name: Checkout.com, slugs: [checkoutcom, checkout]}
+  - Adyen
+  - Revolut
+  - Wise
+  - Airwallex
+  - Payoneer
+  - Deel
+  - Remote
+  - Rippling
+  - Oyster
+  - Databricks
+  - Snowflake
+  - MongoDB
+  - Elastic
+  - Confluent
+  - Cloudflare
+  - Datadog
+  - GitLab
+  - GitHub
+  - HashiCorp
+  - Okta
+  - Twilio
+  - HubSpot
+  - Zendesk
+  - Freshworks
+  - Canva
+  - Figma
+  - Notion
+  - Miro
+  - Airtable
+  - Asana
+  - Atlassian
+  - Slack
+  - Dropbox
+  - Box
+  - Zoom
+  - Anthropic
+  - OpenAI
+  - Cohere
+  - Mistral AI
+  - {name: Mistral AI, slugs: [mistral, mistralai]}
+  - Perplexity
+  - Scale AI
+  - {name: Scale AI, slugs: [scaleai, scale]}
+  - Hugging Face
+  - Stability AI
+  - ElevenLabs
+  - Synthesia
+  - Dataiku
+  - DataRobot
+  - C3 AI
+  - Palantir
+  - Celonis
+  - UiPath
+  - Automation Anywhere
+  - ServiceNow
+  - Workato
+  - Contentsquare
+  - Amplitude
+  - Braze
+  - CleverTap
+  - MoEngage
+  - Insider
+  - WebEngage
+  - AppsFlyer
+  - Adjust
+  - Criteo
+  - Taboola
+  - Outbrain
+  - Teads
+  - The Trade Desk
+  - Snap
+  - Pinterest
+  - Reddit
+  - Discord
+  - Spotify
+  - Netflix
+  - Uber
+  - Bolt
+  - Lyft
+  - Airbnb
+  - Booking.com
+  - Expedia
+  - Agoda
+  - Trivago
+  - Skyscanner
+  - Kiwi.com
+  - Wego
+  - Almosafer
+  - Musafir
+  - dnata
+  - Wiz
+  - CrowdStrike
+  - SentinelOne
+  - Palo Alto Networks
+  - Fortinet
+  - Zscaler
+  - Darktrace
+  - Rubrik
+  - Cohesity
+  - Snyk
+  - Tenable
+  - Rapid7
+  - Group-IB
+  - Help AG
+  - CPX
+  - Nutanix
+  - Pure Storage
+  - NetApp
+  - VAST Data
+  - Samsara
+  - Verkada
+  - Motive
+  - Toast
+  - Shopify
+  - BigCommerce
+  - Klarna
+  - Affirm
+  - Monzo
+  - N26
+  - Qonto
+  - Starling Bank
+  - GoCardless
+  - SumUp
+  - Mollie
+  - Thunes
+  - TerraPay
+  - Nium
+  - Careem Pay
+  - Glovo
+  - Getir
+  - Gorillas
+  - Flink
+  - Instacart
+  - DoorDash
+  - Zomato
+  - Swiggy
+  - Meesho
+  - Razorpay
+  - Cred
+  - PhonePe
+  - Freshworks
+  - Zoho
+  - Postman
+  - BrowserStack
+  - Druva
+  - Icertis
+  - InMobi
+  - Glance
+  - Ola
+  - Oyo
+  - MakeMyTrip
+  - Cleartrip
+  - Emirates NBD
+  - Mashreq
+  - {name: Mashreq, slugs: [mashreq, mashreqbank]}
+  - First Abu Dhabi Bank
+  - ADCB
+  - ADIB
+  - RAKBANK
+  - Commercial Bank of Dubai
+  - Emirates Islamic
+  - Al Ansari Exchange
+  - LuLu Exchange
+  - Chalhoub Group
+  - Majid Al Futtaim
+  - Al-Futtaim
+  - Alshaya
+  - Landmark Group
+  - Apparel Group
+  - Emaar
+  - Aldar
+  - DAMAC
+  - Nakheel
+  - Sobha
+  - Meraas
+  - Miral
+  - Modon
+  - Masdar
+  - EWEC
+  - TAQA
+  - ENEC
+  - ADNOC
+  - Borouge
+  - EGA
+  - DP World
+  - AD Ports
+  - Etihad Airways
+  - flydubai
+  - Air Arabia
+  - Emirates
+  - Etihad Rail
+  - e&
+  - du
+  - Yahsat
+  - EDGE Group
+  - Tawazun
+  - Strata
+  - Sanad
+  - Mubadala
+  - ADQ
+  - ADIA
+  - Dubai Holding
+  - Investcorp
+  - Shuaa
+  - Kearney
+  - Oliver Wyman
+  - Strategy&
+  - Roland Berger
+  - Arthur D. Little
+  - Alvarez & Marsal
+  - FTI Consulting
+  - Kroll
+  - Protiviti
+  - Grant Thornton
+  - BDO
+  - Crowe
+  - Mazars
+  - Baker Tilly
+  - Publicis Sapient
+  - Thoughtworks
+  - EPAM
+  - Endava
+  - Globant
+  - Andela
+  - Turing
+  - Toptal
+  - Valtech
+  - Monstarlab
+  - Tkxel
+  - Systems Limited
+  - 10Pearls
+  - VentureDive
+  - Cognizant
+  - Infosys
+  - Wipro
+  - HCLTech
+  - Tech Mahindra
+  - LTIMindtree
+  - Mphasis
+  - Virtusa
+  - Injazat
+  - Moro Hub
+  - Help Scout
+  - Intercom
+  - Typeform
+  - Pipedrive
+  - Personio
+  - Factorial
+  - Workable
+  - Greenhouse
+  - Lever
+  - Ashby
+  - SmartRecruiters
+  - Oliv
+  - Qureos
+  - Bayt
+  - GulfTalent
+  - Naukrigulf
+  - Laimoon
+  - Coursera
+  - Udacity
+  - Emeritus
+  - Udemy
+  - Duolingo
+  - Photomath
+  - GoStudent
+  - Kitab Sawti
+  - Storytel
+  - Shahid
+  - OSN
+  - StarzPlay
+  - MBC Group
+  - Rotana
+  - Virgin Mobile UAE
+  - Careem Bike
+  - Tesla
+  - Lucid Motors
+  - Rivian
+  - NIO
+  - BYD
+  - Joby Aviation
+  - Archer Aviation
+  - Wisk
+  - Zipline
+  - Skydio
+  - Anduril
+  - Shield AI
+  - Helsing
+  - Saronic
+  - Relativity Space
+  - SpaceX
+  - Planet
+  - ICEYE
+  - Capella Space
+  - Loft Orbital
+  - Hadrian
+  - Commonwealth Fusion Systems
+  - Northvolt
+  - Octopus Energy
+  - Enpal
+  - 1KOMMA5
+  - Yellow Door Energy
+  - SirajPower
+  - AMEA Power
+  - ACWA Power
+  - Engie
+  - Veolia
+  - Bee'ah
+  - Red Sea Global
+  - NEOM
+  - Qiddiya
+  - ROSHN
+  - Diriyah
+  - Lean Technologies
+  - Property Monitor
+  - Zone
+  - Huspy
+  - Keyper
+  - Ejari
+  - Silkhaus
+  - Stella Stays
+  - Blueground
+  - Sonder
+  - Kitopi
+  - iKcon
+  - Krush Brands
+  - The Cloud
+  - Grubtech
+  - Lyve Global
+  - Omniful
+  - Flextock
+  - Cartona
+  - MaxAB
+  - Trella
+  - Opontia
+  - Rasan
+  - Lendo
+  - Hala
+  - Tweeq
+  - Nearpay
+  - Moyasar
+  - Lean
+  - Wahed
+  - Baraka Financial
+  - Thndr
+  - Bokra
+  - Valu
+  - Fawry
+  - Paysky
+  - Khazna Tech
+  - MNT-Halan
+  - Sympl
+  - Blnk
+  - Money Fellows
+
+# Workday tenants. The radar reads the tenant's robots file to find its career sites.
+workday:
+  - {tenant: mastercard, name: Mastercard}
+  - {tenant: visa, name: Visa}
+  - {tenant: pwc, name: PwC}
+  - {tenant: nvidia, name: NVIDIA}
+  - {tenant: salesforce, name: Salesforce}
+  - {tenant: adobe, name: Adobe}
+  - {tenant: hp, name: HP}
+  - {tenant: hpe, name: Hewlett Packard Enterprise}
+  - {tenant: dell, name: Dell Technologies}
+  - {tenant: cisco, name: Cisco}
+  - {tenant: intel, name: Intel}
+  - {tenant: amd, name: AMD}
+  - {tenant: qualcomm, name: Qualcomm}
+  - {tenant: snapchat, name: Snap}
+  - {tenant: unilever, name: Unilever}
+  - {tenant: pg, name: Procter & Gamble}
+  - {tenant: nestle, name: Nestle}
+  - {tenant: pepsico, name: PepsiCo}
+  - {tenant: cocacola, name: Coca-Cola}
+  - {tenant: mars, name: Mars}
+  - {tenant: mondelez, name: Mondelez}
+  - {tenant: loreal, name: "L'Oreal"}
+  - {tenant: reckitt, name: Reckitt}
+  - {tenant: kenvue, name: Kenvue}
+  - {tenant: jnj, name: Johnson & Johnson}
+  - {tenant: pfizer, name: Pfizer}
+  - {tenant: novartis, name: Novartis}
+  - {tenant: roche, name: Roche}
+  - {tenant: sanofi, name: Sanofi}
+  - {tenant: astrazeneca, name: AstraZeneca}
+  - {tenant: gsk, name: GSK}
+  - {tenant: msd, name: MSD}
+  - {tenant: abbvie, name: AbbVie}
+  - {tenant: abbott, name: Abbott}
+  - {tenant: medtronic, name: Medtronic}
+  - {tenant: philips, name: Philips}
+  - {tenant: siemens-healthineers, name: Siemens Healthineers}
+  - {tenant: gehealthcare, name: GE HealthCare}
+  - {tenant: gevernova, name: GE Vernova}
+  - {tenant: geaerospace, name: GE Aerospace}
+  - {tenant: bakerhughes, name: Baker Hughes}
+  - {tenant: slb, name: SLB}
+  - {tenant: halliburton, name: Halliburton}
+  - {tenant: shell, name: Shell}
+  - {tenant: bp, name: bp}
+  - {tenant: chevron, name: Chevron}
+  - {tenant: totalenergies, name: TotalEnergies}
+  - {tenant: woodplc, name: Wood}
+  - {tenant: kbr, name: KBR}
+  - {tenant: aecom, name: AECOM}
+  - {tenant: jacobs, name: Jacobs}
+  - {tenant: wsp, name: WSP}
+  - {tenant: parsons, name: Parsons}
+  - {tenant: bechtel, name: Bechtel}
+  - {tenant: fluor, name: Fluor}
+  - {tenant: arup, name: Arup}
+  - {tenant: atkinsrealis, name: AtkinsRealis}
+  - {tenant: mottmac, name: Mott MacDonald}
+  - {tenant: honeywell, name: Honeywell}
+  - {tenant: 3m, name: 3M}
+  - {tenant: abb, name: ABB}
+  - {tenant: schneiderelectric, name: Schneider Electric}
+  - {tenant: emerson, name: Emerson}
+  - {tenant: rockwellautomation, name: Rockwell Automation}
+  - {tenant: johnsoncontrols, name: Johnson Controls}
+  - {tenant: carrier, name: Carrier}
+  - {tenant: otis, name: Otis}
+  - {tenant: boeing, name: Boeing}
+  - {tenant: airbus, name: Airbus}
+  - {tenant: lockheedmartin, name: Lockheed Martin}
+  - {tenant: rtx, name: RTX}
+  - {tenant: thales, name: Thales}
+  - {tenant: rollsroyce, name: Rolls-Royce}
+  - {tenant: citi, name: Citi}
+  - {tenant: hsbc, name: HSBC}
+  - {tenant: sc, name: Standard Chartered}
+  - {tenant: barclays, name: Barclays}
+  - {tenant: db, name: Deutsche Bank}
+  - {tenant: ubs, name: UBS}
+  - {tenant: ms, name: Morgan Stanley}
+  - {tenant: blackrock, name: BlackRock}
+  - {tenant: statestreet, name: State Street}
+  - {tenant: bnymellon, name: BNY}
+  - {tenant: nasdaq, name: Nasdaq}
+  - {tenant: lseg, name: LSEG}
+  - {tenant: spgi, name: S&P Global}
+  - {tenant: moodys, name: "Moody's"}
+  - {tenant: fitchratings, name: Fitch}
+  - {tenant: msci, name: MSCI}
+  - {tenant: factset, name: FactSet}
+  - {tenant: bloomberg, name: Bloomberg}
+  - {tenant: thomsonreuters, name: Thomson Reuters}
+  - {tenant: refinitiv, name: Refinitiv}
+  - {tenant: aig, name: AIG}
+  - {tenant: zurich, name: Zurich}
+  - {tenant: axa, name: AXA}
+  - {tenant: allianz, name: Allianz}
+  - {tenant: metlife, name: MetLife}
+  - {tenant: marshmclennan, name: Marsh McLennan}
+  - {tenant: mmc, name: Marsh McLennan}
+  - {tenant: aon, name: Aon}
+  - {tenant: wtw, name: WTW}
+  - {tenant: kearney, name: Kearney}
+  - {tenant: bcg, name: BCG}
+  - {tenant: accenture, name: Accenture}
+  - {tenant: capgemini, name: Capgemini}
+  - {tenant: kpmg, name: KPMG}
+  - {tenant: ey, name: EY}
+  - {tenant: deloitte, name: Deloitte}
+  - {tenant: ibm, name: IBM}
+  - {tenant: oracle, name: Oracle}
+  - {tenant: sap, name: SAP}
+  - {tenant: vmware, name: VMware}
+  - {tenant: broadcom, name: Broadcom}
+  - {tenant: redhat, name: Red Hat}
+  - {tenant: autodesk, name: Autodesk}
+  - {tenant: workday, name: Workday}
+  - {tenant: servicenow, name: ServiceNow}
+  - {tenant: paloaltonetworks, name: Palo Alto Networks}
+  - {tenant: crowdstrike, name: CrowdStrike}
+  - {tenant: fortinet, name: Fortinet}
+  - {tenant: netapp, name: NetApp}
+  - {tenant: equinix, name: Equinix}
+  - {tenant: ericsson, name: Ericsson}
+  - {tenant: nokia, name: Nokia}
+  - {tenant: motorolasolutions, name: Motorola Solutions}
+  - {tenant: sony, name: Sony}
+  - {tenant: samsung, name: Samsung}
+  - {tenant: lg, name: LG}
+  - {tenant: disney, name: Disney}
+  - {tenant: wbd, name: Warner Bros. Discovery}
+  - {tenant: nbcuni, name: NBCUniversal}
+  - {tenant: marriott, name: Marriott}
+  - {tenant: hilton, name: Hilton}
+  - {tenant: ihg, name: IHG}
+  - {tenant: hyatt, name: Hyatt}
+  - {tenant: fourseasons, name: Four Seasons}
+  - {tenant: jumeirah, name: Jumeirah}
+  - {tenant: kerzner, name: Kerzner}
+  - {tenant: emaar, name: Emaar}
+  - {tenant: aldar, name: Aldar}
+  - {tenant: dpworld, name: DP World}
+  - {tenant: etihad, name: Etihad Airways}
+  - {tenant: flydubai, name: flydubai}
+  - {tenant: g42, name: G42}
+  - {tenant: mubadala, name: Mubadala}
+  - {tenant: adq, name: ADQ}
+  - {tenant: chalhoub, name: Chalhoub Group}
+  - {tenant: alfuttaim, name: Al-Futtaim}
+  - {tenant: maf, name: Majid Al Futtaim}
+  - {tenant: majidalfuttaim, name: Majid Al Futtaim}
+  - {tenant: landmarkgroup, name: Landmark Group}
+  - {tenant: nike, name: Nike}
+  - {tenant: adidas, name: adidas}
+  - {tenant: puma, name: PUMA}
+  - {tenant: lvmh, name: LVMH}
+  - {tenant: kering, name: Kering}
+  - {tenant: richemont, name: Richemont}
+  - {tenant: esteelauder, name: Estee Lauder}
+  - {tenant: ikea, name: IKEA}
+  - {tenant: dhl, name: DHL}
+  - {tenant: fedex, name: FedEx}
+  - {tenant: ups, name: UPS}
+  - {tenant: maersk, name: Maersk}
+  - {tenant: kuehne-nagel, name: Kuehne+Nagel}
+  - {tenant: expeditors, name: Expeditors}
+  - {tenant: cbre, name: CBRE}
+  - {tenant: jll, name: JLL}
+  - {tenant: cushwake, name: Cushman & Wakefield}
+  - {tenant: knightfrank, name: Knight Frank}
+  - {tenant: savills, name: Savills}
+  - {tenant: turnerandtownsend, name: Turner & Townsend}
+  - {tenant: mace, name: Mace}
+  - {tenant: redbull, name: Red Bull}
+  - {tenant: micron, name: Micron}
+  - {tenant: ti, name: Texas Instruments}
+  - {tenant: nxp, name: NXP}
+  - {tenant: analogdevices, name: Analog Devices}
+  - {tenant: arm, name: Arm}
+  - {tenant: synopsys, name: Synopsys}
+  - {tenant: cadence, name: Cadence}

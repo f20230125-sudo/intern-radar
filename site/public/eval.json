@@ -1,0 +1,118 @@
+{
+ "labelled": 650,
+ "with_facts": 50,
+ "date": "10 Nov 2026",
+ "labelled_by": "Claude, by reading each posting; not checked by a person",
+ "scores": [
+  {
+   "name": "Is it a student role",
+   "n": 64,
+   "precision": 1.0,
+   "recall": 0.984
+  },
+  {
+   "name": "Which kind, when it is one",
+   "n": 63,
+   "precision": 0.984,
+   "recall": 0.984
+  },
+  {
+   "name": "Who can apply",
+   "n": 19,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Start",
+   "n": 16,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Length",
+   "n": 23,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Pay",
+   "n": 19,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Stage of study",
+   "n": 46,
+   "precision": 0.978,
+   "recall": 0.978
+  },
+  {
+   "name": "Where you work",
+   "n": 21,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Closing date",
+   "n": 1,
+   "precision": 1.0,
+   "recall": 1.0
+  }
+ ],
+ "first_pass": [
+  {
+   "name": "Is it a student role",
+   "n": 63,
+   "precision": 1.0,
+   "recall": 0.889
+  },
+  {
+   "name": "Which kind, when it is one",
+   "n": 56,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Who can apply",
+   "n": 19,
+   "precision": 1.0,
+   "recall": 0.947
+  },
+  {
+   "name": "Start",
+   "n": 16,
+   "precision": 0.875,
+   "recall": 0.875
+  },
+  {
+   "name": "Length",
+   "n": 23,
+   "precision": 1.0,
+   "recall": 0.739
+  },
+  {
+   "name": "Pay",
+   "n": 19,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Stage of study",
+   "n": 46,
+   "precision": 0.935,
+   "recall": 0.935
+  },
+  {
+   "name": "Where you work",
+   "n": 21,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  {
+   "name": "Closing date",
+   "n": 1,
+   "precision": 1.0,
+   "recall": 1.0
+  }
+ ]
+}

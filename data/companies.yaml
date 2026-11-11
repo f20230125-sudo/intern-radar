@@ -28,6 +28,66 @@ boards:
   - {system: workable, slug: foodics, name: Foodics}
   - {system: workday, slug: mastercard, host: wd1, site: CorporateCareers, name: Mastercard}
   - {system: workday, slug: visa, host: wd5, site: Visa, name: Visa}
+  - {host: wd5, name: KBR, site: KBR_Careers, slug: kbr, system: workday}
+  - {name: Binance, slug: binance, system: greenhouse}
+  - {name: Aldar, slug: aldar, system: lever}
+  - {name: Deliveroo, slug: deliveroo, system: greenhouse}
+  - {name: Loft Orbital, slug: loftorbital, system: lever}
+  - {host: wd12, name: Salesforce, site: External_Career_Site, slug: salesforce, system: workday}
+  - {host: wd103, name: Accenture, site: AccentureCareers, slug: accenture, system: workday}
+  - {host: wd5, name: GE Vernova, site: Vernova_ExternalSite, slug: gevernova, system: workday}
+  - {host: wd3, name: Richemont, site: broadbean_external, slug: richemont, system: workday}
+  - {host: wd1, name: JLL, site: jllcareers, slug: jll, system: workday}
+  - {host: wd1, name: Mastercard, site: Campus, slug: mastercard, system: workday}
+  - {host: wd5, name: Parsons, site: Search, slug: parsons, system: workday}
+  - {host: wd5, name: Procter & Gamble, site: '1000', slug: pg, system: workday}
+  - {host: wd5, name: Abbott, site: abbottcareers, slug: abbott, system: workday}
+  - {host: wd5, name: Cisco, site: Cisco_Careers, slug: cisco, system: workday}
+  - {name: ElevenLabs, slug: elevenlabs, system: ashby}
+  - {name: Shipa, slug: shipa, system: workable}
+  - {name: Airwallex, slug: airwallex, system: ashby}
+  - {host: wd3, name: AstraZeneca, site: Careers, slug: astrazeneca, system: workday}
+  - {host: wd5, name: Carrier, site: jobs, slug: carrier, system: workday}
+  - {host: wd5, name: GSK, site: GSKCareers, slug: gsk, system: workday}
+  - {host: wd5, name: Hewlett Packard Enterprise, site: Jobsathpe, slug: hpe, system: workday}
+  - {host: wd5, name: CrowdStrike, site: crowdstrikecareers, slug: crowdstrike, system: workday}
+  - {name: Crypto.com, slug: crypto, system: lever}
+  - {name: Shield AI, slug: shieldai, system: lever}
+  - {host: wd103, name: Avanade, site: AvanadeCareers, slug: accenture, system: workday}
+  - {host: wd1, name: AIG, site: aig, slug: aig, system: workday}
+  - {name: Braze, slug: braze, system: greenhouse}
+  - {name: Fireblocks, slug: fireblocks, system: greenhouse}
+  - {host: wd5, name: GE Aerospace, site: GE_ExternalSite, slug: geaerospace, system: workday}
+  - {host: wd1, name: Medtronic, site: MedtronicCareers, slug: medtronic, system: workday}
+  - {host: wd5, name: NVIDIA, site: NVIDIAExternalCareerSite, slug: nvidia, system: workday}
+  - {name: Pure Storage, slug: purestorage, system: greenhouse}
+  - {name: Ripple, slug: ripple, system: greenhouse}
+  - {host: wd5, name: S&P Global, site: SPGI_Careers, slug: spgi, system: workday}
+  - {name: Tamatem, slug: tamatem, system: workable}
+  - {name: Animoca Brands, slug: animocabrands, system: lever}
+  - {host: wd3, name: Barclays, site: External_Career_Site_Barclays, slug: barclays, system: workday}
+  - {host: wd1, name: Broadcom, site: External_Career, slug: broadcom, system: workday}
+  - {host: wd3, name: Deutsche Bank, site: DBWebsite, slug: db, system: workday}
+  - {name: ICEYE, slug: iceye, system: ashby}
+  - {name: InMobi, slug: inmobi, system: greenhouse}
+  - {host: wd3, name: Maersk, site: Maersk_Careers, slug: maersk, system: workday}
+  - {host: wd5, name: Morgan Stanley, site: External, slug: ms, system: workday}
+  - {host: wd5, name: Motorola Solutions, site: Careers, slug: motorolasolutions, system: workday}
+  - {host: wd5, name: MSD, site: SearchJobs, slug: msd, system: workday}
+  - {host: wd3, name: Novartis, site: Novartis_Careers, slug: novartis, system: workday}
+  - {name: Palantir, slug: palantir, system: lever}
+  - {host: wd3, name: Philips, site: jobs-and-careers, slug: philips, system: workday}
+  - {host: wd3, name: Roche, site: roche-ext, slug: roche, system: workday}
+  - {host: wd1, name: Rockwell Automation, site: External_Rockwell_Automation, slug: rockwellautomation, system: workday}
+  - {host: wd3, name: Rolls-Royce, site: Intern_Graduate, slug: rollsroyce, system: workday}
+  - {host: wd12, name: Salesforce, site: Futureforce_Internships, slug: salesforce, system: workday}
+  - {host: wd3, name: Sanofi, site: SanofiCareers, slug: sanofi, system: workday}
+  - {host: wd1, name: Snap, site: snap, slug: snapchat, system: workday}
+  - {name: Spotify, slug: spotify, system: lever}
+  - {host: wd1, name: State Street, site: Global, slug: statestreet, system: workday}
+  - {host: wd5, name: Thomson Reuters, site: External_Career_Site, slug: thomsonreuters, system: workday}
+  - {name: Thunes, slug: thunes, system: greenhouse}
+  - {host: wd3, name: Unilever, site: Unilever_Experienced_Professionals, slug: unilever, system: workday}
 
 not_covered:
   - {name: talabat (Delivery Hero), reason: "Its career system asks automated readers to stay away, so it is not read."}

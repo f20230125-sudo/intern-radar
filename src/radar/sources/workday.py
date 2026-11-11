@@ -66,7 +66,11 @@ def listing(client: Client, board: Board) -> list[RawPosting]:
     first = client.post(url, json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""})
     applied = _uae_facets(first.get("facets") or [])
     if not applied:
-        raise SourceError("the site has no UAE filter")
+        # A site only offers a country as a filter while it has roles there, so no UAE filter means no UAE roles
+        # today. (Discovery only admits sites that had one.) A site with no filters at all is a different matter.
+        if not first.get("facets"):
+            raise SourceError("the site sent no filters")
+        return []
     now = datetime.now(UTC)
     out: list[RawPosting] = []
     seen: set[str] = set()

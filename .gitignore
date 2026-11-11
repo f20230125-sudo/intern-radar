@@ -10,6 +10,9 @@ out/
 test-results/
 playwright-report/
 *.tsbuildinfo
+site/AGENTS.md
+site/CLAUDE.md
+site/next-env.d.ts
 .vercel
 .env*
 *.log

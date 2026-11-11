@@ -73,10 +73,16 @@ def test_workday_asks_for_the_uae_only(client, web, boards):
     assert p.html and p.posted_at is not None
 
 
-def test_workday_without_a_uae_filter_is_an_error_not_an_empty_board(client, web, boards):
+def test_workday_with_no_filters_at_all_is_an_error_not_an_empty_board(client, web, boards):
     web.overrides["myworkdayjobs.com"] = httpx.Response(200, json={"total": 5, "jobPostings": [], "facets": []})
-    with pytest.raises(SourceError, match="no UAE filter"):
+    with pytest.raises(SourceError, match="no filters"):
         ADAPTERS["workday"].listing(client, boards["workday"])
+
+
+def test_workday_site_with_filters_but_no_uae_has_no_uae_roles_today(client, web, boards):
+    facets = [{"facetParameter": "locationCountry", "values": [{"descriptor": "India", "id": "c2"}]}]
+    web.overrides["myworkdayjobs.com"] = httpx.Response(200, json={"total": 5, "jobPostings": [], "facets": facets})
+    assert ADAPTERS["workday"].listing(client, boards["workday"]) == []
 
 
 def test_workday_filter_search_prefers_country_over_city():

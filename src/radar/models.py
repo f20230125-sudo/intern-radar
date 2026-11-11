@@ -58,6 +58,7 @@ class Fact(BaseModel):
     label: str
     evidence: str
     source: Literal["text", "title", "feed"] = "text"
+    mark: str | None = None  # the words inside `evidence` that decided it
 
 
 class Place(BaseModel):
@@ -84,6 +85,7 @@ class Role(BaseModel):
     kind: Kind
     kind_reason: str
     fields: list[str]
+    skills: list[str] = []
     facts: dict[str, Fact]
     department: str | None = None
     excerpt: str = ""

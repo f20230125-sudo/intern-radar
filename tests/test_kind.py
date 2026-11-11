@@ -113,3 +113,21 @@ def test_looks_student_is_a_cheap_title_check():
     assert kind.looks_student("Junior Analyst")
     assert not kind.looks_student("Senior Director, Sales")
     assert not kind.looks_student("Early Careers Recruiter")
+
+
+@pytest.mark.parametrize(
+    "title, text, expected",
+    [
+        ("Graduate Area Manager", "University degree, completed before start date.", "graduate"),
+        ("Early Talent Cloud Sales Representative - UAE nationals", "", "graduate"),
+        ("Brand Specialist", "In final year of study for Bachelor's or Master's degree, or graduated in the last 24 months.", "first_job"),
+        ("Government Operations Associate", "This entry-level opportunity is ideal for a recent graduate or student.", "first_job"),
+        ("Builders Program", "Whether you're a recent graduate or early in your career with up to two years of experience, this is for you.", "first_job"),
+        ("Associate Accountant", "Built for current students seeking internship or co-op opportunities.", "first_job"),
+        ("Graduate Admissions Officer", "5+ years of experience in admissions.", None),
+        ("Graduate Programme Manager", "", None),
+        ("Machine Learning Engineer", "3 years of experience in software engineering, or 1 year of experience with an advanced degree.", None),
+    ],
+)
+def test_student_roles_found_when_the_rules_were_first_scored(title, text, expected):
+    assert kind.classify(title, text).kind == expected

@@ -69,8 +69,21 @@ def read_board(client: Client, board: Board, state: memory.State, *, now: str, r
     return finding
 
 
+def dedupe(roles: list) -> list:
+    """An employer with two career sites (a main one and a campus one) lists the same role on both. One is kept:
+    an open copy before a closed one, then the one seen first."""
+    best: dict[tuple, object] = {}
+    for role in roles:
+        key = (role.employer.lower(), role.title.lower(), tuple(sorted(p.emirate for p in role.places)))
+        held = best.get(key)
+        if held is None or (role.status == "open", held.first_seen) > (held.status == "open", role.first_seen):
+            best[key] = role
+    kept = {id(r) for r in best.values()}
+    return [r for r in roles if id(r) in kept]
+
+
 def build_snapshot(state: memory.State, boards: list[Board], findings: list[memory.BoardFinding], not_covered: list[dict], *, started: str, now: str) -> Snapshot:
-    roles = memory.roles(state)
+    roles = dedupe(memory.roles(state))
     by_board: dict[str, int] = {}
     for role in roles:
         if role.status == "open":

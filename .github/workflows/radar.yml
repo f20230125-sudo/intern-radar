@@ -1,0 +1,79 @@
+name: Hourly radar
+
+# Reads every watched job board, folds the result into what was known, and publishes the new snapshot on the
+# `data` branch. The site reads that branch, so a run reaches readers within five minutes without a deployment.
+# The job goes red, and publishes nothing, when a run is not fit to publish (see radar.run.check).
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      # The memory of earlier runs lives on the data branch. The first run starts it empty.
+      - name: Fetch what was known
+        run: |
+          mkdir -p data-branch
+          if git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            git fetch --depth 1 origin data
+            git worktree add data-branch FETCH_HEAD
+          fi
+          mkdir -p data/history
+          for f in state.json snapshot.json; do [ -f "data-branch/$f" ] && cp "data-branch/$f" "data/$f" || true; done
+          [ -d data-branch/history ] && cp -r data-branch/history/. data/history/ || true
+
+      - name: Read the boards
+        run: PYTHONPATH=src python -m radar.run
+
+      - name: Write today's digest
+        run: PYTHONPATH=src python -m radar.digest --out digest.md
+
+      - name: Publish on the data branch
+        run: |
+          rm -rf publish && mkdir publish && cd publish
+          git init -q -b data
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          if git ls-remote --exit-code --heads origin data >/dev/null 2>&1; then
+            git fetch -q --depth 20 origin data && git reset -q --soft FETCH_HEAD
+          fi
+          cp ../data/state.json ../data/snapshot.json .
+          mkdir -p history && cp -r ../data/history/. history/ 2>/dev/null || true
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+          else
+            git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -q -m "Radar run $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push -q origin data
+          fi
+
+      # One issue a day lists the roles that appeared that day. Anyone watching the repository gets it by email.
+      - name: Post the daily digest
+        if: hashFiles('digest.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="New student roles, $(TZ=Asia/Dubai date +%-d\ %b\ %Y)"
+          number=$(gh issue list --repo "${{ github.repository }}" --state open --search "in:title \"$title\"" --json number --jq '.[0].number')
+          if [ -n "$number" ]; then
+            gh issue edit "$number" --repo "${{ github.repository }}" --body-file digest.md
+          else
+            gh issue create --repo "${{ github.repository }}" --title "$title" --body-file digest.md
+          fi

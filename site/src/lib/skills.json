@@ -1,0 +1,327 @@
+[
+ {
+  "name": "Python",
+  "pattern": "\\bpython\\b",
+  "flags": "i"
+ },
+ {
+  "name": "SQL",
+  "pattern": "\\bsql\\b|\\bpostgres(?:ql)?\\b|\\bmysql\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Excel",
+  "pattern": "\\bexcel\\b|\\bspreadsheets?\\b|\\bgoogle\\s+sheets\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Power BI",
+  "pattern": "\\bpower\\s?bi\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Tableau",
+  "pattern": "\\btableau\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Looker",
+  "pattern": "\\blooker\\b",
+  "flags": "i"
+ },
+ {
+  "name": "R",
+  "pattern": "(?<![\\w&/.-])R(?![\\w&/.-])(?=\\s*(?:,|\\)|/|or\\b|and\\b|programming|studio))|\\brstudio\\b",
+  "flags": ""
+ },
+ {
+  "name": "Java",
+  "pattern": "\\bjava\\b(?!\\s*script)",
+  "flags": "i"
+ },
+ {
+  "name": "JavaScript",
+  "pattern": "\\bjavascript\\b|\\bnode\\.?js\\b",
+  "flags": "i"
+ },
+ {
+  "name": "TypeScript",
+  "pattern": "\\btypescript\\b",
+  "flags": "i"
+ },
+ {
+  "name": "React",
+  "pattern": "\\bReact(?:\\.?js|\\s+Native)?\\b|\\bNext\\.?js\\b|\\breactjs\\b",
+  "flags": ""
+ },
+ {
+  "name": "C++",
+  "pattern": "\\bc\\+\\+",
+  "flags": "i"
+ },
+ {
+  "name": "C#",
+  "pattern": "\\bc#|\\b\\.net\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Go",
+  "pattern": "\\bgolang\\b|\\bgo\\s+(?:lang|programming)\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Rust",
+  "pattern": "\\bRust\\b(?![\\s-]*(?:proof|prevent|resist))",
+  "flags": ""
+ },
+ {
+  "name": "Swift or Kotlin",
+  "pattern": "\\bswift\\b|\\bkotlin\\b|\\bios\\s+develop|\\bandroid\\s+develop",
+  "flags": "i"
+ },
+ {
+  "name": "HTML and CSS",
+  "pattern": "\\bhtml\\b|\\bcss\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Git",
+  "pattern": "\\bgit(?:hub|lab)?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Linux",
+  "pattern": "\\blinux\\b|\\bunix\\b|\\bbash\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Docker and Kubernetes",
+  "pattern": "\\bdocker\\b|\\bkubernetes\\b|\\bk8s\\b|\\bcontainers?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Cloud (AWS, Azure, GCP)",
+  "pattern": "\\baws\\b|\\bazure\\b|\\bgcp\\b|\\bgoogle\\s+cloud\\b|\\bcloud\\s+(?:computing|platform|infrastructure|services)\\b",
+  "flags": "i"
+ },
+ {
+  "name": "APIs",
+  "pattern": "\\bapis?\\b|\\brest(?:ful)?\\b|\\bgraphql\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Machine learning",
+  "pattern": "\\bmachine\\s+learning\\b|\\bml\\b|\\bdeep\\s+learning\\b|\\bneural\\s+networks?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "LLMs and NLP",
+  "pattern": "\\bllms?\\b|\\blarge\\s+language\\s+models?\\b|\\bnlp\\b|\\bnatural\\s+language\\b|\\bgenerative\\s+ai\\b|\\bgenai\\b|\\bprompt",
+  "flags": "i"
+ },
+ {
+  "name": "Computer vision",
+  "pattern": "\\bcomputer\\s+vision\\b|\\bimage\\s+(?:processing|recognition)\\b",
+  "flags": "i"
+ },
+ {
+  "name": "PyTorch or TensorFlow",
+  "pattern": "\\bpytorch\\b|\\btensorflow\\b|\\bkeras\\b|\\bscikit",
+  "flags": "i"
+ },
+ {
+  "name": "Data analysis",
+  "pattern": "\\bdata\\s+analy(?:sis|tics|st)\\b|\\banaly[sz]e\\s+data\\b|\\bdata[\\s-]driven\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Statistics",
+  "pattern": "\\bstatistic(?:s|al)\\b|\\bregression\\b|\\bhypothesis\\s+test|\\ba/b\\s+test",
+  "flags": "i"
+ },
+ {
+  "name": "Data engineering",
+  "pattern": "\\bdata\\s+(?:pipelines?|engineering|warehous)|\\betl\\b|\\bspark\\b|\\bairflow\\b|\\bdbt\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Dashboards and reporting",
+  "pattern": "\\bdashboards?\\b|\\bdata\\s+visuali[sz]ation\\b|\\b(?:management|financial|regular|weekly|monthly)\\s+report(?:s|ing)\\b|\\breporting\\s+(?:tools?|skills)\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Financial modelling",
+  "pattern": "\\bfinancial\\s+model|\\bvaluation\\b|\\bdcf\\b|\\bforecast(?:ing|s)?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Accounting",
+  "pattern": "\\baccounting\\b|\\bifrs\\b|\\bgaap\\b|\\bbookkeeping\\b|\\breconciliation",
+  "flags": "i"
+ },
+ {
+  "name": "Audit and risk",
+  "pattern": "\\baudit(?:ing|s)?\\b|\\brisk\\s+(?:management|assessment|analysis)\\b|\\binternal\\s+controls?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Compliance and AML",
+  "pattern": "\\bcompliance\\b|\\baml\\b|\\bkyc\\b|\\bsanctions\\b|\\bregulatory\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Trading and markets",
+  "pattern": "\\btrading\\b|\\bfinancial\\s+markets\\b|\\bcapital\\s+markets\\b|\\bequit(?:y|ies)\\b|\\bderivatives\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Crypto and blockchain",
+  "pattern": "\\bcrypto(?:currency|currencies)?\\b|\\bblockchain\\b|\\bweb3\\b|\\bdigital\\s+assets?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Sales",
+  "pattern": "\\bsales\\b|\\bbusiness\\s+development\\b|\\blead\\s+generation\\b|\\bprospecting\\b",
+  "flags": "i"
+ },
+ {
+  "name": "CRM",
+  "pattern": "\\bcrm\\b|\\bsalesforce\\b|\\bhubspot\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Marketing",
+  "pattern": "\\bmarketing\\b|\\bcampaigns?\\b|\\bbrand(?:ing)?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Social media and content",
+  "pattern": "\\bsocial\\s+media\\b|\\bcontent\\s+(?:creation|writing|marketing)\\b|\\bcopywriting\\b",
+  "flags": "i"
+ },
+ {
+  "name": "SEO and paid media",
+  "pattern": "\\bseo\\b|\\bsem\\b|\\bpaid\\s+media\\b|\\bgoogle\\s+ads\\b|\\bperformance\\s+marketing\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Public relations",
+  "pattern": "\\bpublic\\s+relations\\b|\\bpress\\s+releases?\\b|\\bmedia\\s+relations\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Design tools",
+  "pattern": "\\bfigma\\b|\\badobe\\b|\\bphotoshop\\b|\\billustrator\\b|\\bafter\\s+effects\\b|\\bcanva\\b",
+  "flags": "i"
+ },
+ {
+  "name": "UX research and design",
+  "pattern": "\\bux\\b|\\buser\\s+(?:research|experience)\\b|\\bwirefram|\\bprototyp",
+  "flags": "i"
+ },
+ {
+  "name": "Animation and video",
+  "pattern": "\\banimation\\b|\\bmotion\\s+graphics\\b|\\bvideo\\s+editing\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Product management",
+  "pattern": "\\bproduct\\s+(?:management|roadmap|strategy|requirements)\\b|\\buser\\s+stories\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Project management",
+  "pattern": "\\bproject\\s+management\\b|\\bpmp\\b|\\bstakeholder\\s+management\\b|\\bproject\\s+plans?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Agile",
+  "pattern": "\\bagile\\b|\\bscrum\\b|\\bjira\\b|\\bkanban\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Operations and logistics",
+  "pattern": "\\blogistics\\b|\\bsupply\\s+chain\\b|(?<!data\\s)(?<!sql\\s)\\bwarehouse\\b(?!\\s+in\\s+duckdb)|\\binventory\\b|\\bfulfil+ment\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Process improvement",
+  "pattern": "\\bprocess\\s+improvement\\b|\\blean\\b|\\bsix\\s+sigma\\b|\\bkaizen\\b|\\bcontinuous\\s+improvement\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Procurement",
+  "pattern": "\\bprocurement\\b|\\bsourcing\\b|\\bvendor\\s+management\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Customer service",
+  "pattern": "\\bcustomer\\s+(?:service|support|success|experience)\\b",
+  "flags": "i"
+ },
+ {
+  "name": "HR and recruiting",
+  "pattern": "\\bhuman\\s+resources\\s+(?:management|operations|practices|processes|degree)\\b|\\bhr\\s+(?:operations|processes|policies|administration|generalist)\\b|\\bsourcing\\s+candidates\\b|\\bscreening\\s+(?:cvs|resumes|candidates)\\b|\\bpayroll\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Research and writing",
+  "pattern": "\\bresearch\\s+(?:skills|reports?|papers?)\\b|\\breport\\s+writing\\b|\\bliterature\\s+review",
+  "flags": "i"
+ },
+ {
+  "name": "Presentations",
+  "pattern": "\\bpowerpoint\\b|\\bpresentations?\\b|\\bpitch\\s+decks?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Mechanical engineering",
+  "pattern": "\\bmechanical\\s+engineering\\b|\\bhvac\\b|\\bcad\\b|\\bsolidworks\\b|\\bautocad\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Electrical engineering",
+  "pattern": "\\belectrical\\s+engineering\\b|\\bpower\\s+systems\\b|\\bplc\\b|\\bcircuit",
+  "flags": "i"
+ },
+ {
+  "name": "Civil and construction",
+  "pattern": "\\bcivil\\s+engineering\\b|\\bconstruction\\b|\\bstructural\\b|\\bquantity\\s+survey",
+  "flags": "i"
+ },
+ {
+  "name": "Data centres",
+  "pattern": "\\bdata\\s+cent(?:er|re)s?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Networking and security",
+  "pattern": "\\bnetwork(?:ing|s)?\\s+(?:security|engineering|protocols)\\b|\\bcyber\\s?security\\b|\\binformation\\s+security\\s+(?:analyst|engineer|principles|practices|standards|degree)\\b|\\bfirewalls?\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Regulatory affairs and pharma",
+  "pattern": "\\bregulatory\\s+affairs\\b|\\bpharma(?:cy|ceutical)\\b|\\bclinical\\b|\\bgmp\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Legal research",
+  "pattern": "\\blegal\\s+(?:research|drafting)\\b|\\bcontracts?\\s+(?:review|drafting)\\b|\\bparalegal\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Arabic",
+  "pattern": "\\barabic\\b",
+  "flags": "i"
+ },
+ {
+  "name": "French",
+  "pattern": "\\bfrench\\b",
+  "flags": "i"
+ },
+ {
+  "name": "Hindi or Urdu",
+  "pattern": "\\bhindi\\b|\\burdu\\b",
+  "flags": "i"
+ }
+]

@@ -1,0 +1,38 @@
+{
+  "name": "intern-radar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3150",
+    "build": "next build",
+    "start": "next start -p 3150",
+    "lint": "eslint",
+    "test": "vitest run",
+    "typecheck": "next typegen && tsc --noEmit",
+    "e2e": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.2.5",
+    "@fontsource-variable/hanken-grotesk": "^5.2.5",
+    "@fontsource-variable/spline-sans-mono": "^5.2.5",
+    "next": "16.4.6",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "server-only": "^0.0.1",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "@playwright/test": "^1.63.0",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^24.19.1",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.1.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.6",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^5.0.3"
+  }
+}

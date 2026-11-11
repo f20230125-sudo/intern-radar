@@ -44,10 +44,11 @@ _GRADUATE = re.compile(
     r"|\bgraduates?\b\s*(?:20\d\d|[-–(,]|$)|\bnew\s+grad(?:uate)?s?\b|\bfresh\s+grad(?:uate)?s?\b|\brecent\s+grad(?:uate)?s?\b"
     r"|\b(?:uae\s+)?national\s+graduates?\b|\bcampus\s+hire\b|\buniversity\s+(?:graduate|hire)\b|\bclass\s+of\s+20\d\d\b"
     r"|\bmanagement\s+trainee\b|\bgraduate\s+management\b|\brotational\s+(?:program|analyst|associate)|\blaunch\s+program(?:me)?\b"
-    r"|\bearly[\s-]*careers?\b|\bemerging\s+talent\b|\banalyst\s+program(?:me)?\b|\bassociate\s+program(?:me)?\b|\bfuture\s+leaders?\b"
+    r"|\bearly[\s-]*careers?\b|\bearly[\s-]*talent\b|\bemerging\s+talent\b|\banalyst\s+program(?:me)?\b|\bassociate\s+program(?:me)?\b|\bfuture\s+leaders?\b"
     r"|\bgraduate\b[^,;|]{0,30}\b20\d\d\b",
     _I,
 )
+_LEADING_GRADUATE = re.compile(r"\s*graduate\b(?!\s+(?:admissions?|studies|school|recruit|program(?:me)?s?\s+(?:manager|lead|director|coordinator)))", _I)
 _JUNIOR = re.compile(r"\bjunior\b|\bjr\.?\b|\bentry[\s-]*level\b|\btrainee\b|\bassociate\b|\bassistant\b|\banalyst\s+i\b|\blevel\s*1\b|\bgraduate\b", _I)
 
 # "2+ years of experience", "0-1 years", "minimum of three years' experience", "at least 1 year".
@@ -57,10 +58,13 @@ _YEARS = re.compile(
     rf"|\bexperience\b[^.\n]{{0,40}}?{_NUM}\s*(?:\+|plus)?\s*(?:(?:-|–|—|to)\s*{_NUM}\s*)?\+?\s*(?:years?|yrs?)\b",
     _I,
 )
+_UP_TO = re.compile(rf"\bup\s+to\s+{_NUM}\s+(?:years?|yrs?)\s+of\s+(?:\w+\s+)?experience\b", _I)
 _WORDS = {"zero": 0, "one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10}
 _NO_EXPERIENCE = re.compile(
     r"\bno\s+(?:prior\s+|previous\s+|work\s+)?experience\s+(?:is\s+)?(?:required|needed|necessary)\b|\bfresh\s+graduates?\s+(?:are\s+)?(?:welcome|encouraged|can\s+apply|may\s+apply)"
-    r"|\b(?:open\s+to|suitable\s+for|ideal\s+for|welcome)\s+(?:fresh|recent|new)\s+graduates?\b|\b(?:recent|fresh|new)\s+graduates?\s+(?:with|who|looking)\b",
+    r"|\b(?:open\s+to|suitable\s+for|ideal\s+for|welcome|designed\s+for|built\s+for|aimed\s+at)\s+(?:an?\s+)?(?:fresh|recent|new|current)\s+(?:graduates?|students?)\b"
+    r"|\b(?:recent|fresh|new)\s+graduates?\s+(?:with|who|looking|or\s+(?:students?|early))\b|\bentry[\s-]level\s+(?:opportunity|role|position|job)\b"
+    r"|\bfinal\s+year\s+of\s+(?:study|studies)\b|\bgraduated\s+(?:in|within)\s+the\s+(?:last|past)\s+\d+\s+months\b",
     _I,
 )
 
@@ -78,6 +82,9 @@ def _num(s: str) -> int:
 def min_years(text: str) -> tuple[int, str] | None:
     """The lowest "years of experience" a posting asks for, with the matched words. None if it never says."""
     best: tuple[int, str] | None = None
+    m = _UP_TO.search(text)
+    if m:
+        best = (0, re.sub(r"\s+", " ", m.group(0)).strip())
     for m in _YEARS.finditer(text):
         groups = [g for g in m.groups() if g]
         if not groups:
@@ -99,6 +106,9 @@ def classify(title: str, text: str = "", employment_type: str | None = None) -> 
     m = _INTERN.search(t)
     if m:
         return Verdict("internship", f'title says "{m.group(0)}"')
+    m = _LEADING_GRADUATE.match(t)
+    if m:
+        return Verdict("graduate", f'title says "{m.group(0).strip()}"')
     m = _GRADUATE.search(t)
     if m and not _SENIOR.search(_GRADUATE.sub(" ", t)):
         return Verdict("graduate", f'title says "{m.group(0).strip()}"')

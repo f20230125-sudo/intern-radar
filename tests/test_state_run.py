@@ -204,3 +204,41 @@ def test_nothing_is_published_when_every_board_fails(tmp_path, client, web, boar
     _, _, problems = run.run(list(boards.values()), [], data=tmp_path, client=client, now=datetime(2026, 11, 10, 8, tzinfo=UTC), workers=1)
     assert problems == ["no board could be read"]
     assert not (tmp_path / "snapshot.json").exists() and not (tmp_path / "state.json").exists()
+
+
+def test_titles_drop_the_place_and_nationality_note_that_the_row_already_shows():
+    from radar.reader import clean_title
+
+    assert clean_title("Product Management Intern, Summer 2027 – Dubai, UAE (UAE Nationals Preferred)") == "Product Management Intern, Summer 2027"
+    assert clean_title("Intern, Technical Program Management - Dubai, United Arab Emirates") == "Intern, Technical Program Management"
+    assert clean_title("Associate Data Scientist - Builders Program - (Emirati National)") == "Associate Data Scientist - Builders Program"
+    assert clean_title("Operations Trainee, AWS Data Centers (UAE National Only) [6-month contract]") == "Operations Trainee, AWS Data Centers [6-month contract]"
+    assert clean_title("Machine Learning - Intern") == "Machine Learning - Intern"
+    assert clean_title("Sales Intern (Dubai Mall)") == "Sales Intern (Dubai Mall)"
+    assert clean_title("UAE") == "UAE"
+
+
+def test_the_same_role_on_two_of_an_employers_sites_is_listed_once():
+    first = role("workday:acme:Main:R1", "Sales Intern", board="workday:acme:Main", first_seen=T0)
+    copy = role("workday:acme:Campus:R1", "Sales Intern", board="workday:acme:Campus", first_seen=T1)
+    other = role("workday:acme:Main:R2", "Ops Intern", board="workday:acme:Main", first_seen=T0)
+    closed = role("workday:acme:Old:R9", "Ops Intern", board="workday:acme:Old", first_seen="2026-01-01T00:00:00+00:00", status="closed")
+    elsewhere = role("workday:acme:Main:R3", "Sales Intern", board="workday:acme:Main", places=[Place(emirate="Abu Dhabi", raw="Abu Dhabi")])
+    kept = run.dedupe([first, copy, other, closed, elsewhere])
+    assert [r.id for r in kept] == [first.id, other.id, elsewhere.id]
+
+
+def test_the_digest_lists_todays_roles_and_cannot_be_hijacked_by_a_title():
+    from radar import digest
+
+    now = datetime(2026, 11, 10, 9, 0, tzinfo=UTC)
+    evil = role(A, "Intern [click](https://evil.test) @everyone <b>", first_seen="2026-11-10T05:00:00+00:00")
+    old = role(B, "Ops Intern", first_seen="2026-11-08T05:00:00+00:00")
+    late = role("greenhouse:acme:3", "Night Intern", first_seen="2026-11-09T21:30:00+00:00")  # already the 10th in the UAE
+    snap = {"roles": [r.model_dump(mode="json") for r in (evil, old, late)]}
+    text = digest.build(snap, now=now, site="https://radar.test")
+    assert text.startswith("2 student roles first seen today")
+    assert "Ops Intern" not in text and "Night Intern" in text
+    assert "](https://evil.test)" not in text and "@everyone" not in text and "<b>" not in text
+    assert f"(https://radar.test/role/{evil.slug})" in text
+    assert digest.build({"roles": [old.model_dump(mode="json")]}, now=now) is None
