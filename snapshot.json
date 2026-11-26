@@ -1,9 +1,135 @@
 {
  "schema_version": 1,
  "rules_version": 5,
- "generated_at": "2026-11-26T04:58:20+00:00",
- "started_at": "2026-11-26T04:57:08+00:00",
+ "generated_at": "2026-11-26T15:03:24+00:00",
+ "started_at": "2026-11-26T15:02:13+00:00",
  "roles": [
+  {
+   "id": "amazon:amazon:10615306",
+   "slug": "amazon-2027-financial-analyst-intern-09568f",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "2027 Financial Analyst Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10615306/2027-financial-analyst-intern",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Finance and accounting"
+   ],
+   "skills": [
+    "Financial modelling",
+    "Marketing"
+   ],
+   "facts": {
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
+     "source": "text",
+     "mark": "Competitive pay"
+    },
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "You should be available for 3 to 6 months, full time (40h/week).",
+     "source": "text",
+     "mark": "3 to 6 months"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
+     "source": "text",
+     "mark": "Currently enrolled"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "Are you willing to dive deep to develop those solutions and deliver results? We are looking for finance Interns to work alongside, and support managers gaining a deep insight into the financial systems, processes, and controls used to record Amazon’s growing volume of daily, weekly, and monthly…",
+   "posted_at": "2026-11-26T00:00:00+00:00",
+   "first_seen": "2026-11-26T15:02:13+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
+  {
+   "id": "amazon:amazon:10615308",
+   "slug": "amazon-2027-whs-intern-4e3a27",
+   "employer": "Amazon",
+   "board": "amazon:amazon",
+   "system": "amazon",
+   "title": "2027 WHS Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10615308/2027-whs-intern",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, ARE, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Other"
+   ],
+   "skills": [
+    "Operations and logistics",
+    "Customer service"
+   ],
+   "facts": {
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive pay",
+     "source": "text",
+     "mark": "Competitive pay"
+    },
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "You should be available for 3 to 6 months, full time (40h/week).",
+     "source": "text",
+     "mark": "3 to 6 months"
+    },
+    "start": {
+     "value": "when",
+     "label": "January to December 2027",
+     "evidence": "Available to commence an internship between January and December 2027.",
+     "source": "text",
+     "mark": "commence an internship between January and December 2027"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students (Bachelor's, Master's)",
+     "evidence": "Currently enrolled in or will receive a Bachelor's or Master's Degree with a graduation date between December 2027 and June 2028",
+     "source": "text",
+     "mark": "Currently enrolled"
+    }
+   },
+   "department": "Administrative Support",
+   "excerpt": "Note: You must have the right to work in the country of employment by the start date. Amazon is looking for ambitious, curious and versatile candidates to join our unique world as interns.",
+   "posted_at": "2026-11-26T00:00:00+00:00",
+   "first_seen": "2026-11-26T15:02:13+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
+   "changed_at": null,
+   "status": "open",
+   "closed_at": null
+  },
   {
    "id": "amazon:amazon:10612531",
    "slug": "amazon-data-center-infra-engineer-2027-internship-16341f",
@@ -66,7 +192,7 @@
    "excerpt": "This role is open to UAE nationals (Emiratis) only As a DC Infra Engineer Intern at Amazon Web Services (AWS), you will work alongside an experienced, cross-disciplinary team to provide full life-cycle support to AWS data centers — from design inception through site improvement and maintenance.",
    "posted_at": "2026-11-24T00:00:00+00:00",
    "first_seen": "2026-11-24T17:32:53+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -110,7 +236,7 @@
    "excerpt": "As a Merchant Field & Marketing Intern, you will be Tamara's on-ground representative across assigned partner stores. You will help ensure Tamara is visible, understood, and confidently recommended by store teams.",
    "posted_at": "2026-11-23T05:13:50-05:00",
    "first_seen": "2026-11-23T21:14:51+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -327,98 +453,6 @@
    "closed_at": null
   },
   {
-   "id": "workable:bayutdubizzle:41834EC4F1",
-   "slug": "bayut-dubizzle-associate-data-engineer-21c383",
-   "employer": "Bayut & dubizzle",
-   "board": "workable:bayutdubizzle",
-   "system": "workable",
-   "title": "Associate Data Engineer",
-   "url": "https://apply.workable.com/j/41834EC4F1",
-   "places": [
-    {
-     "emirate": "Dubai",
-     "raw": "Dubai, Dubai, United Arab Emirates"
-    }
-   ],
-   "elsewhere": 0,
-   "kind": "first_job",
-   "kind_reason": "asks for \"1+ years of experience\"",
-   "fields": [
-    "Data and analytics"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Linux",
-    "Cloud (AWS, Azure, GCP)",
-    "APIs",
-    "Data analysis",
-    "Data engineering",
-    "Dashboards and reporting",
-    "Marketing",
-    "UX research and design",
-    "Agile"
-   ],
-   "facts": {},
-   "department": null,
-   "excerpt": "As an Associate Data Engineer, you will be participating in exciting projects covering the end-to-end data lifecycle – from raw data integrations with primary and third-party systems, through advanced data modelling, to state-of-the-art data visualisation and development of innovative data products.",
-   "posted_at": "2026-11-13T00:00:00+00:00",
-   "first_seen": "2026-11-13T16:12:26+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
-   "changed_at": null,
-   "status": "open",
-   "closed_at": null
-  },
-  {
-   "id": "workable:bayutdubizzle:591EAD46DE",
-   "slug": "bayut-dubizzle-data-engineer-intern-7f577d",
-   "employer": "Bayut & dubizzle",
-   "board": "workable:bayutdubizzle",
-   "system": "workable",
-   "title": "Data Engineer - Intern",
-   "url": "https://apply.workable.com/j/591EAD46DE",
-   "places": [
-    {
-     "emirate": "Dubai",
-     "raw": "Dubai, Dubai, United Arab Emirates"
-    }
-   ],
-   "elsewhere": 0,
-   "kind": "internship",
-   "kind_reason": "title says \"Intern\"",
-   "fields": [
-    "Data and analytics"
-   ],
-   "skills": [
-    "Python",
-    "SQL",
-    "Linux",
-    "Data analysis",
-    "Data engineering",
-    "Dashboards and reporting",
-    "Marketing",
-    "UX research and design",
-    "Agile"
-   ],
-   "facts": {
-    "stage": {
-     "value": "degree",
-     "label": "Bachelor's degree",
-     "evidence": "Bachelor’s degree in computer science, engineering, math, physics or any related quantitative field.",
-     "source": "text",
-     "mark": "Bachelor’s"
-    }
-   },
-   "department": null,
-   "excerpt": "As a Data Engineer Intern, you will be participating in exciting projects covering the end-to-end data lifecycle – from raw data integrations with primary and third-party systems, through advanced data modelling, to state-of-the-art data visualisation and development of innovative data products.",
-   "posted_at": "2026-11-13T00:00:00+00:00",
-   "first_seen": "2026-11-13T16:12:26+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
-   "changed_at": null,
-   "status": "open",
-   "closed_at": null
-  },
-  {
    "id": "workday:aig:aig:JR2604643",
    "slug": "aig-junior-marine-underwriter-for-uae-nationals-only-351e35",
    "employer": "AIG",
@@ -582,7 +616,7 @@
    "excerpt": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) If you would like more information about how your data is processed, please contact us.",
    "posted_at": "2026-11-12T03:31:11-05:00",
    "first_seen": "2026-11-12T10:56:18+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -645,69 +679,6 @@
    "closed_at": null
   },
   {
-   "id": "greenhouse:binance:5024608101",
-   "slug": "binance-binance-accelerator-program-compliance-training-ai-53996f",
-   "employer": "Binance",
-   "board": "greenhouse:binance",
-   "system": "greenhouse",
-   "title": "Binance Accelerator Program - Compliance Training (AI)",
-   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024608101",
-   "places": [
-    {
-     "emirate": "UAE",
-     "raw": "United Arab Emirates"
-    }
-   ],
-   "elsewhere": 6,
-   "kind": "internship",
-   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-   "fields": [
-    "AI and machine learning",
-    "Legal and compliance"
-   ],
-   "skills": [
-    "LLMs and NLP",
-    "Compliance and AML",
-    "Trading and markets",
-    "Crypto and blockchain",
-    "Social media and content",
-    "Animation and video",
-    "Customer service",
-    "Presentations"
-   ],
-   "facts": {
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
-    },
-    "pay": {
-     "value": "paid",
-     "label": "Paid, amount not stated",
-     "evidence": "Competitive salary and company benefits",
-     "source": "text",
-     "mark": "Competitive salary"
-    },
-    "stage": {
-     "value": "graduate",
-     "label": "Recent graduates (Bachelor's, Master's)",
-     "evidence": "Current undergraduate, postgraduate students, or fresh graduates.",
-     "source": "text",
-     "mark": "fresh graduates"
-    }
-   },
-   "department": null,
-   "excerpt": "We are looking for a Compliance Training AI BAP to support the development and delivery of engaging, technology-enabled compliance learning initiatives across the organization. This role offers hands-on exposure to instructional design, training operations, learning analytics and AI-driven learning…",
-   "posted_at": "2026-11-10T01:22:59-05:00",
-   "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
-   "changed_at": null,
-   "status": "open",
-   "closed_at": null
-  },
-  {
    "id": "workable:bayutdubizzle:222E77A4D9",
    "slug": "bayut-dubizzle-machine-learning-intern-469382",
    "employer": "Bayut & dubizzle",
@@ -755,7 +726,7 @@
    "excerpt": "World-class mentors, fast paced & high performing work environment, our open culture and the opportunity to make an impact are just a few of the reasons why our internship program is highly sought after.",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -807,7 +778,7 @@
    "excerpt": "As a Data Analyst - Intern, you will be in a central position as you will be evangelising data and our methodologies to other functional analysts and other stakeholders in the company.",
    "posted_at": "2026-11-10T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1354,7 +1325,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-11-05T08:23:18-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": "2026-11-12T18:51:03+00:00",
    "status": "open",
    "closed_at": null
@@ -1419,7 +1390,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-11-05T03:05:07-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": "2026-11-12T10:56:18+00:00",
    "status": "open",
    "closed_at": null
@@ -1472,7 +1443,7 @@
    "excerpt": "Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. We’re looking for an Emirati Rider Engagement Associate to join our UAE team.",
    "posted_at": "2026-11-04T22:56:03-05:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1540,7 +1511,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-10-29T03:10:43-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": "2026-11-18T21:51:22+00:00",
    "status": "open",
    "closed_at": null
@@ -1677,7 +1648,7 @@
    "excerpt": "The internship starts mid-June 2027 and has a duration of 12 weeks. At Amazon Web Services (AWS), you will grow into the high-impact, visionary person you know you're ready to be, taking on new challenges and developing new skills every day in our AI-first cloud environment.",
    "posted_at": "2026-10-27T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1826,7 +1797,7 @@
    "excerpt": "When you join Amazon as an Area/Shift Manager, you’ll gain experience leading a large and diverse team to make sure your area of the business keeps pace with demand. In this hands-on role, you’ll learn about the complexity of operations at a global business and what it takes to make everything run…",
    "posted_at": "2026-10-22T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -1941,18 +1912,18 @@
    "excerpt": "In this role, you will be a key driver behind our continued growth and success. With our commitment to innovation, you will seek out, develop, and help implement strategic initiatives for improved efficiency and productivity.",
    "posted_at": "2026-10-21T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-23T00:47:36+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
   },
   {
    "id": "greenhouse:binance:5005249101",
-   "slug": "binance-otc-trader-5b4016",
+   "slug": "binance-otc-sales-trader-5b4016",
    "employer": "Binance",
    "board": "greenhouse:binance",
    "system": "greenhouse",
-   "title": "OTC Trader",
+   "title": "OTC Sales Trader",
    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5005249101",
    "places": [
     {
@@ -1964,7 +1935,8 @@
    "kind": "first_job",
    "kind_reason": "asks for \"up to 3 years of experience\"",
    "fields": [
-    "Finance and accounting"
+    "Finance and accounting",
+    "Sales and business development"
    ],
    "skills": [
     "Audit and risk",
@@ -1973,13 +1945,6 @@
     "Sales"
    ],
    "facts": {
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
-    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -1993,14 +1958,21 @@
      "evidence": "Recently completed a Bachelor's degree (Master's preferred) in finance, engineering, mathematics, or a related field",
      "source": "text",
      "mark": "Recently completed"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "Prior internship or up to 3 years of experience in trading, sales & trading, or financial markets preferred; exposure to the OTC trade lifecycle is a plus Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
    "posted_at": "2026-10-20T04:50:25-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
-   "changed_at": null,
+   "last_seen": "2026-11-26T15:02:13+00:00",
+   "changed_at": "2026-11-26T15:02:13+00:00",
    "status": "open",
    "closed_at": null
   },
@@ -2066,100 +2038,34 @@
    "closed_at": null
   },
   {
-   "id": "workday:hpe:Jobsathpe:1216744",
-   "slug": "hewlett-packard-enterprise-sales-graduate-7c28e8",
-   "employer": "Hewlett Packard Enterprise",
-   "board": "workday:hpe:Jobsathpe",
-   "system": "workday",
-   "title": "Sales Graduate",
-   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dubai-Dubai-United-Arab-Emirates/Sales-Graduate_1216744",
-   "places": [
-    {
-     "emirate": "Dubai",
-     "raw": "Dubai, Dubai, United Arab Emirates"
-    }
-   ],
-   "elsewhere": 0,
-   "kind": "graduate",
-   "kind_reason": "title says \"Graduate\"",
-   "fields": [
-    "Sales and business development"
-   ],
-   "skills": [
-    "Sales",
-    "Marketing",
-    "Social media and content",
-    "Project management",
-    "Presentations"
-   ],
-   "facts": {
-    "mode": {
-     "value": "hybrid",
-     "label": "Hybrid",
-     "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
-     "source": "text",
-     "mark": "Hybrid"
-    },
-    "stage": {
-     "value": "graduate",
-     "label": "Recent graduates (Bachelor's, Master's)",
-     "evidence": "Completed Bachelor’s/Master’s degree within the last 12 months with a focus in business, management, economics, or related",
-     "source": "text",
-     "mark": "Completed Bachelor’s/Master’s degree within the last"
-    }
-   },
-   "department": null,
-   "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
-   "posted_at": "2026-10-15T00:00:00+00:00",
-   "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-23T08:56:56+00:00",
-   "changed_at": null,
-   "status": "open",
-   "closed_at": null
-  },
-  {
-   "id": "greenhouse:binance:5002283101",
-   "slug": "binance-binance-accelerator-program-vip-sales-16171b",
+   "id": "greenhouse:binance:5002319101",
+   "slug": "binance-binance-accelerator-program-events-03c1eb",
    "employer": "Binance",
    "board": "greenhouse:binance",
    "system": "greenhouse",
-   "title": "Binance Accelerator Program - VIP Sales",
-   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002283101",
+   "title": "Binance Accelerator Program - Events",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002319101",
    "places": [
     {
      "emirate": "UAE",
      "raw": "United Arab Emirates"
     }
    ],
-   "elsewhere": 4,
+   "elsewhere": 3,
    "kind": "internship",
    "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
    "fields": [
-    "Sales and business development"
+    "Other"
    ],
    "skills": [
-    "Data analysis",
     "Trading and markets",
     "Crypto and blockchain",
     "Sales",
-    "CRM",
-    "Marketing"
+    "Marketing",
+    "Social media and content",
+    "Operations and logistics"
    ],
    "facts": {
-    "duration": {
-     "value": "3-6-month",
-     "label": "3 to 6 months",
-     "evidence": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space.",
-     "source": "text",
-     "mark": "3-6 month"
-    },
-    "mode": {
-     "value": "remote",
-     "label": "Remote",
-     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
-     "source": "text",
-     "mark": "Remote-first"
-    },
     "pay": {
      "value": "paid",
      "label": "Paid, amount not stated",
@@ -2167,19 +2073,33 @@
      "source": "text",
      "mark": "Competitive salary"
     },
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space.",
+     "source": "text",
+     "mark": "3-6 month"
+    },
     "stage": {
      "value": "enrolled",
      "label": "Current students",
      "evidence": "Current university students and recent graduates.",
      "source": "text",
      "mark": "university students"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
     }
    },
    "department": null,
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
-   "posted_at": "2026-10-14T06:25:14-04:00",
-   "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "posted_at": "2026-10-14T05:54:32-04:00",
+   "first_seen": "2026-11-26T15:02:13+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2245,7 +2165,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-10-14T05:29:43-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": "2026-11-18T21:51:22+00:00",
    "status": "open",
    "closed_at": null
@@ -2298,7 +2218,7 @@
    "excerpt": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team) If you would like more information about how your data is processed, please contact us.",
    "posted_at": "2026-10-14T02:41:18-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2362,7 +2282,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-10-14T00:45:55-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": "2026-11-12T10:56:18+00:00",
    "status": "open",
    "closed_at": null
@@ -2434,7 +2354,7 @@
    "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
    "posted_at": "2026-10-13T05:51:35-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2484,7 +2404,7 @@
    "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
    "posted_at": "2026-10-13T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-23T08:56:56+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2549,7 +2469,7 @@
    "excerpt": "Amazon data centers are large-scale, high-density facilities where you will help change the face of cloud technology in the region — and your work will directly impact millions of customers.",
    "posted_at": "2026-10-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2618,7 +2538,7 @@
    "excerpt": "As an Engineering Operations Technician Intern at Amazon Web Services (AWS), you will get hands-on experience with the critical infrastructure behind Amazon's global data centers — and your work will directly impact millions of customers worldwide.",
    "posted_at": "2026-10-09T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2672,7 +2592,7 @@
    "excerpt": "Cohorts: June (yearly) | Function: Multiple, apply once and tell us where you want to build Whether you're a recent graduate or early in your career with up to two years of experience, this is where you'll do real meaningful work, alongside some of the most ambitious people in the region.",
    "posted_at": "2026-10-05T10:12:06-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2726,7 +2646,7 @@
    "excerpt": "Cohorts: January & June (Yearly) | Function: Multiple, apply once and tell us where you want to build The Internship Program is built for students who don't want to sit on the sidelines.",
    "posted_at": "2026-10-04T23:20:00-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2775,7 +2695,7 @@
    "excerpt": "Engineering & Business Development | Students & Recent Graduates | UAE Ready to launch your career into something bigger?",
    "posted_at": "2026-09-28T12:55:36.198000+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2913,7 +2833,7 @@
    "excerpt": "Are you willing to dive deep to develop those solutions and deliver results? As a Program Manager Intern you will join one of our operations, retail, or seller services teams.",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -2975,7 +2895,7 @@
    "excerpt": "The Amazon University Talent Acquisition Team is looking for ambitious students to join us as Operations Intern, working in one of our core businesses, Amazon Operations. Our internships are educational opportunities intended to allow you, our future managers, to discover how we lead and develop our…",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3037,7 +2957,7 @@
    "excerpt": "The Facilities Coordinator Intern will be responsible for the leadership/development and coaching of the team. This role also leads the technical team in providing both a reactive and pro-active maintenance service on all operational equipment and facilities infrastructure within the Fulfilment…",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3088,7 +3008,7 @@
    "excerpt": "As an Early Career Talent (ECT) Cloud Sales Representative at AWS, you will further develop, and be responsible for, customer acquisition, growth, and support and contribute to the strategic priorities for the region.",
    "posted_at": "2026-09-23T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3126,7 +3046,7 @@
    "excerpt": "You should be confident across editing, animation, design, storytelling, and AI-assisted creative workflows , while continuing to develop through collaboration, feedback, and creative direction from the team.",
    "posted_at": "2026-09-11T11:21:48-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3179,7 +3099,7 @@
    "excerpt": "As part of our team, you’ll have the opportunity to work on the core of cutting-edge foundation model training, alongside world-class researchers, data scientists, and engineers, tackling the most fundamental and impactful challenges in AI development.",
    "posted_at": "2026-09-09T06:32:55.734000+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3239,7 +3159,7 @@
    "excerpt": "AWS have an exciting Electrical & Mechanical Engineering Operations Traineeship opportunity in Dubai available for a UAE national with family book. Amazon Web Services (AWS) is growing rapidly, and we are looking for Engineering Operations Technician Trainees to join our expanding Data Center team…",
    "posted_at": "2026-09-04T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3285,7 +3205,7 @@
    "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
    "posted_at": "2026-08-17T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3331,7 +3251,7 @@
    "excerpt": "We are looking for a driven and client-focused Junior Account Executive to support the growth and servicing of key eCommerce and cross-border logistics accounts.",
    "posted_at": "2026-05-22T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3391,7 +3311,7 @@
    "excerpt": "If this sounds like you: curious, driven, and ready to build, we’d love to meet you Our Flagship Builders Program is designed for ambitious graduates ready to step into real responsibility from day one.",
    "posted_at": "2026-04-27T05:39:41-04:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3505,7 +3425,7 @@
    "excerpt": "Are you a self-starter with a passion for e-commerce, looking to expand your retail skillset and shaping the way the biggest brands work with Amazon? As Brand Specialist, you will be part of the Amazon Vendor Services (AVS) team, which provides a suite of services designed to help Amazon's most…",
    "posted_at": "2026-03-06T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
@@ -3555,10 +3475,102 @@
    "excerpt": "Are you an Emirati student looking for an exciting opportunity to kickstart your career in the gaming industry? Tamatem Games is thrilled to offer a internship program or entry-level full-time roles , exclusively for talented Emirati students and fresh graduates who are passionate about the mobile…",
    "posted_at": "2025-10-15T00:00:00+00:00",
    "first_seen": "2026-11-11T04:40:34+00:00",
-   "last_seen": "2026-11-26T04:57:08+00:00",
+   "last_seen": "2026-11-26T15:02:13+00:00",
    "changed_at": null,
    "status": "open",
    "closed_at": null
+  },
+  {
+   "id": "workable:bayutdubizzle:41834EC4F1",
+   "slug": "bayut-dubizzle-associate-data-engineer-21c383",
+   "employer": "Bayut & dubizzle",
+   "board": "workable:bayutdubizzle",
+   "system": "workable",
+   "title": "Associate Data Engineer",
+   "url": "https://apply.workable.com/j/41834EC4F1",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "first_job",
+   "kind_reason": "asks for \"1+ years of experience\"",
+   "fields": [
+    "Data and analytics"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Linux",
+    "Cloud (AWS, Azure, GCP)",
+    "APIs",
+    "Data analysis",
+    "Data engineering",
+    "Dashboards and reporting",
+    "Marketing",
+    "UX research and design",
+    "Agile"
+   ],
+   "facts": {},
+   "department": null,
+   "excerpt": "As an Associate Data Engineer, you will be participating in exciting projects covering the end-to-end data lifecycle – from raw data integrations with primary and third-party systems, through advanced data modelling, to state-of-the-art data visualisation and development of innovative data products.",
+   "posted_at": "2026-11-13T00:00:00+00:00",
+   "first_seen": "2026-11-13T16:12:26+00:00",
+   "last_seen": "2026-11-26T04:57:08+00:00",
+   "changed_at": null,
+   "status": "closed",
+   "closed_at": "2026-11-26T15:02:13+00:00"
+  },
+  {
+   "id": "workable:bayutdubizzle:591EAD46DE",
+   "slug": "bayut-dubizzle-data-engineer-intern-7f577d",
+   "employer": "Bayut & dubizzle",
+   "board": "workable:bayutdubizzle",
+   "system": "workable",
+   "title": "Data Engineer - Intern",
+   "url": "https://apply.workable.com/j/591EAD46DE",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "internship",
+   "kind_reason": "title says \"Intern\"",
+   "fields": [
+    "Data and analytics"
+   ],
+   "skills": [
+    "Python",
+    "SQL",
+    "Linux",
+    "Data analysis",
+    "Data engineering",
+    "Dashboards and reporting",
+    "Marketing",
+    "UX research and design",
+    "Agile"
+   ],
+   "facts": {
+    "stage": {
+     "value": "degree",
+     "label": "Bachelor's degree",
+     "evidence": "Bachelor’s degree in computer science, engineering, math, physics or any related quantitative field.",
+     "source": "text",
+     "mark": "Bachelor’s"
+    }
+   },
+   "department": null,
+   "excerpt": "As a Data Engineer Intern, you will be participating in exciting projects covering the end-to-end data lifecycle – from raw data integrations with primary and third-party systems, through advanced data modelling, to state-of-the-art data visualisation and development of innovative data products.",
+   "posted_at": "2026-11-13T00:00:00+00:00",
+   "first_seen": "2026-11-13T16:12:26+00:00",
+   "last_seen": "2026-11-26T04:57:08+00:00",
+   "changed_at": null,
+   "status": "closed",
+   "closed_at": "2026-11-26T15:02:13+00:00"
   },
   {
    "id": "workday:medtronic:MedtronicCareers:R81397",
@@ -3700,6 +3712,69 @@
    "changed_at": null,
    "status": "closed",
    "closed_at": "2026-11-19T12:53:49+00:00"
+  },
+  {
+   "id": "greenhouse:binance:5024608101",
+   "slug": "binance-binance-accelerator-program-compliance-training-ai-53996f",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - Compliance Training (AI)",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024608101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 6,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "AI and machine learning",
+    "Legal and compliance"
+   ],
+   "skills": [
+    "LLMs and NLP",
+    "Compliance and AML",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Social media and content",
+    "Animation and video",
+    "Customer service",
+    "Presentations"
+   ],
+   "facts": {
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Current undergraduate, postgraduate students, or fresh graduates.",
+     "source": "text",
+     "mark": "fresh graduates"
+    }
+   },
+   "department": null,
+   "excerpt": "We are looking for a Compliance Training AI BAP to support the development and delivery of engaging, technology-enabled compliance learning initiatives across the organization. This role offers hands-on exposure to instructional design, training operations, learning analytics and AI-driven learning…",
+   "posted_at": "2026-11-10T01:22:59-05:00",
+   "first_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-26T04:57:08+00:00",
+   "changed_at": null,
+   "status": "closed",
+   "closed_at": "2026-11-26T15:02:13+00:00"
   },
   {
    "id": "workday:rollsroyce:Intern_Graduate:JR6160847",
@@ -3951,6 +4026,125 @@
    "closed_at": "2026-11-24T17:32:53+00:00"
   },
   {
+   "id": "workday:hpe:Jobsathpe:1216744",
+   "slug": "hewlett-packard-enterprise-sales-graduate-7c28e8",
+   "employer": "Hewlett Packard Enterprise",
+   "board": "workday:hpe:Jobsathpe",
+   "system": "workday",
+   "title": "Sales Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Dubai-Dubai-United-Arab-Emirates/Sales-Graduate_1216744",
+   "places": [
+    {
+     "emirate": "Dubai",
+     "raw": "Dubai, Dubai, United Arab Emirates"
+    }
+   ],
+   "elsewhere": 0,
+   "kind": "graduate",
+   "kind_reason": "title says \"Graduate\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Sales",
+    "Marketing",
+    "Social media and content",
+    "Project management",
+    "Presentations"
+   ],
+   "facts": {
+    "mode": {
+     "value": "hybrid",
+     "label": "Hybrid",
+     "evidence": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office.",
+     "source": "text",
+     "mark": "Hybrid"
+    },
+    "stage": {
+     "value": "graduate",
+     "label": "Recent graduates (Bachelor's, Master's)",
+     "evidence": "Completed Bachelor’s/Master’s degree within the last 12 months with a focus in business, management, economics, or related",
+     "source": "text",
+     "mark": "Completed Bachelor’s/Master’s degree within the last"
+    }
+   },
+   "department": null,
+   "excerpt": "This role has been designed as 'Hybrid' with a requirement that you will work on average 2 days per week from an HPE office. If you are looking to stretch and grow your career our culture will embrace you.",
+   "posted_at": "2026-10-15T00:00:00+00:00",
+   "first_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-23T08:56:56+00:00",
+   "changed_at": null,
+   "status": "closed",
+   "closed_at": "2026-11-26T15:02:13+00:00"
+  },
+  {
+   "id": "greenhouse:binance:5002283101",
+   "slug": "binance-binance-accelerator-program-vip-sales-16171b",
+   "employer": "Binance",
+   "board": "greenhouse:binance",
+   "system": "greenhouse",
+   "title": "Binance Accelerator Program - VIP Sales",
+   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002283101",
+   "places": [
+    {
+     "emirate": "UAE",
+     "raw": "United Arab Emirates"
+    }
+   ],
+   "elsewhere": 4,
+   "kind": "internship",
+   "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
+   "fields": [
+    "Sales and business development"
+   ],
+   "skills": [
+    "Data analysis",
+    "Trading and markets",
+    "Crypto and blockchain",
+    "Sales",
+    "CRM",
+    "Marketing"
+   ],
+   "facts": {
+    "duration": {
+     "value": "3-6-month",
+     "label": "3 to 6 months",
+     "evidence": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space.",
+     "source": "text",
+     "mark": "3-6 month"
+    },
+    "mode": {
+     "value": "remote",
+     "label": "Remote",
+     "evidence": "Remote-first, work-from-home arrangement (may vary depending on the nature of the role and team)",
+     "source": "text",
+     "mark": "Remote-first"
+    },
+    "pay": {
+     "value": "paid",
+     "label": "Paid, amount not stated",
+     "evidence": "Competitive salary and company benefits",
+     "source": "text",
+     "mark": "Competitive salary"
+    },
+    "stage": {
+     "value": "enrolled",
+     "label": "Current students",
+     "evidence": "Current university students and recent graduates.",
+     "source": "text",
+     "mark": "university students"
+    }
+   },
+   "department": null,
+   "excerpt": "Binance Accelerator Program (BAP) is a 3-6 month internship program designed for Early Career talent to have firsthand experience in the rapidly expanding digital assets space. You will be given the opportunity to develop your skills at Binance and understand what it’s like to work at the world's…",
+   "posted_at": "2026-10-14T06:25:14-04:00",
+   "first_seen": "2026-11-11T04:40:34+00:00",
+   "last_seen": "2026-11-26T04:57:08+00:00",
+   "changed_at": null,
+   "status": "closed",
+   "closed_at": "2026-11-26T15:02:13+00:00"
+  },
+  {
    "id": "workday:gsk:GSKCareers:447276",
    "slug": "gsk-intern-finance-associate-uae-national-a99dc9",
    "employer": "GSK",
@@ -4120,12 +4314,12 @@
    "system": "amazon",
    "home": "https://www.amazon.jobs/en/locations/dubai-uae",
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 79,
-   "uae": 79,
-   "student": 11
+   "postings": 78,
+   "uae": 78,
+   "student": 13
   },
   {
    "key": "greenhouse:binance",
@@ -4133,12 +4327,12 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 229,
+   "postings": 223,
    "uae": 52,
-   "student": 11
+   "student": 10
   },
   {
    "key": "workday:mastercard:Campus",
@@ -4146,7 +4340,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T00:47:36+00:00",
    "error": "HTTP 429",
    "postings": 6,
@@ -4154,30 +4348,30 @@
    "student": 6
   },
   {
-   "key": "workable:bayutdubizzle",
-   "name": "Bayut & dubizzle",
-   "system": "workable",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
-   "postings": 31,
-   "uae": 24,
-   "student": 4
-  },
-  {
    "key": "greenhouse:tamara",
    "name": "Tamara",
    "system": "greenhouse",
    "home": "https://job-boards.greenhouse.io/tamara",
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 37,
    "uae": 10,
    "student": 4
+  },
+  {
+   "key": "workable:bayutdubizzle",
+   "name": "Bayut & dubizzle",
+   "system": "workable",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
+   "postings": 30,
+   "uae": 22,
+   "student": 2
   },
   {
    "key": "workday:jll:jllcareers",
@@ -4185,24 +4379,11 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T00:47:36+00:00",
    "error": "HTTP 429",
    "postings": 15,
    "uae": 15,
-   "student": 2
-  },
-  {
-   "key": "workday:hpe:Jobsathpe",
-   "name": "Hewlett Packard Enterprise",
-   "system": "workday",
-   "home": null,
-   "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-23T08:56:56+00:00",
-   "error": "HTTP 429",
-   "postings": 5,
-   "uae": 5,
    "student": 2
   },
   {
@@ -4211,7 +4392,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T00:47:36+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4223,10 +4404,10 @@
    "name": "MSD",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 3,
    "uae": 3,
    "student": 2
@@ -4237,10 +4418,10 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 8,
+   "postings": 9,
    "uae": 2,
    "student": 2
   },
@@ -4250,10 +4431,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 164,
+   "postings": 166,
    "uae": 59,
    "student": 1
   },
@@ -4262,10 +4443,10 @@
    "name": "Salesforce",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 18,
    "uae": 18,
    "student": 1
@@ -4276,10 +4457,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 193,
+   "postings": 190,
    "uae": 16,
    "student": 1
   },
@@ -4289,11 +4470,11 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 89,
-   "uae": 15,
+   "uae": 16,
    "student": 1
   },
   {
@@ -4302,8 +4483,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 45,
    "uae": 12,
@@ -4315,7 +4496,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T00:47:36+00:00",
    "error": "HTTP 429",
    "postings": 9,
@@ -4323,14 +4504,27 @@
    "student": 1
   },
   {
+   "key": "workday:hpe:Jobsathpe",
+   "name": "Hewlett Packard Enterprise",
+   "system": "workday",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
+   "postings": 6,
+   "uae": 6,
+   "student": 1
+  },
+  {
    "key": "workday:pg:1000",
    "name": "Procter & Gamble",
    "system": "workday",
    "home": null,
-   "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-23T00:47:36+00:00",
-   "error": "HTTP 429",
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
    "postings": 6,
    "uae": 6,
    "student": 1
@@ -4341,8 +4535,8 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 13,
    "uae": 5,
@@ -4354,7 +4548,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-16T01:55:34+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4366,10 +4560,10 @@
    "name": "AIG",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 3,
    "uae": 3,
    "student": 1
@@ -4380,7 +4574,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4392,10 +4586,10 @@
    "name": "Medtronic",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 3,
    "uae": 3,
    "student": 1
@@ -4406,7 +4600,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-24T05:57:17+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4419,7 +4613,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T02:19:45+00:00",
    "error": "HTTP 429",
    "postings": 1,
@@ -4432,7 +4626,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T21:14:51+00:00",
    "error": "HTTP 429",
    "postings": 1,
@@ -4445,7 +4639,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-16T01:55:34+00:00",
    "error": "HTTP 429",
    "postings": 123,
@@ -4458,8 +4652,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 49,
    "uae": 49,
@@ -4470,12 +4664,12 @@
    "name": "Visa",
    "system": "workday",
    "home": null,
-   "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-22T11:12:54+00:00",
-   "error": "HTTP 429",
-   "postings": 12,
-   "uae": 12,
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
+   "postings": 11,
+   "uae": 11,
    "student": 0
   },
   {
@@ -4484,8 +4678,8 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 10,
    "uae": 10,
@@ -4497,7 +4691,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 9,
@@ -4510,24 +4704,11 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-24T17:32:53+00:00",
    "error": "HTTP 429",
    "postings": 8,
    "uae": 8,
-   "student": 0
-  },
-  {
-   "key": "greenhouse:careem",
-   "name": "Careem",
-   "system": "greenhouse",
-   "home": "https://www.careem.com/en-AE/careers/",
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
-   "postings": 11,
-   "uae": 6,
    "student": 0
   },
   {
@@ -4536,10 +4717,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 122,
+   "postings": 123,
    "uae": 6,
    "student": 0
   },
@@ -4549,7 +4730,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-16T01:55:34+00:00",
    "error": "HTTP 429",
    "postings": 6,
@@ -4562,11 +4743,24 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T22:26:42+00:00",
    "error": "HTTP 429",
    "postings": 6,
    "uae": 6,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:careem",
+   "name": "Careem",
+   "system": "greenhouse",
+   "home": "https://www.careem.com/en-AE/careers/",
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
+   "postings": 9,
+   "uae": 5,
    "student": 0
   },
   {
@@ -4575,8 +4769,8 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 7,
    "uae": 4,
@@ -4588,10 +4782,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 260,
+   "postings": 259,
    "uae": 3,
    "student": 0
   },
@@ -4601,7 +4795,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-22T11:12:54+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4614,7 +4808,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4627,10 +4821,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 117,
+   "postings": 111,
    "uae": 3,
    "student": 0
   },
@@ -4640,7 +4834,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T22:26:42+00:00",
    "error": "HTTP 429",
    "postings": 3,
@@ -4653,10 +4847,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 423,
+   "postings": 421,
    "uae": 3,
    "student": 0
   },
@@ -4666,8 +4860,8 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 876,
    "uae": 3,
@@ -4679,10 +4873,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 506,
+   "postings": 509,
    "uae": 2,
    "student": 0
   },
@@ -4692,7 +4886,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T02:19:45+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4704,10 +4898,10 @@
    "name": "Broadcom",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 2,
    "uae": 2,
    "student": 0
@@ -4717,10 +4911,10 @@
    "name": "Carrier",
    "system": "workday",
    "home": null,
-   "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-23T08:56:56+00:00",
-   "error": "HTTP 429",
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
    "postings": 2,
    "uae": 2,
    "student": 0
@@ -4731,7 +4925,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-22T11:12:54+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4744,8 +4938,8 @@
    "system": "workable",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 30,
    "uae": 2,
@@ -4757,10 +4951,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 243,
+   "postings": 242,
    "uae": 2,
    "student": 0
   },
@@ -4769,10 +4963,10 @@
    "name": "Morgan Stanley",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 2,
    "uae": 2,
    "student": 0
@@ -4783,7 +4977,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4796,23 +4990,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 388,
-   "uae": 2,
-   "student": 0
-  },
-  {
-   "key": "greenhouse:purestorage",
-   "name": "Pure Storage",
-   "system": "greenhouse",
-   "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
-   "postings": 393,
    "uae": 2,
    "student": 0
   },
@@ -4822,7 +5003,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-16T01:55:34+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4835,7 +5016,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4848,8 +5029,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 158,
    "uae": 2,
@@ -4861,7 +5042,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T21:14:51+00:00",
    "error": "HTTP 429",
    "postings": 2,
@@ -4874,8 +5055,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 12,
    "uae": 1,
@@ -4887,7 +5068,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-23T08:56:56+00:00",
    "error": "HTTP 429",
    "postings": 1,
@@ -4900,10 +5081,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 353,
+   "postings": 350,
    "uae": 1,
    "student": 0
   },
@@ -4913,8 +5094,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 25,
    "uae": 1,
@@ -4926,10 +5107,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 879,
+   "postings": 880,
    "uae": 1,
    "student": 0
   },
@@ -4939,8 +5120,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 37,
    "uae": 1,
@@ -4951,10 +5132,10 @@
    "name": "Motorola Solutions",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 1,
    "uae": 1,
    "student": 0
@@ -4965,10 +5146,23 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 305,
+   "uae": 1,
+   "student": 0
+  },
+  {
+   "key": "greenhouse:purestorage",
+   "name": "Pure Storage",
+   "system": "greenhouse",
+   "home": null,
+   "ok": true,
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
+   "error": null,
+   "postings": 394,
    "uae": 1,
    "student": 0
   },
@@ -4978,7 +5172,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-24T17:32:53+00:00",
    "error": "HTTP 429",
    "postings": 1,
@@ -4990,10 +5184,10 @@
    "name": "Salesforce",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 1,
    "uae": 1,
    "student": 0
@@ -5004,10 +5198,10 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 96,
+   "postings": 97,
    "uae": 1,
    "student": 0
   },
@@ -5017,7 +5211,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-20T11:26:03+00:00",
    "error": "HTTP 429",
    "postings": 1,
@@ -5029,10 +5223,10 @@
    "name": "Thomson Reuters",
    "system": "workday",
    "home": null,
-   "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "ok": false,
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-26T04:57:08+00:00",
-   "error": null,
+   "error": "HTTP 429",
    "postings": 1,
    "uae": 1,
    "student": 0
@@ -5043,8 +5237,8 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 35,
    "uae": 1,
@@ -5056,10 +5250,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 107,
+   "postings": 108,
    "uae": 1,
    "student": 0
   },
@@ -5069,10 +5263,10 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 92,
+   "postings": 93,
    "uae": 0,
    "student": 0
   },
@@ -5082,10 +5276,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 392,
+   "postings": 379,
    "uae": 0,
    "student": 0
   },
@@ -5095,10 +5289,10 @@
    "system": "ashby",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 203,
+   "postings": 197,
    "uae": 0,
    "student": 0
   },
@@ -5108,10 +5302,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 63,
+   "postings": 64,
    "uae": 0,
    "student": 0
   },
@@ -5121,7 +5315,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-22T19:29:03+00:00",
    "error": "HTTP 429",
    "postings": 0,
@@ -5134,10 +5328,10 @@
    "system": "greenhouse",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
-   "postings": 109,
+   "postings": 107,
    "uae": 0,
    "student": 0
   },
@@ -5147,7 +5341,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-25T12:41:33+00:00",
    "error": "HTTP 429",
    "postings": 0,
@@ -5160,8 +5354,8 @@
    "system": "lever",
    "home": null,
    "ok": true,
-   "checked_at": "2026-11-26T04:58:20+00:00",
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
+   "last_ok": "2026-11-26T15:02:13+00:00",
    "error": null,
    "postings": 0,
    "uae": 0,
@@ -5173,7 +5367,7 @@
    "system": "workday",
    "home": null,
    "ok": false,
-   "checked_at": "2026-11-26T04:58:20+00:00",
+   "checked_at": "2026-11-26T15:03:24+00:00",
    "last_ok": "2026-11-24T05:57:17+00:00",
    "error": "HTTP 429",
    "postings": 0,

@@ -95,3 +95,12 @@
 {"at": "2026-11-23T21:14:51+00:00", "kind": "new", "id": "workday:rollsroyce:Intern_Graduate:JR6160656", "employer": "Rolls-Royce", "title": "Launch into Account Management (Trainee Account Officer)", "detail": "internship"}
 {"at": "2026-11-24T17:32:53+00:00", "kind": "new", "id": "amazon:amazon:10612531", "employer": "Amazon", "title": "Data Center Infra Engineer - 2027 Internship", "detail": "internship"}
 {"at": "2026-11-24T17:32:53+00:00", "kind": "closed", "id": "workday:gsk:GSKCareers:449626", "employer": "GSK", "title": "Government Operations Associate", "detail": ""}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "new", "id": "amazon:amazon:10615308", "employer": "Amazon", "title": "2027 WHS Intern", "detail": "internship"}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "new", "id": "amazon:amazon:10615306", "employer": "Amazon", "title": "2027 Financial Analyst Intern", "detail": "internship"}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "closed", "id": "workable:bayutdubizzle:41834EC4F1", "employer": "Bayut & dubizzle", "title": "Associate Data Engineer", "detail": ""}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "closed", "id": "workable:bayutdubizzle:591EAD46DE", "employer": "Bayut & dubizzle", "title": "Data Engineer - Intern", "detail": ""}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "new", "id": "greenhouse:binance:5002319101", "employer": "Binance", "title": "Binance Accelerator Program - Events", "detail": "internship"}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "changed", "id": "greenhouse:binance:5005249101", "employer": "Binance", "title": "OTC Sales Trader", "detail": "title, fields"}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "closed", "id": "greenhouse:binance:5002283101", "employer": "Binance", "title": "Binance Accelerator Program - VIP Sales", "detail": ""}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "closed", "id": "greenhouse:binance:5024608101", "employer": "Binance", "title": "Binance Accelerator Program - Compliance Training (AI)", "detail": ""}
+{"at": "2026-11-26T15:02:13+00:00", "kind": "closed", "id": "workday:hpe:Jobsathpe:1216744", "employer": "Hewlett Packard Enterprise", "title": "Sales Graduate", "detail": ""}
