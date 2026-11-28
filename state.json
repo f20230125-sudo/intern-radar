@@ -2,241 +2,241 @@
  "boards": {
   "amazon:amazon": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 82,
    "uae": 82
   },
   "ashby:airwallex": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 502,
    "uae": 2
   },
   "ashby:cohere": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
-   "postings": 122,
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 121,
    "uae": 6
   },
   "ashby:elevenlabs": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
-   "postings": 109,
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 108,
    "uae": 3
   },
   "ashby:iceye": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 194,
    "uae": 0
   },
   "ashby:leantech": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 7,
    "uae": 4
   },
   "ashby:openai": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 876,
    "uae": 3
   },
   "ashby:uipath": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 107,
    "uae": 1
   },
   "ashby:ziina": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 10,
    "uae": 10
   },
   "greenhouse:binance": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 223,
    "uae": 52
   },
   "greenhouse:braze": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 357,
    "uae": 1
   },
   "greenhouse:bybit": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 165,
    "uae": 59
   },
   "greenhouse:careem": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 9,
    "uae": 5
   },
   "greenhouse:celonis": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 256,
    "uae": 3
   },
   "greenhouse:databricks": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 889,
    "uae": 1
   },
   "greenhouse:deliveroo": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 197,
    "uae": 15
   },
   "greenhouse:elastic": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 369,
    "uae": 0
   },
   "greenhouse:fireblocks": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 37,
    "uae": 1
   },
   "greenhouse:gitlab": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
-   "postings": 243,
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 244,
    "uae": 2
   },
   "greenhouse:inmobi": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 63,
    "uae": 0
   },
   "greenhouse:mongodb": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 424,
    "uae": 3
   },
   "greenhouse:okx": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
-   "postings": 387,
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 386,
    "uae": 2
   },
   "greenhouse:purestorage": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 401,
    "uae": 1
   },
   "greenhouse:ripple": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 106,
    "uae": 0
   },
   "greenhouse:scaleai": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 158,
    "uae": 2
   },
   "greenhouse:tamara": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 37,
    "uae": 10
   },
   "greenhouse:thunes": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 36,
    "uae": 1
   },
   "lever:aldar": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 49,
    "uae": 49
   },
   "lever:animocabrands": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 12,
    "uae": 1
   },
   "lever:contentsquare": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 26,
    "uae": 1
   },
   "lever:crypto": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 94,
    "uae": 1
   },
   "lever:ifm-us": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 45,
    "uae": 12
   },
   "lever:loftorbital": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 84,
    "uae": 16
   },
   "lever:palantir": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 305,
    "uae": 1
   },
   "lever:shieldai": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 0,
    "uae": 0
   },
   "lever:spotify": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 98,
    "uae": 1
   },
   "workable:bayutdubizzle": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 31,
    "uae": 23
   },
   "workable:foodics": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 30,
    "uae": 2
   },
   "workable:shipa": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 13,
    "uae": 5
   },
   "workable:tamatem": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 9,
    "uae": 2
   },
@@ -314,9 +314,9 @@
   },
   "workday:gevernova:Vernova_ExternalSite": {
    "empty_runs": 0,
-   "last_ok": "2026-11-24T17:32:53+00:00",
-   "postings": 8,
-   "uae": 8
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 7,
+   "uae": 7
   },
   "workday:gsk:GSKCareers": {
    "empty_runs": 0,
@@ -332,9 +332,9 @@
   },
   "workday:jll:jllcareers": {
    "empty_runs": 0,
-   "last_ok": "2026-11-23T00:47:36+00:00",
-   "postings": 15,
-   "uae": 15
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 6,
+   "uae": 6
   },
   "workday:kbr:KBR_Careers": {
    "empty_runs": 0,
@@ -350,13 +350,13 @@
   },
   "workday:mastercard:Campus": {
    "empty_runs": 0,
-   "last_ok": "2026-11-23T00:47:36+00:00",
-   "postings": 6,
-   "uae": 6
+   "last_ok": "2026-11-28T01:54:43+00:00",
+   "postings": 5,
+   "uae": 5
   },
   "workday:mastercard:CorporateCareers": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T08:13:06+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 8,
    "uae": 8
   },
@@ -380,7 +380,7 @@
   },
   "workday:msd:SearchJobs": {
    "empty_runs": 0,
-   "last_ok": "2026-11-26T04:57:08+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 3,
    "uae": 3
   },
@@ -404,7 +404,7 @@
   },
   "workday:pg:1000": {
    "empty_runs": 0,
-   "last_ok": "2026-11-26T15:02:13+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 6,
    "uae": 6
   },
@@ -440,7 +440,7 @@
   },
   "workday:salesforce:External_Career_Site": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T18:52:38+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 15,
    "uae": 15
   },
@@ -464,13 +464,13 @@
   },
   "workday:spgi:SPGI_Careers": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T08:13:06+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 2,
    "uae": 2
   },
   "workday:statestreet:Global": {
    "empty_runs": 0,
-   "last_ok": "2026-11-20T11:26:03+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 1,
    "uae": 1
   },
@@ -488,7 +488,7 @@
   },
   "workday:visa:Visa": {
    "empty_runs": 0,
-   "last_ok": "2026-11-27T08:13:06+00:00",
+   "last_ok": "2026-11-28T01:54:43+00:00",
    "postings": 13,
    "uae": 13
   }
@@ -595,7 +595,7 @@
     "id": "amazon:amazon:10529676",
     "kind": "internship",
     "kind_reason": "title says \"trainee\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -710,7 +710,7 @@
     "id": "amazon:amazon:10557554",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -776,7 +776,7 @@
     "id": "amazon:amazon:10557562",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -842,7 +842,7 @@
     "id": "amazon:amazon:10557566",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -895,7 +895,7 @@
     "id": "amazon:amazon:10557648",
     "kind": "graduate",
     "kind_reason": "title says \"Early Talent\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -968,7 +968,7 @@
     "id": "amazon:amazon:10574530",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1038,7 +1038,7 @@
     "id": "amazon:amazon:10574531",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1178,7 +1178,7 @@
     "id": "amazon:amazon:10586108",
     "kind": "graduate",
     "kind_reason": "title says \"Graduate\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -1258,7 +1258,7 @@
     "id": "amazon:amazon:10589911",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1492,7 +1492,7 @@
     "id": "amazon:amazon:10612531",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1573,7 +1573,7 @@
     "id": "amazon:amazon:10615306",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1640,7 +1640,7 @@
     "id": "amazon:amazon:10615308",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1728,7 +1728,7 @@
     "id": "amazon:amazon:3198140",
     "kind": "first_job",
     "kind_reason": "says \"final year of study\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -1951,7 +1951,7 @@
     "id": "greenhouse:binance:5002254101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2094,7 +2094,7 @@
     "id": "greenhouse:binance:5002315101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2165,7 +2165,7 @@
     "id": "greenhouse:binance:5002319101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2281,7 +2281,7 @@
     "id": "greenhouse:binance:5002599101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2356,7 +2356,7 @@
     "id": "greenhouse:binance:5002743101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2433,7 +2433,7 @@
     "id": "greenhouse:binance:5005249101",
     "kind": "first_job",
     "kind_reason": "asks for \"up to 3 years of experience\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2564,7 +2564,7 @@
     "id": "greenhouse:binance:5010677101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2657,7 +2657,7 @@
     "id": "greenhouse:binance:5012687101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2764,7 +2764,7 @@
     "id": "greenhouse:binance:5020282101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -2907,7 +2907,7 @@
     "id": "greenhouse:binance:5025885101",
     "kind": "internship",
     "kind_reason": "the employer files it as \"Intern (Fixed Term)\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "UAE",
@@ -3097,7 +3097,7 @@
     "id": "greenhouse:bybit:4974752101",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -3434,7 +3434,7 @@
     "id": "greenhouse:deliveroo:8353630",
     "kind": "first_job",
     "kind_reason": "asks for \"1–3 years of experience\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -3630,7 +3630,7 @@
     "id": "greenhouse:tamara:4849506101",
     "kind": "first_job",
     "kind_reason": "asks for \"up to two years of experience\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -3764,7 +3764,7 @@
     "id": "greenhouse:tamara:4996993101",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -3822,7 +3822,7 @@
     "id": "greenhouse:tamara:4997585101",
     "kind": "first_job",
     "kind_reason": "asks for \"up to two years of experience\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -3888,7 +3888,7 @@
     "id": "greenhouse:tamara:5042560101",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -4209,7 +4209,7 @@
     "id": "lever:ifm-us:08930bb0-7ea7-4ace-a453-2e4cff4a11dc",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -4365,7 +4365,7 @@
     "id": "lever:loftorbital:8a38ed2d-48af-4b25-8b57-a75def3f3b70",
     "kind": "graduate",
     "kind_reason": "title says \"Early Careers\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -4478,7 +4478,7 @@
     "id": "workable:bayutdubizzle:222E77A4D9",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -4658,7 +4658,7 @@
     "id": "workable:bayutdubizzle:7FDAFEBBEE",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -4779,7 +4779,7 @@
     "id": "workable:shipa:1D9FF7FE6C",
     "kind": "first_job",
     "kind_reason": "asks for \"1–3 years of experience\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -4856,7 +4856,7 @@
     "id": "workable:tamatem:01D1B7B5AA",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -4910,7 +4910,7 @@
     "id": "workable:tamatem:7C1FAA228B",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Abu Dhabi",
@@ -5376,11 +5376,6 @@
    "role": null,
    "rules": 5
   },
-  "workday:gevernova:Vernova_ExternalSite:R5051707": {
-   "fingerprint": "49618aff524ef0f4",
-   "role": null,
-   "rules": 5
-  },
   "workday:gevernova:Vernova_ExternalSite:R5053048": {
    "fingerprint": "fa42f01465cfa275",
    "role": null,
@@ -5391,18 +5386,18 @@
    "role": null,
    "rules": 5
   },
-  "workday:gevernova:Vernova_ExternalSite:R5054630": {
-   "fingerprint": "7a53e8f50a7bf2aa",
-   "role": null,
-   "rules": 5
-  },
   "workday:gevernova:Vernova_ExternalSite:R5057256": {
    "fingerprint": "817b8362552f55d4",
    "role": null,
    "rules": 5
   },
-  "workday:gevernova:Vernova_ExternalSite:R5058809": {
-   "fingerprint": "8639d499191ed35d",
+  "workday:gevernova:Vernova_ExternalSite:R5058853": {
+   "fingerprint": "8d2468a049177831",
+   "role": null,
+   "rules": 5
+  },
+  "workday:gevernova:Vernova_ExternalSite:R5060278": {
+   "fingerprint": "054a058f1b42ab7f",
    "role": null,
    "rules": 5
   },
@@ -5786,7 +5781,7 @@
     "id": "workday:jll:jllcareers:REQ410192",
     "kind": "graduate",
     "kind_reason": "title says \"Graduate Analyst\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -5824,56 +5819,6 @@
   },
   "workday:jll:jllcareers:REQ545672": {
    "fingerprint": "1dd7c7069afaa886",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ545681": {
-   "fingerprint": "3829e058e5845013",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546684": {
-   "fingerprint": "9c12c7bafcfaba67",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546692": {
-   "fingerprint": "3829e058e5845013",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546697": {
-   "fingerprint": "3b5580ef4ff9eb6d",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546699": {
-   "fingerprint": "9c12c7bafcfaba67",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546703": {
-   "fingerprint": "80658ff1d35587b7",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546706": {
-   "fingerprint": "ccef417a18d8286b",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546711": {
-   "fingerprint": "f5f5568128cac2e5",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546712": {
-   "fingerprint": "cfa899cbdda08cb4",
-   "role": null,
-   "rules": 5
-  },
-  "workday:jll:jllcareers:REQ546713": {
-   "fingerprint": "7f6d2f8632cd3b5c",
    "role": null,
    "rules": 5
   },
@@ -5917,7 +5862,7 @@
     "id": "workday:jll:jllcareers:REQ547628",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6603,7 +6548,7 @@
     "id": "workday:mastercard:Campus:R-284922",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6663,7 +6608,7 @@
     "id": "workday:mastercard:Campus:R-285263",
     "kind": "graduate",
     "kind_reason": "title says \"Launch Program\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6732,7 +6677,7 @@
     "id": "workday:mastercard:Campus:R-287598",
     "kind": "internship",
     "kind_reason": "title says \"Summer Internship\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6759,7 +6704,7 @@
    "role": {
     "board": "workday:mastercard:Campus",
     "changed_at": null,
-    "closed_at": null,
+    "closed_at": "2026-11-28T01:54:43+00:00",
     "department": null,
     "elsewhere": 0,
     "employer": "Mastercard",
@@ -6813,7 +6758,7 @@
      "Product management"
     ],
     "slug": "mastercard-product-management-intern-summer-2027-dubai-uae-ua-679e73",
-    "status": "open",
+    "status": "closed",
     "system": "workday",
     "title": "Product Management Intern, Summer 2027",
     "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Dubai-United-Arab-Emirates/Product-Management-Intern--Summer-2027---Dubai--UAE--UAE-Nationals-Preferred-_R-287599"
@@ -6867,7 +6812,7 @@
     "id": "workday:mastercard:Campus:R-287600",
     "kind": "graduate",
     "kind_reason": "title says \"Launch Program\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6933,7 +6878,7 @@
     "id": "workday:mastercard:Campus:R-292816",
     "kind": "graduate",
     "kind_reason": "title says \"Graduate Rotation\"",
-    "last_seen": "2026-11-23T00:47:36+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -6996,7 +6941,7 @@
     "id": "workday:mastercard:CorporateCareers:R-284922",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-27T08:13:06+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7056,7 +7001,7 @@
     "id": "workday:mastercard:CorporateCareers:R-285263",
     "kind": "graduate",
     "kind_reason": "title says \"Launch Program\"",
-    "last_seen": "2026-11-27T08:13:06+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7125,7 +7070,7 @@
     "id": "workday:mastercard:CorporateCareers:R-287598",
     "kind": "internship",
     "kind_reason": "title says \"Summer Internship\"",
-    "last_seen": "2026-11-27T08:13:06+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7260,7 +7205,7 @@
     "id": "workday:mastercard:CorporateCareers:R-287600",
     "kind": "graduate",
     "kind_reason": "title says \"Launch Program\"",
-    "last_seen": "2026-11-27T08:13:06+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7326,7 +7271,7 @@
     "id": "workday:mastercard:CorporateCareers:R-292816",
     "kind": "graduate",
     "kind_reason": "title says \"Graduate Rotation\"",
-    "last_seen": "2026-11-27T08:13:06+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7348,6 +7293,11 @@
    },
    "rules": 5
   },
+  "workday:mastercard:CorporateCareers:R-293170": {
+   "fingerprint": "b7809e8aa357dbd9",
+   "role": null,
+   "rules": 5
+  },
   "workday:mastercard:CorporateCareers:R-293454": {
    "fingerprint": "8a50aa0b9d46d307",
    "role": null,
@@ -7355,11 +7305,6 @@
   },
   "workday:mastercard:CorporateCareers:R-294321": {
    "fingerprint": "bc7fcb6b85241aca",
-   "role": null,
-   "rules": 5
-  },
-  "workday:mastercard:CorporateCareers:R-295685": {
-   "fingerprint": "6926eea7506c7a24",
    "role": null,
    "rules": 5
   },
@@ -7663,7 +7608,7 @@
     "id": "workday:msd:SearchJobs:R416917",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-26T04:57:08+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7743,7 +7688,7 @@
     "id": "workday:msd:SearchJobs:R427679",
     "kind": "internship",
     "kind_reason": "title says \"Intern\"",
-    "last_seen": "2026-11-26T04:57:08+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -7913,7 +7858,7 @@
     "id": "workday:pg:1000:R000160617",
     "kind": "first_job",
     "kind_reason": "asks for \"Experience: 0-1 Years\"",
-    "last_seen": "2026-11-26T15:02:13+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -8259,7 +8204,7 @@
     "id": "workday:salesforce:External_Career_Site:JR336428",
     "kind": "internship",
     "kind_reason": "title says \"Internship\"",
-    "last_seen": "2026-11-27T18:52:38+00:00",
+    "last_seen": "2026-11-28T01:54:43+00:00",
     "places": [
      {
       "emirate": "Dubai",
@@ -8554,7 +8499,17 @@
    "rules": 5
   },
   "workday:visa:Visa:REF090564W": {
-   "fingerprint": "78ff3c51e3d3aa7c",
+   "fingerprint": "9cbd0049f684b731",
+   "role": null,
+   "rules": 5
+  },
+  "workday:visa:Visa:REF090790W": {
+   "fingerprint": "9d32fef7e31d9904",
+   "role": null,
+   "rules": 5
+  },
+  "workday:visa:Visa:REF090791W": {
+   "fingerprint": "3778d0db403abca8",
    "role": null,
    "rules": 5
   }
